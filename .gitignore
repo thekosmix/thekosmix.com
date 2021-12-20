@@ -4,6 +4,8 @@ _site/
 .sass-cache/
 .jekyll-cache
 .jekyll-cache/
+.assets/images
+.assets/images/
 .DS_Store
 *.swp
 Gemfile.lock
