@@ -4,7 +4,7 @@ title: "Life of a Coder"
 description: "Experiences acumulated throughout my professional journey."
 logo: 'assets/images/favicon.ico'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/posts'
+baseurl: ''
 google_analytics: 'UA-42873902-1'
 disqus: 'thekosmix'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
