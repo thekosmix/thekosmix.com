@@ -9,6 +9,10 @@ comments: true
 <div class="col-md-8 pr-5">
 
 <p>The nature is beautiful so are the people. And the places created by both of them are amazing. I will take you to a journey of different places including mountains, rivers, sea-shores, cities, adventures, monuments and much more. stay tuned!!</p>
+<br/>
+<br/>
+
+<p>Thanks to Mediumish-theme-jekyll for creating this theme <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a></p>
 <!--
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 
