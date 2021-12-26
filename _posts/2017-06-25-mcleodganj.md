@@ -9,7 +9,7 @@ rating: 4.5
 My second solo trip to McLeod Ganj, Himachal Pradesh. In 3 days, I was able to cover a lot of places, including Dharmshala, Bhagsunag waterfall, LTWA(Library of Tibetan Works and Archives), Namgyal Monastery, etc. The best thing about solo trip is you can be whatever you want and there’s no one around to judge you. I met with some interesting people and tagged along with them, met my college friends without knowing they would be there at the same time. It’s a story to tell.
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/h9KeaqLTHVc2N89G7"
+  data-link="https://traveltriangle.com/blog/things-to-do-in-mcleodganj/"
   data-title="Snaps during McLeog Ganj trip"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/HYOs819EGRb1SLycVW_L3YBEY8VgGqTiExarIchR3A0XuKHcZtBmj_Pns35xxpEbOgmVYqEqYWRPyKvVnCG_tPgita66g2E-r7kPnf6uunCPdcO-2rCT4ee35W0NuEpa30IRYkWbd6U=w1920-h1080"></object>

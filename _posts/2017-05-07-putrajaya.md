@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Putrajaya, Malasiya"
+title:  "Putrajaya, Malaysia"
 author: sid
 categories: [ Sea, Mountain, Culture ]
 image: assets/images/putrajaya.jpg
@@ -9,8 +9,8 @@ rating: 4
 This was my first foreign trip. Everything was planned and arranged by my friends, I just had to tag along. We were heading for Bali, but had a 7 hours halt in Malasiya, so we thought why not go visit the Smart city of Putajaya and boy, oh boy, it was a marvel to admire!!
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/9R8X3XH6p2WuKT5b8"
-  data-title="Putrajaya, Malasiya"
+  data-link="https://www.tripadvisor.in/Attractions-g298305-Activities-Putrajaya_Wilayah_Persekutuan.html"
+  data-title="Putrajaya, Malaysia"
   data-description="Snaps taken during Putrajaya trip"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/FARlv0mvasN1jeFQ-2Zuwet5eBN9f0LRW9uflxkWoc1WaGxH4bNLyLyDMhy5vfgT3KxUO_g9Y-7SA3FPmhOn8QQZbzPnegxQONlmejq1d-pfwuJ-aFRtLpRtlQ984IzCnn9voaiw2xg=w1920-h1080"></object>

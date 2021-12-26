@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kualalumpur, Malasiya"
+title:  "Kualalumpur, Malaysia"
 author: sid
 categories: [ Architecture, Modern World ]
 image: assets/images/kualalumpur.jpg
@@ -9,8 +9,9 @@ rating: 4
 We visited Kualalumpur while coming back from Bali. Kualalumpur was a lifetime experience to had. The might of Petronas twin tower makes you realise that petroleum is liquid gold. The greenery surrounding KLCC park was just mesmerising. You should also not miss the nearby Masjid Asy-Syakirin KLCC mosque. Almost everywhere they were accepting USD so it was very convinient for us.
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/19fK3XZTVY273TnK6"
-  data-title="Snaps taken during Kualalumpur visit"
+  data-link="https://www.tripadvisor.in/Attractions-g298570-Activities-Kuala_Lumpur_Wilayah_Persekutuan.html"
+  data-title="Kualalumpur, Malaysia"
+  data-description="Snaps taken during Kualalumpur visit"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/OSVi1vXosza5AjCr59PTKf1MAagUpCk9To3OjDksW01J_a0K9DJqVvq37G4w1Habeq5LmK2WRt5_skW4697oh4Brt5gaqhKfb2qqFjxpXXO3sCYAQw4044AX3BRjLtrdPgGuiU87DVg=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/82azmGTnsRTa6LSKyzXr9O7fTvUshN1SshG05dp3Xp8iLhviS_C52nhERS8dxLCIRWAXiQEeZs7E83qHaF9bIxfyWmo0zYPL-6hnYUdLhg4qsLehUyqfIV-d9p0dATfd1M0asbCa5IM=w1920-h1080"></object>

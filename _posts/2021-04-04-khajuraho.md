@@ -14,7 +14,7 @@ When these monuments were built, the boys in the place lived in hermitages, by b
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/dpKzLJSs5vHKdN268"
+  data-link="https://traveltriangle.com/blog/things-to-do-in-khajuraho/"
   data-title="Khajuraho, Madhya Pradesh"
   data-description="Temples of Khajuraho"
   data-delay="3">

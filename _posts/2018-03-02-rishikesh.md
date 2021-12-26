@@ -10,9 +10,9 @@ Rishikesh, also spelt as Hrishikesh, is a city governed by Rishikesh Municipal C
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/BdjzPtAK35x6V8UJ9"
-  data-title="Rishikesh Public"
-  data-description="14 new items · Album by Siddharth Kumar"
+  data-link="https://www.thrillophilia.com/things-to-do-in-rishikesh"
+  data-title="Rishikesh river rafting"
+  data-description="Snaps taken during holi celebration in Rishikesh"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/Hom8AcTRcD74R8GXHYy_kJ8p4KQ__ukF1bs9J_QMxf_Y2EalmTZoG82GGxajbB-d4hOzf3fatENe-4qnzn1KqYx_cjMyOq78M68jJyvxxHW_JBzk1Qn8yoNpqh1B-q5zddnDRpXoAR4=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/wFkW850JUPKdIjOTNRKmPpOy9ZGV3-D7WjGZS-yCRkbOV1dWKnDpMxTeEvUXaepRqDOHuW2ae4Nf9tdfwM25VFYsaU92ziBHxRh-S1zRJCx-y6Ol2zJBkqN6zvewdFwKzBY4DEhYZak=w1920-h1080"></object>
