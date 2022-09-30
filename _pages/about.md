@@ -21,6 +21,9 @@ comments: true
                 <td><img src="assets/images/google-2020.jpg" loading="lazy" width="300" height="300"></td>
                 <td><img src="assets/images/google-2021.jpg" loading="lazy" width="300" height="300"></td>
             </tr>
+            <tr>
+                <td colspan=2 align=centre><img src="assets/images/google-all-time.jpg" loading="lazy" width="300" height="300"></td>
+            </tr>
         </table>
         <br/>
         <p>Thanks to Mediumish-theme-jekyll for creating this theme <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a></p>
