@@ -6,11 +6,14 @@ categories: [ Monuments, Palaces, Royalty ]
 image: assets/images/jaisalmer.jpg
 rating: 4
 ---
-Jaisalmer is a former medieval trading center and a princely state in the western Indian state of Rajasthan, in the heart of the Thar Desert. Known as the "Golden City," it's distinguished by its yellow sandstone architecture. Dominating the skyline is Jaisalmer Fort, a sprawling hilltop citadel buttressed by 99 bastions. Behind its massive walls stand the ornate Maharaja's Palace and intricately carved Jain temples.
+[Jaisalmer](https://www.justwravel.com/package/Jaisalmer-tour) is a former medieval trading center and a princely state in the western Indian state of Rajasthan, in the heart of the Thar Desert. Known as the "Golden City," it's distinguished by its yellow sandstone architecture. Dominating the skyline is Jaisalmer Fort, a sprawling hilltop citadel buttressed by 99 bastions. Behind its massive walls stand the ornate Maharaja's Palace and intricately carved Jain temples.
 
+Jaisalmer is also known as the golden city and the name justifies the places perfectly. The reason for it being called ‘Golden city’ is the yellowish vibes of the places that we come across while we are traveling in the desert or inside a fort or any such activity during our stay at Jaisalmer.
+
+There are a ton of places to visit in Jaisalmer such as Jaisalmer Fort, Patwon ki Haveli Patwa Haveli, Gadisar Lake, Salman Singh ki Haveli, and much more. The best time to visit Jaisalmer is during the months of November to March when the winter season hits up the city and you can feel a cool vibe throughout the desert influenced area.
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.tripadvisor.in/Attractions-g297667-Activities-Jaisalmer_Jaisalmer_District_Rajasthan.html"
+  data-link="https://www.justwravel.com/package/Jaisalmer-tour"
   data-title="Jaisalmer, Rajasthan"
   data-description="Palaces and Jain temples in Jaisalmer"
   data-delay="3">
