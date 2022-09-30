@@ -4,7 +4,7 @@ title:  "Valley of Flowers, Uttarakhand"
 author: sid
 categories: [ Chill, Snow, Mountains, Long trip]
 image: assets/images/vof.jpg
-rating: 5
+rating: 4.5
 ---
 [The Valley of Flowers Trek](https://www.justwravel.com/package/Valley-of-Flower-Trek) is nestled in the vicinity of the Nanda Devi Biosphere Reserve and its multitude of blooming flowers covering the vast expanse of land makes the valley of flowers one of the most beautiful Himalayan treks our country has to offer.
 
