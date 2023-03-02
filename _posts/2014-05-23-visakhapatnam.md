@@ -2,7 +2,7 @@
 layout: post
 title:  "Visakhapatnam, Andhra Pradesh"
 author: sid
-categories: [ Chill, Beach, War memorial ]
+categories: [ Chill, Beach, War Memorial ]
 image: assets/images/vizag.jpg
 rating: 4
 ---
@@ -12,7 +12,7 @@ Visakhapatnam is a coastal city in Andhra Pradesh and an important port city in 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://traveltriangle.com/blog/things-to-do-in-visakhapatnam/"
   data-title="Visakhapatnam, Andhra Pradesh"
-  data-description="Chill, Beach, War memorial"
+  data-description="Chill, Beach, War Memorial"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/Z0NGW-Uo2pmPCXDucyP5VUV8Mj4QqszHUMFfUaSrg19fj-oVy-F_pUaWlT16Vcbe7CIx_Pfu_VsLmqoz5tSJQ3S3-flOSTU7O0u1uZH4cEAFdcnHDqJui5OeBubM73b-UCKI63DdpYU=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/240hxhwU5P5iBOFhcHJrlCw9qZWx1d1SZyNlcYAsYnOapL1pgUtlIO1v2kOfnNwscCYdsuSGPW1GfAILXi1P22EHwlaSLldUpTFIjsD3sC6IPdFccZuQzFKMGH6ip9nUbJqLFJSJN3c=w1920-h1080"></object>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Cherrapunji, Meghalaya"
 author: sid
-categories: [Rain, nature, resort]
+categories: [Rain, Nature, resort]
 image: assets/images/cherrapunji.jpg
 rating: 4
 ---
@@ -14,7 +14,7 @@ The misty valleys and the waterfalls in the region make a long drive through Che
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/package/Backpackers-trip-to-Meghalaya"
   data-title="Cherrapunji, Meghalaya"
-  data-description="Rain, nature, resort"
+  data-description="Rain, Nature, resort"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/rj4iG2ySgREO8O0GeIqt9LtEBxUjnB0QL4Fy7TxMAY70TosD7EwZzfFQILS6i4lpDYDCWEbQGyH949vXe2BCqzhScBl0h4dV2_lRfdVtudaXJ_FXdvs-1wLHuAuk-6nEqpL_b4-065M=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/HvVThBkF9-JXw-li8hJtk-t71dBhEWDbenNT0f8V2UjkzGJsRDyaU-R0TymLWTuVFE-tr4b_cZQGjAoq0OQfQfRerjtYG8_Swdo6gA9ysU9tv-gaJzzu0T5Hxqin9ceUs6_2ph10124=w1920-h1080"></object>

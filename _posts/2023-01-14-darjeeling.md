@@ -2,7 +2,7 @@
 layout: post
 title:  "Darjeeling, West Bengal"
 author: sid
-categories: [Heritage, Hill station, Tea garden]
+categories: [Heritage, Hill Station, Tea Garden]
 image: assets/images/darjeeling.jpg
 rating: 4
 ---
@@ -20,7 +20,7 @@ The third highest peak in the world and the highest in India, the Kanchenjunga p
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/package/4-Night-5-Days-Darjeeling-Kalimpong-Tour"
   data-title="Darjeeling, West Bengal"
-  data-description="Heritage, Hill station, Tea garden"
+  data-description="Heritage, Hill Station, Tea Garden"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/gCj3Xkh53eSvKmbqn_txZq04VZrJpYi4b7v_Az_G7lGhQPcNyL7YILV-yIlk_nprpIvWjDCDPIGqWznybpneql_mdQmux3zr3fk6fEQ3b1Y2WuTjeYz0NJdeElAYF1ELaoweO7l8r7I=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/PmrQS_aH3ssYRCXn4iOc-fiTiR-HXWfdNKGnRaNpb-Yb7VGBP9Kuf6pxFHa8DOnIFFIpNlZsbM2O8-ULBlr7V4rFATqPJU2Z1YGC4QOJyS3UsDZbqMg_ZIeZIU0kQVqJGsncgXRE_AM=w1920-h1080"></object>
