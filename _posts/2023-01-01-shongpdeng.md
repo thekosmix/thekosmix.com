@@ -6,9 +6,12 @@ categories: [River, Road Trip, Camping, Water Sports]
 image: assets/images/shnongpdeng.jpg
 rating: 4
 ---
+Shnongpdeng is a small village located in the East Khasi Hills district of Meghalaya, India. It is known for its picturesque landscape, its stunning waterfalls, and its unique culture. The village is home to a number of tourist attractions, such as the Shnongpdeng Monoliths, the Shnongpdeng Viewpoint, and the Shnongpdeng Waterfalls. Additionally, the village is home to a number of religious sites, such as the Shnongpdeng Sacred Forest and the Shnongpdeng Temple. Additionally, the village is home to a number of adventure activities, such as trekking, rock climbing, and mountain biking. Additionally, the village is home to a number of cultural attractions, such as the Shnongpdeng Arts and Crafts Centre and the Shnongpdeng Heritage Museum. The village is also home to a number of educational institutions, such as the Shnongpdeng College and the Shnongpdeng Institute of Technology.
+
 Shnongpdeng is an adventure destination with several activities being hosted in the vicinity there. Serving as a border for India from Bangladesh, the Umngot river is one of the main attractions and source of the water activities that are held there. Float on top of the crystal clear river and listen to the water soothingly flow to Bangladesh. Plan an overnight trip with your friends and let nature sink in into you while you enjoy a pleasant stay at the riverside camping site.
 
 Shnongpdeng Village is 8 km north of Dawki along the winding Umngot. With waters so clear, you can peer into the bottom and count the stones – that is how the Umngot River can be described during the peak pre-monsoon, autumn, and winter seasons. Whether you want to enjoy a gentle boat ride through a stretch flanked by forests or you want to take a dip into the river in scuba gear, the activities in Shnongpdeng will keep you occupied for days.
+
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/package/Backpackers-trip-to-Meghalaya"
