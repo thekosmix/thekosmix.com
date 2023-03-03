@@ -6,10 +6,11 @@ categories: [ Temple, Religious, River ]
 image: assets/images/vrindavan.jpg
 rating: 4
 ---
-Vrindavan is said to be a major part of Lord Krishna’s childhood. It was here that Lord Krishna and Goddess Radha’s love story bloomed, and all the stories of the notorious side of the Lord with Gopis were based on.
+Vrindavan is said to be a major part of Lord Krishna’s childhood. It was here that Lord Krishna and Goddess Radha’s love story bloomed, and all the stories of the notorious side of the Lord with Gopis were based on. Vrindavan, a destination that is more than just being any other geographic location, has stolen the hearts of many. With an essence of spirituality encircling this holy town, Vrindavan is one of its kind. Dozens of temples, constructed in all shapes and sizes, can be seen covering the floors.
 
-Vrindavan, a destination that is more than just being any other geographic location, has stolen the hearts of many. With an essence of spirituality encircling this holy town, Vrindavan is one of its kind. Dozens of temples, constructed in all shapes and sizes, can be seen covering the floors.
+Vrindavan is a holy town in the Mathura district of Uttar Pradesh, India. It is located on the banks of the Yamuna River, and is considered to be one of the holiest cities in Hinduism. Vrindavan is home to a number of temples, including the Banke Bihari Temple, the ISKCON Temple, and the Radha Raman Temple. The town is also home to a number of ashrams, such as the Radha Madhav Ashram and the Radha Gopinath Ashram. Vrindavan is also known for its vibrant culture, with a number of festivals and events taking place throughout the year. The town is also home to a number of markets, such as the Vrindavan Market and the Radha Kund Market, where visitors can find a variety of traditional handicrafts and souvenirs.
 
+Vrindavan is home to a number of festivals throughout the year, such as the Holi Festival, the Janmashtami Festival, and the Radha Ashtami Festival. The town is also home to a number of cultural events, such as the Vrindavan Music Festival and the Vrindavan Dance Festival. Vrindavan is also home to a number of art galleries, such as the Vrindavan Art Gallery and the Radha Krishna Art Gallery. The town is also home to a number of museums, such as the Vrindavan Museum and the Radha Krishna Museum. Vrindavan is also home to a number of parks, such as the Vrindavan Garden and the Radha Krishna Park.
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"

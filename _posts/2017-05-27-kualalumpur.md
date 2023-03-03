@@ -8,6 +8,13 @@ rating: 4
 ---
 We visited Kualalumpur while coming back from Bali. Kualalumpur was a lifetime experience to had. The might of Petronas twin tower makes you realise that petroleum is liquid gold. The greenery surrounding KLCC park was just mesmerising. You should also not miss the nearby Masjid Asy-Syakirin KLCC mosque. Almost everywhere they were accepting USD so it was very convinient for us.
 
+Kuala Lumpur is the capital of Malaysia and is one of the most vibrant cities in Southeast Asia. It is a bustling metropolis with a mix of modern skyscrapers and traditional architecture. Kuala Lumpur is home to a number of attractions, such as the Petronas Twin Towers, the Kuala Lumpur Tower, and the Batu Caves. Kuala Lumpur is also home to a number of shopping malls, such as the Suria KLCC and the Pavilion Kuala Lumpur. Kuala Lumpur is also home to a number of cultural attractions, such as the National Museum and the Islamic Arts Museum. Kuala Lumpur is also home to a number of parks, such as the Lake Gardens and the Bukit Nanas Forest Reserve. Kuala Lumpur is also home to a number of nightlife venues, such as the Changkat Bukit Bintang and the Zouk Club.
+
+Kuala Lumpur is also home to a number of cultural attractions, such as the National Mosque, the National Monument, and the Islamic Arts Museum. Kuala Lumpur is also home to a number of parks, such as the Lake Gardens and the Bukit Nanas Forest Reserve. Kuala Lumpur is also home to a number of nightlife venues, such as the Changkat Bukit Bintang and the Zouk Club. Kuala Lumpur is also home to a number of shopping malls, such as the Suria KLCC and the Pavilion Kuala Lumpur. Kuala Lumpur is also home to a number of cultural events, such as the Kuala Lumpur International Arts Festival and the Kuala Lumpur International Film Festival.
+
+Kuala Lumpur is also home to a number of cultural events, such as the Kuala Lumpur International Arts Festival and the Kuala Lumpur International Film Festival. The city also hosts a number of international sporting events, such as the Formula One Grand Prix and the Malaysian Open golf tournament. Kuala Lumpur is also home to a number of universities, such as the University of Malaya and the International Islamic University Malaysia. The city is also home to a number of religious sites, such as the Masjid Jamek and the National Mosque.
+
+
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.tripadvisor.in/Attractions-g298570-Activities-Kuala_Lumpur_Wilayah_Persekutuan.html"
   data-title="Kualalumpur, Malaysia"

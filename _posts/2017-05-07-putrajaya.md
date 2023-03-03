@@ -8,6 +8,11 @@ rating: 4
 ---
 This was my first foreign trip. Everything was planned and arranged by my friends, I just had to tag along. We were heading for Bali, but had a 7 hours halt in Malasiya, so we thought why not go visit the Smart city of Putajaya and boy, oh boy, it was a marvel to admire!!
 
+Putrajaya is the federal administrative center of Malaysia. Located 25 kilometers south of Kuala Lumpur, Putrajaya is a planned city that was built in the late 1990s to serve as the new administrative center of the Malaysian government. The city is home to a number of government buildings, including the Prime Minister's Office, the Ministry of Finance, and the Supreme Court. Putrajaya is also home to a number of parks and gardens, such as the Putrajaya Botanical Gardens and the Putrajaya Lake Gardens. The city is also home to a number of monuments and landmarks, such as the Putra Mosque and the Putrajaya Bridge. Putrajaya is also home to a number of shopping malls, restaurants, and hotels.
+
+Putrajaya is home to a number of government buildings, such as the Prime Minister's Office, the Ministry of Finance, and the Supreme Court. The city is also home to a number of monuments and landmarks, such as the Putra Mosque and the Putrajaya Bridge. Putrajaya is also home to a number of parks and gardens, such as the Putrajaya Botanical Gardens and the Putrajaya Lake Gardens. The city is also home to a number of shopping malls, restaurants, and hotels. Putrajaya is also home to a number of cultural events, such as the Putrajaya International Arts Festival and the Putrajaya International Hot Air Balloon Fiesta.
+
+
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.tripadvisor.in/Attractions-g298305-Activities-Putrajaya_Wilayah_Persekutuan.html"
   data-title="Putrajaya, Malaysia"
