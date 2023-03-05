@@ -8,7 +8,11 @@ rating: 4
 ---
 [Dhanaulti](https://www.justwravel.com/package/3-Night-4-Days-Mussoorie-Dhanaulti-Tour-Package) is a small town near Mussoorie, beautifully nestled amid the lofty Himalayan peaks. It can be a destination in itself, but it’s more of a serene pit stop for travellers heading for longer journeys or leisure Uttarakhand holiday. Thus, places to visit in Dhanaulti are not any grand attractions, but small and beautiful places that offer solitude and peace, close to nature.
 
+Dhanaulti is a small hill station located in the Tehri Garhwal district of Uttarakhand, India. It is situated at an altitude of 2286 meters above sea level and is surrounded by thick forests of deodar and oak. It is a popular tourist destination due to its picturesque views of the snow-capped Himalayan peaks, lush green valleys, and peaceful environment. Dhanaulti is also known for its eco-friendly tourist attractions such as the Eco Park, which is a great place for nature lovers. Other attractions include the Surkanda Devi Temple, the Dhanaulti Adventure Park, and the Dhanaulti Tea Estate. Dhanaulti is also a great place for adventure activities such as trekking, camping, and paragliding.
+
 Located at an altitude of 2286 m and away from the city hustle-bustle, Dhanaulti offers a range of serene places for sightseeing and absolute relaxation. Devoid of fancy hotels and modern cafe-style eateries, this is the place if you are seeking a weekend of privacy in the hills.
+
+Dhanaulti is a great destination for nature lovers, offering stunning views of the snow-capped Himalayan peaks, lush green valleys, and peaceful environment. It is also a great place for adventure activities such as trekking, camping, and paragliding. The Eco Park is a great place to explore the local flora and fauna, while the Dhanaulti Adventure Park offers a variety of activities such as zip-lining, rock climbing, and rappelling. The Surkanda Devi Temple is a popular pilgrimage site, and the Dhanaulti Tea Estate is a great place to learn about the local tea-making process. Dhanaulti also offers a variety of accommodation options, ranging from budget hotels to luxury resorts.
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"

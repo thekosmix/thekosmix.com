@@ -12,9 +12,11 @@ Stretched to an expanse of 87.5 square kilometers with an altitude of 14,200 ft,
 
 Being one of the oldest known treks, The valley of flower trek came on every trekker's radar all over the world when it was declared a world heritage site by UNESCO in 2002. The valley is home to more than 520 species of flowers that come together to form a tapestry of colors in front of you with dominating shades of pink, blue and purple. The valley of flowers national park is located in the Chamoli district of Uttarakhand and along with being home to a diverse range of flora, it is also home to many endangered animals including snow leopards and red foxes. 
 
-Nestled at an altitude of approx 12,000ft, The Valley of Flower National park along with Nanda Devi National park come together to form a transition zone between the mighty Himalayas and the Zanskar range of mountains.
+Nestled at an altitude of approx 12,000ft, The Valley of Flower National park along with Nanda Devi National park come together to form a transition zone between the mighty Himalayas and the Zanskar range of mountains. The park is open from June to October and offers a variety of activities such as nature walks, bird watching, and photography.
 
 The valley of flowers trek comes under the easy to moderate category when it comes to grading the difficulty level and is considered to be a perfect trek for beginners and even a great trek for families. The hardest climb is the one to Hemkund Sahib Gurudwara which is the highest Gurudwara in the world and one of the most important pilgrim sites in Uttarakhand. 
+
+Valley of Flowers is a national park located in the Chamoli district of Uttarakhand, India. It is situated at an altitude of 3,600 meters above sea level and is surrounded by the majestic Himalayan peaks. It is a popular tourist destination due to its picturesque views of the snow-capped mountains, lush green valleys, and colorful meadows of wildflowers. The Valley of Flowers is home to a variety of rare and endangered species of flora and fauna, including the Asiatic black bear, snow leopard, musk deer, and blue poppy. It is also a great place for trekking, camping, and bird watching. The Valley of Flowers is also a UNESCO World Heritage Site.
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"

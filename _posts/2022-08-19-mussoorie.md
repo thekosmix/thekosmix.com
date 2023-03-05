@@ -10,6 +10,10 @@ rating: 5
 
 In addition to the cool temperatures, this Uttarakhand town offers walks in the fresh mountain air, bathing options in the cool waterfalls, shopping handicrafts and clothing at the antique shops. A lot can be said about Mussoorie, but words fall short to describe this stunning city set in the midst of the Himalayas. Mussoorie is a famous hill station located in the foothills of the Garhwal Himalayan Range. Once you reach Mussoorie in the evening, head towards Mall Road, which is the city’s most famous place and the hub for the shopping and all the famous eateries.
 
+Mussoorie is a hill station located in the Dehradun district of Uttarakhand, India. It is situated at an altitude of 2000 meters above sea level and is surrounded by the majestic Himalayan peaks. It is a popular tourist destination due to its picturesque views of the snow-capped mountains, lush green valleys, and peaceful environment. Mussoorie is also known for its eco-friendly tourist attractions such as the Kempty Falls, the Gun Hill, and the Camel’s Back Road. 
+
+Other attractions include the Mall Road, the Jwalaji Temple, and the Mussoorie Lake. Mussoorie is also a great place for adventure activities such as trekking, camping, and paragliding. The city also offers a variety of accommodation options, ranging from budget hotels to luxury resorts.
+
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/package/3-Night-4-Days-Mussoorie-Dhanaulti-Tour-Package"
