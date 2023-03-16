@@ -10,6 +10,8 @@ Pattaya is a popular beach resort city located on the east coast of the Gulf of 
 
 Pattaya is home to a number of attractions, such as the Pattaya Floating Market, the Underwater World Pattaya, and the Pattaya Elephant Village. Additionally, the city is home to a number of water parks, such as the Cartoon Network Amazone and the Ramayana Water Park. Pattaya is also home to a number of temples, such as the Wat Phra Yai and the Wat Chai Mongkon. Additionally, the city is home to a number of museums, such as the Ripley's Believe It or Not Museum and the Art in Paradise 3D Museum. Additionally, the city is home to a number of golf courses, such as the Laem Chabang International Country Club and the Siam Country Club.
 
+<h2>Things to do in Pattaya</h2>
+
 Pattaya is also home to a number of water sports activities, such as jet skiing, parasailing, and banana boat rides. Additionally, the city is home to a number of amusement parks, such as the Pattaya Park Beach and the Pattaya Water Park. Additionally, the city is home to a number of festivals, such as the Pattaya International Music Festival and the Pattaya International Fireworks Festival. Additionally, the city is home to a number of cultural events, such as the Pattaya International Cultural Festival and the Pattaya International Film Festival.
 
 You can find a lot of things to do, even a week will be less for pattaya. From magic shows to Cabret, from one of the biggest mall (Terminal-21) to night market, from floating market built on water body to walkin aquariams, from sports activities on beaches in day to dance shows in night, you can find anything and everything here.

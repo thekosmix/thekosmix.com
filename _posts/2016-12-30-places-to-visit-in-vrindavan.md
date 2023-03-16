@@ -10,6 +10,8 @@ Vrindavan is said to be a major part of Lord Krishna’s childhood. It was here 
 
 Vrindavan is a holy town in the Mathura district of Uttar Pradesh, India. It is located on the banks of the Yamuna River, and is considered to be one of the holiest cities in Hinduism. Vrindavan is home to a number of temples, including the Banke Bihari Temple, the ISKCON Temple, and the Radha Raman Temple. The town is also home to a number of ashrams, such as the Radha Madhav Ashram and the Radha Gopinath Ashram. Vrindavan is also known for its vibrant culture, with a number of festivals and events taking place throughout the year. The town is also home to a number of markets, such as the Vrindavan Market and the Radha Kund Market, where visitors can find a variety of traditional handicrafts and souvenirs.
 
+<h2>Things to do in Vrindavan</h2>
+
 Vrindavan is home to a number of festivals throughout the year, such as the Holi Festival, the Janmashtami Festival, and the Radha Ashtami Festival. The town is also home to a number of cultural events, such as the Vrindavan Music Festival and the Vrindavan Dance Festival. Vrindavan is also home to a number of art galleries, such as the Vrindavan Art Gallery and the Radha Krishna Art Gallery. The town is also home to a number of museums, such as the Vrindavan Museum and the Radha Krishna Museum. Vrindavan is also home to a number of parks, such as the Vrindavan Garden and the Radha Krishna Park.
 
 

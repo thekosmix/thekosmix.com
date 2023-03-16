@@ -10,6 +10,8 @@ Jaipur is the capital and the largest city of the Indian state of Rajasthan. It 
 
 Jaipur is a popular tourist destination in India and forms a part of the west Golden Triangle tourist circuit along with Delhi and Agra. It also serves as a gateway to other tourist destinations in Rajasthan such as Jodhpur, Jaisalmer, Udaipur and Mount Abu. 
 
+<h2>Things to do in Jaipur</h2>
+
 Jaipur is the capital of the Indian state of Rajasthan. It is known for its rich cultural heritage and is home to a number of historical monuments, such as the City Palace, the Hawa Mahal, and the Amber Fort. Additionally, the city is home to a number of parks and gardens, such as the Central Park and the Albert Hall Museum. Jaipur is also home to a number of educational institutions, such as the University of Rajasthan and the Indian Institute of Technology. Additionally, the city is home to a number of religious sites, such as the Birla Mandir and the Govind Dev Ji Temple. Additionally, the city is home to a number of shopping centers, such as the Johari Bazaar and the Tripolia Bazaar.
 
 Jaipur is home to a number of tourist attractions, such as the City Palace, the Hawa Mahal, the Amber Fort, the Central Park, the Albert Hall Museum, the Birla Mandir, the Govind Dev Ji Temple, the Johari Bazaar, the Tripolia Bazaar, the Jantar Mantar, and the Jaigarh Fort. Additionally, the city is home to a number of parks and gardens, such as the Sisodia Rani Ka Bagh and the Vidyadhar Garden. Additionally, the city is home to a number of religious sites, such as the Galtaji Temple and the Moti Dungri Ganesh Temple. Additionally, the city is home to a number of shopping centers, such as the Raj Mandir and the World Trade Park.

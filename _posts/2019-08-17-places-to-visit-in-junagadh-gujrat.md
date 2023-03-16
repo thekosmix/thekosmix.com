@@ -10,6 +10,8 @@ Junagadh is a city in the western Indian state of Gujarat. Mahabat Maqbara is th
 
 Junagadh is a city located in the Indian state of Gujarat. It is known for its rich cultural heritage and is home to a number of historical monuments, such as the Uparkot Fort, the Mahabat Maqbara, and the Girnar Temple. Additionally, the city is home to a number of parks and gardens, such as the Sakkarbaug Zoo and the Adi Kadi Vav. Junagadh is also home to a number of educational institutions, such as the Junagadh Agricultural University and the Saurashtra University. Additionally, the city is home to a number of religious sites, such as the Bhavnath Temple and the Swaminarayan Temple.
 
+<h2>Things to do in Junagadh</h2>
+
 Junagadh is home to a number of attractions, such as the Uparkot Fort, the Mahabat Maqbara, and the Girnar Temple. Additionally, the city is home to a number of parks and gardens, such as the Sakkarbaug Zoo and the Adi Kadi Vav. Junagadh is also home to a number of educational institutions, such as the Junagadh Agricultural University and the Saurashtra University. Additionally, the city is home to a number of religious sites, such as the Bhavnath Temple and the Swaminarayan Temple. Additionally, the city is home to a number of museums, such as the Junagadh Museum and the Uparkot Museum. Additionally, the city is home to a number of shopping centers, such as the Junagadh Shopping Mall and the Junagadh Bazaar.
 
 

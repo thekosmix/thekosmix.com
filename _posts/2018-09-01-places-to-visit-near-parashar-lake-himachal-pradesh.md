@@ -8,7 +8,7 @@ rating: 5
 ---
 Sage Prashar is the reason Prashar Lake got its name ages ago. One visits this quintessential lake will be unknowingly directed to oblivion and for sure the serenity will let every visitor linger for more. Located in Mandi village, Himachal Pradesh, the iconic attraction apart from the lake is the three stories pagoda like temple structure near the lake. 2730 meters above the lake seats amidst the rejuvenating sets of nature’s miracles including the snow-clad peaks in the backdrop and River Beas flowing so fast through the valley down. One can get access to the lake through Drang. The age of temple lengthens back to 13th century and the lake has one more surprise within it that is a floating island. Though visitors are seen in plenty over here, no one could accurately fathom the depth the lake goes into, till date.
 
-<h2>Things to Do in Parashar Lake</h2>
+<h2>Things to do in Parashar Lake</h2>
 
 Parashar Lake is a high-altitude lake located in the Mandi district of Himachal Pradesh. It is situated at an altitude of 2730 meters and is surrounded by lush green meadows and snow-capped mountains. The lake is named after the sage Parashar, who is said to have meditated here. The lake is a popular destination for trekkers and nature lovers, as it offers stunning views of the surrounding mountains and valleys. 
 

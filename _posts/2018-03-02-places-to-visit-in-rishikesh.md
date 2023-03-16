@@ -10,7 +10,7 @@ Rishikesh, also spelt as Hrishikesh, is a city governed by Rishikesh Municipal C
 
 Rishikesh is a city in the northern Indian state of Uttarakhand. It is located on the banks of the Ganges River and is known as the 'Yoga Capital of the World'. Rishikesh is a popular destination for adventure activities such as white water rafting, bungee jumping, and rock climbing. The city is also home to a number of temples and ashrams, making it a popular pilgrimage destination. Rishikesh is also home to a number of tourist attractions, such as the Lakshman Jhula, the Neelkanth Mahadev Temple, and the Ram Jhula. 
 
-<h2>Things to Do in Rishikesh</h2>
+<h2>Things to do in Rishikesh</h2>
 
 The city is also home to a number of restaurants and cafes, offering a variety of cuisines. Rishikesh is also home to a number of shopping centers, offering a variety of local handicrafts and souvenirs. Additionally, Rishikesh is home to a number of yoga and meditation centers, offering a variety of courses and retreats. The city is also home to a number of adventure activities, such as trekking, camping, and kayaking. Rishikesh is also home to a number of festivals and events throughout the year, such as the International Yoga Festival and the Kumbh Mela.
 

@@ -12,6 +12,8 @@ The Gir National Park, located about 60 km. from Junagadh in the Saurashtra regi
 
 Most of the area is rugged hills, with high ridges and densely forested valleys, wide grassland plateaus, and isolated hilltops. There are also areas of the park with open scrub and savannah-type grassland. This variety of vegetation provides for a huge array of animals. 
 
+<h2>Things to do in Sasan Gir</h2>
+
 Along with the famous Lions, other animals and reptiles in the park include the chital (Indian spotted deer), sambar, chinkara, blackbuck, leopard, jungle cat, langur, striped hyena, wild boar, grey musk shrews, marsh crocodiles, Russell’s viper, Indian rock python and monitor lizard.  Gir is also home to over 300 species of birds, many of which can be seen year-round – the Malabar whistling thrush, Paradise flycatcher, crested serpent eagle, king vulture, pelicans, painted storks to name a few.
 
 Sasan Gir, with a forest rest house, is the main centre of the National Park. There is a Gir Interpretation Zone, at Devalia, 12 km west of Sasan Gir, which has been established as an eco-tourism zone to reduce an overload of visitors to the Gir national Park and to provide an experience of the wildlife of Gir at a single place and in a safe habitat.

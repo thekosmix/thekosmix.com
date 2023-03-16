@@ -10,7 +10,7 @@ I visited Chitkul at the start of April. The temperature over there was in range
 
 Everything was frozen over there, the water in taps, the drinking water, everything. The lodge owner had to heat the water to make it usable even for morning routines. Next day on Sunday we did a little hiking, reached near Indian Army Post, talked to the few officers over there and took few photos with them. We started hiking back to the lodge and went to other side of Baspa River to enjoy the snow. Finally, we reached the lodge, enjoyed a camp fire and hot maggi. Next day on Monday, we started heading back for Shimla, had brunch at “The last restaurant of Hindustan (आखरी ढाबा)” and reached Shimla by night, boarded a bus to Delhi the next morning.
 
-<h2>Things to Do in Chitkul</h2>
+<h2>Things to do in Chitkul</h2>
 
 Chitkul is a small village located in the Kinnaur district of Himachal Pradesh. It is situated at an altitude of 3,450 meters and is the last inhabited village on the India-Tibet border. Chitkul is known for its picturesque views of the Himalayas and its traditional Kinnauri culture. The village is home to a number of temples, including the Bering Nag Temple and the Mata Bering Nag Temple. Chitkul is also home to a number of adventure activities, such as trekking, camping, and paragliding. 
 

@@ -10,7 +10,9 @@ Indore is the largest city in the state of Madhya Pradesh, India. It is located 
 
 Indore is a city in west-central India. It’s known for the 7-story Rajwada Palace and the Lal Baag Palace, which date back to Indore’s 19th-century Holkar dynasty. The Holkar rulers are honored by a cluster of tombs and cenotaphs at Chhatri Baag. The night market Sarafa Bazar sells street food. East is the Indo-Gothic Gandhi Hall and clock tower. The Jain temple Kanch Mandir has a mirrored mosaic interior.
 
-In "Chhappan Dukaan" market, you'll get to witness the real taste of street foods. IT ranges from variety of Paans including actual golden Paan, fire paan to name a few. You'll get Gol-Gappas with different water with a maximum of 12 different taste water.
+<h2>Things to do in Indore</h2>
+
+In "Chhappan Dukaan" market, you'll get to witness the real taste of street foods. It ranges from variety of Paans including actual golden Paan, fire paan to name a few. You'll get Gol-Gappas with different water with a maximum of 12 different taste water.
 
 Indore is home to a number of educational institutions, including the Indian Institute of Technology, the Indian Institute of Management, and the Devi Ahilya Vishwavidyalaya. The city is also home to a number of other attractions, such as the Lal Bagh Palace, the Rajwada Palace, and the Kanch Mandir. The city is also home to a number of other activities, such as shopping, dining, and entertainment. The city is also home to a number of other festivals, such as the Indore Utsav, the Ganesh Utsav, and the Kite Festival. Indore is also home to a number of other attractions, such as the Chokhi Dhani, the Indore Zoo, and the Central Museum.
 
