@@ -10,6 +10,8 @@ I was in Delhi, working till late night. Suddenly, I heard knocks on my door at 
 
 Agra is a city in the northern Indian state of Uttar Pradesh. It is home to the iconic Taj Mahal, a mausoleum built for the Mughal emperor Shah Jahan’s wife, Mumtaz Mahal. It is also home to Agra Fort, a walled city dating back to the 16th century. Other attractions in Agra include the Itimad-ud-Daulah, a Mughal mausoleum, and the Jama Masjid, a large mosque. Agra is also known for its traditional cuisine, such as Petha, a sweet made from pumpkin, and Dal Moth, a spicy lentil dish. Agra is also home to a number of shopping markets, such as Sadar Bazaar and Kinari Bazaar, where visitors can find a variety of traditional handicrafts and souvenirs.
 
+<h2>Things to do in Agra</h2>
+
 Agra is also home to a number of cultural attractions, such as the Agra Art Gallery and the Agra Cultural Centre. The city is also home to a number of museums, such as the Taj Mahal Museum, the Agra Museum, and the Mughal Museum. Agra is also known for its vibrant nightlife, with a number of bars, pubs, and restaurants offering a variety of cuisines. The city is also home to a number of festivals, such as the Taj Mahotsav, which celebrates the city’s Mughal heritage, and the Kailash Fair, which celebrates the Hindu god Shiva. Agra is also home to a number of religious sites, such as the Akbar’s Tomb, the Mankameshwar Temple, and the Guru Ka Tal.
 
 

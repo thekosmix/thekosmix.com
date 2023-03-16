@@ -8,6 +8,8 @@ rating: 4
 ---
 This was just one-day trip from Delhi. We arrived early in the morning at Kathgodam railway station ~36KMs away from Nainital and started heading towards it with a on-spot booked cab.
 
+<h2>Places to visit in Nainital</h2>
+
 Nainital is a hill station in the northern Indian state of Uttarakhand. It is located in the Kumaon region of the Himalayas, and is surrounded by mountains and lakes. The town is known for its picturesque views, and is a popular tourist destination. Nainital is home to a number of attractions, such as Naini Lake, which is the town’s main lake, and Naina Devi Temple, which is a Hindu temple dedicated to the goddess Naina Devi. Other attractions in Nainital include the Nainital Zoo, the Nainital Ropeway, and the Nainital Botanical Garden. The town is also home to a number of shopping markets, such as Mall Road and Bara Bazaar, where visitors can find a variety of traditional handicrafts and souvenirs. Nainital is also known for its vibrant nightlife, with a number of bars, pubs, and restaurants offering a variety of cuisines. The town is also home to a number of festivals, such as the Nainital Winter Festival and the Nainital Summer Festival.
 
 Nainital is also home to a number of adventure activities, such as trekking, paragliding, and rock climbing. The town is also home to a number of wildlife sanctuaries, such as the Corbett National Park, the Rajaji National Park, and the Nainital Wildlife Sanctuary. Nainital is also home to a number of educational institutions, such as the Nainital University, the Kumaun University, and the Uttarakhand Open University. The town is also home to a number of religious sites, such as the Naina Devi Temple, the Hanuman Garhi Temple, and the Gurdwara Reetha Sahib.
