@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spiti, Himachal Pradesh"
+title:  "Spiti Valley, Himachal Pradesh"
 author: sid
 categories: [ Chill, Long Drive, Mountains, Snow, Long trip]
 image: assets/images/spiti.jpg
