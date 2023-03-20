@@ -9,7 +9,7 @@ hidden: true
 rating: 4
 ---
 
-Travel Triangle is a marketplace for local tour and travels comapnies. I use [Travel Triangle](https://traveltriangle.com/) to travel places only when:
+Travel Triangle is a marketplace for local tour and travels companies. I use [Travel Triangle](https://traveltriangle.com/) to travel places only when:
 1. The place is not covered by [JustWravel](https://www.justwravel.com/).
 2. I don't want hassle of planning the entire trip by myself.
 3. I want personalised package for a family trip.

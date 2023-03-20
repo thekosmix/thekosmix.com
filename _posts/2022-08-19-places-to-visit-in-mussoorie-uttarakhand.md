@@ -14,6 +14,13 @@ Mussoorie is a hill station located in the Dehradun district of Uttarakhand, Ind
 
 Other attractions include the Mall Road, the Jwalaji Temple, and the Mussoorie Lake. Mussoorie is also a great place for adventure activities such as trekking, camping, and paragliding. The city also offers a variety of accommodation options, ranging from budget hotels to luxury resorts.
 
+<h2>things to do in Mussoorie</h2>
+1. Hiking: Mussoorie is a great place for hiking, with trails ranging from easy to difficult.
+2. Shopping: Mussoorie is home to a variety of shops and markets, making it a great place to shop for souvenirs and local goods.
+3. Sightseeing: Mussoorie is home to a variety of attractions, including Kempty Falls, Gun Hill, and the Mussoorie Lake.
+4. Adventure Sports: Mussoorie is a great place for adventure sports, such as paragliding, rock climbing, and zip-lining.
+5. Boating: Mussoorie Lake is a great place to go boating and enjoy the stunning views of the surrounding mountains.
+
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/package/3-Night-4-Days-Mussoorie-Dhanaulti-Tour-Package"

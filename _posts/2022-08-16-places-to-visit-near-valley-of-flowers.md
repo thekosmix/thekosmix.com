@@ -18,6 +18,13 @@ The valley of flowers trek comes under the easy to moderate category when it com
 
 Valley of Flowers is a national park located in the Chamoli district of Uttarakhand, India. It is situated at an altitude of 3,600 meters above sea level and is surrounded by the majestic Himalayan peaks. It is a popular tourist destination due to its picturesque views of the snow-capped mountains, lush green valleys, and colorful meadows of wildflowers. The Valley of Flowers is home to a variety of rare and endangered species of flora and fauna, including the Asiatic black bear, snow leopard, musk deer, and blue poppy. It is also a great place for trekking, camping, and bird watching. The Valley of Flowers is also a UNESCO World Heritage Site.
 
+<h2>Things to do near Valley of Flowers</h2>
+1. Trekking: The Valley of Flowers is a great place for trekking, with trails ranging from easy to difficult.
+2. Bird Watching: The Valley of Flowers is home to a variety of birds, making it a great spot for bird watching.
+3. Photography: The Valley of Flowers is a great place to take stunning photos of the beautiful landscape.
+4. Rafting: The nearby Alaknanda River offers great opportunities for rafting and other water sports.
+5. Sightseeing: The Valley of Flowers is home to a variety of flora and fauna, making it a great place to explore and sightsee.
+
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/package/Valley-of-Flower-Trek"

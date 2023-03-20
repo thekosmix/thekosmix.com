@@ -12,6 +12,13 @@ Guwahati is the largest city in the Indian state of Assam. It is located on the 
 
 Guwahati is a vibrant city with a rich cultural heritage. It is home to a number of tourist attractions, such as the Kamakhya Temple, the Umananda Temple, the Assam State Museum, and the Assam State Zoo. Additionally, the city is home to a number of shopping centers, such as the Fancy Bazaar, the Paltan Bazaar, and the Pan Bazaar. Additionally, the city is home to a number of parks and gardens, such as the Assam State Botanical Garden and the Assam State Zoo. Additionally, the city is home to a number of adventure activities, such as river rafting, trekking, and mountain biking. Guwahati is also home to a number of cultural attractions, such as the Assam State Museum, the Assam State Zoo, and the Assam State Library. Additionally, the city is home to a number of educational institutions, such as the Gauhati University and the Indian Institute of Technology Guwahati.
 
+<h2>Things to do in Guwahati</h2>
+1. Sightseeing: Guwahati is home to a variety of attractions, including the Kamakhya Temple, the Assam State Museum, and the Umananda Temple.
+2. Shopping: Guwahati is home to a variety of shops and markets, making it a great place to shop for souvenirs and local goods.
+3. Adventure Sports: Guwahati is a great place for adventure sports, such as paragliding, rock climbing, and zip-lining.
+4. River Cruises: Guwahati is home to a variety of river cruises, making it a great way to explore the area.
+5. Wildlife Sanctuaries: Guwahati is home to a variety of wildlife sanctuaries, making it a great place to observe and learn about the local wildlife.
+
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/road-trip-from-Guwahati"

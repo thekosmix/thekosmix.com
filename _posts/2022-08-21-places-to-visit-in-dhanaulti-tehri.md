@@ -14,6 +14,13 @@ Located at an altitude of 2286 m and away from the city hustle-bustle, Dhanaulti
 
 Dhanaulti is a great destination for nature lovers, offering stunning views of the snow-capped Himalayan peaks, lush green valleys, and peaceful environment. It is also a great place for adventure activities such as trekking, camping, and paragliding. The Eco Park is a great place to explore the local flora and fauna, while the Dhanaulti Adventure Park offers a variety of activities such as zip-lining, rock climbing, and rappelling. The Surkanda Devi Temple is a popular pilgrimage site, and the Dhanaulti Tea Estate is a great place to learn about the local tea-making process. Dhanaulti also offers a variety of accommodation options, ranging from budget hotels to luxury resorts.
 
+<h2>Things to do in New Tehri</h2>
+1. Boating: New Tehri is home to a beautiful lake, making it a great place to go boating and enjoy the stunning views of the surrounding mountains.
+2. Sightseeing: New Tehri is home to a variety of attractions, including the Tehri Dam, the Tehri Lake, and the Tehri Fort.
+3. Adventure Sports: New Tehri is a great place for adventure sports, such as paragliding, rock climbing, and zip-lining.
+4. Shopping: New Tehri is home to a variety of shops and markets, making it a great place to shop for souvenirs and local goods.
+5. Hiking: New Tehri is a great place for hiking, with trails ranging from easy to difficult.
+
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/package/3-Night-4-Days-Mussoorie-Dhanaulti-Tour-Package"

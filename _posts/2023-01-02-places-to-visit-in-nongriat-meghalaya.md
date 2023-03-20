@@ -14,6 +14,12 @@ Nongriat is a small village located in the East Khasi Hills district of Meghalay
 
 Additionally, the village is home to a number of adventure activities, such as trekking, rock climbing, and mountain biking. Additionally, the village is home to a number of cultural attractions, such as the Nongriat Arts and Crafts Centre and the Nongriat Heritage Museum. The village is also home to a number of educational institutions, such as the Nongriat College and the Nongriat Institute of Technology.
 
+<h2>Things to do in Nongriat</h2>
+1. Trekking: Nongriat is home to a variety of trekking trails, ranging from easy to difficult.
+2. Sightseeing: Nongriat is home to a variety of attractions, including the Double Decker Living Root Bridge, the Rainbow Falls, and the Nohkalikai Falls.
+3. Adventure Sports: Nongriat is a great place for adventure sports, such as paragliding, rock climbing, and zip-lining.
+4. Shopping: Nongriat is home to a variety of shops and markets, making it a great place to shop for souvenirs and local goods.
+5. Caving: Nongriat is home to a variety of caves, making it a great place to explore and discover the hidden wonders of the area.
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
