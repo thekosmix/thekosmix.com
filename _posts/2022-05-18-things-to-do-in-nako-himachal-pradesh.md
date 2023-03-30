@@ -3,7 +3,7 @@ layout: post
 title:  "Nako, Himachal Pradesh"
 author: sid
 categories: [Chill, Long Drive, Mountains, Snow, Long trip, Monastries]
-image: assets/images/spiti.jpg
+image: assets/images/nako.jpg
 rating: 5
 ---
 One of India's best-kept secrets, Nako village is situated on the Indo-Tibetan border, 3600 m above sea level in the Himalayan range of Kinnaur District in Himachal Pradesh. Nako Village can be considered as the last spot on your way to the famous Nalling Mullah and acts as a halting stop for tourists heading there. As Nako lies really close to the Tibetan border, visitors need to have an Inner Line permit to visit and stay in any part of this secluded village. Due to the small extent of this beautifully remote village, all the major attractions there can be explored on foot itself.
