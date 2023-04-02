@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Reckong Peo, Himachal Pradesh"
+redirect_from:
+  - /reckong-peo
+  - /reckong-peo-himachal-pradesh
 author: sid
 categories: [ Chill, Long Drive, Mountains, Snow, Long trip]
 image: assets/images/reckong-peo.jpg

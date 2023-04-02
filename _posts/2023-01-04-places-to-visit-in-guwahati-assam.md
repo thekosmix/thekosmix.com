@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Guwahati, Assam"
+redirect_from:
+  - /guwahati
+  - /guwahati-assam
 author: sid
 categories: [Temple, War Memorial, River Island, Cruise]
 image: assets/images/guwahati.jpg

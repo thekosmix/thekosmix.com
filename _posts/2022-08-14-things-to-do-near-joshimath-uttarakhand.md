@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Joshimath-Ghangaria, Uttarakhand"
+redirect_from:
+  - /joshimath
+  - /joshimath-uttarakhand
 author: sid
 categories: [Chill, Snow, Mountains, Long trip, Trek]
 image: assets/images/joshimath.jpg

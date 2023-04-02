@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Ujjain, Madhya Pradesh"
+redirect_from:
+  - /ujjain
+  - /ujjain-madhya-pradesh
 author: sid
 categories: [ River, Pilgrimage, Temples ]
 image: assets/images/ujjain.jpg

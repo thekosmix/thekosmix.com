@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Cherrapunji, Meghalaya"
+redirect_from:
+  - /cherrapunji
 author: sid
 categories: [Rain, Nature, resort]
 image: assets/images/cherrapunji.jpg

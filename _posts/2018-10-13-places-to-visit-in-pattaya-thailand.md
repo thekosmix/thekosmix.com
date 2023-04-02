@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Pattaya, Thailand"
+redirect_from:
+  - /pattaya
+  - /pattaya-thailand
 author: sid
 categories: [ Sea, Beach, Activities, Fun, Market, Magic Show]
 image: assets/images/pattaya.jpg

@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "JustWravel"
+redirect_from:
+  - /how-to-plan-your-trips-and-travels-in-india
 author: sid
 categories: [ Travel, backpacking, Road Trip, Bike Trip, Mountaineering, Trekking, Weekend Gataways ]
 image: assets/images/justwravel.jpg

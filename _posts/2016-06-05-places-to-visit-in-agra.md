@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "Agra, Uttar Pradesh"
+redirect_from:
+  - /agra
 author: sid
 categories: [ Monuments, Long Drive ]
 image: assets/images/agra.jpg
-rating: 4
+rating: 3.5
 ---
 I was in Delhi, working till late night. Suddenly, I heard knocks on my door at ~12AM. When I opened the door, my freinds were standing there and asked to go out for a litte stroll and be back by ~2AM. We all sat in one of the freind’s car and headed towards South Delhi. Little did we know that this short stroll is going to be converetd to one of our best trips.
 

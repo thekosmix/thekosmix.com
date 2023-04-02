@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Ooty, Tamil Nadu"
+redirect_from:
+  - /ooty
 author: sid
 categories: [ Chill, Long Drive, Mountain ]
 image: assets/images/ooty.jpg

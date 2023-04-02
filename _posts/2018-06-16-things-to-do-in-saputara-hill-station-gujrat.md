@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Saputara, Gujrat"
+redirect_from:
+  - /saputara
+  - /saputara-hill-station
 author: sid
 categories: [ Mountain, Hill Station, Weekend gateaway ]
 image: assets/images/saputara.jpg

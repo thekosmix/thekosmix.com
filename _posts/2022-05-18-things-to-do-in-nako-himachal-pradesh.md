@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Nako, Himachal Pradesh"
+redirect_from:
+  - /nako
+  - /nako-himachal-pradesh
 author: sid
 categories: [Chill, Long Drive, Mountains, Snow, Long trip, Monastries]
 image: assets/images/nako.jpg

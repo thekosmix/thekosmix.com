@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Ananthagiri Hills, Telangana"
+redirect_from:
+  - /ananthagiri
+  - /ananthagiri-hills
 author: sid
 categories: [ Chill, Valley, Montain, Weather ]
 image: assets/images/anantgiri.jpg
-rating: 4
+rating: 5
 ---
 Ananthagiri Hills is a beautiful hill station located in the Araku Valley of Andhra Pradesh. It is situated at an altitude of 900 meters above sea level and is surrounded by lush green forests. The hills are home to a variety of flora and fauna, including rare species of birds and animals. The hills are also home to a number of waterfalls, such as the Ananthagiri Waterfall, which is one of the most popular tourist attractions in the area. The hills are also home to a number of temples, such as the Sri Venkateswara Swamy Temple and the Sri Anantha Padmanabha Swamy Temple. Ananthagiri Hills is a great destination for a relaxing holiday, with plenty of activities to keep visitors entertained.
 

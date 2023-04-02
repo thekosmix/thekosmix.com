@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Kuala Lumpur, Malaysia"
+redirect_from:
+  - /kuala-lumpur
+  - /kualalumpur
 author: sid
 categories: [ Architecture, Modern World ]
 image: assets/images/kualalumpur.jpg
-rating: 4
+rating: 5
 ---
 We visited Kuala Lumpur while coming back from Bali. Kuala Lumpur was a lifetime experience to had. The might of Petronas twin tower makes you realise that petroleum is liquid gold. The greenery surrounding KLCC park was just mesmerising. You should also not miss the nearby Masjid Asy-Syakirin KLCC mosque. Almost everywhere they were accepting USD so it was very convinient for us.
 

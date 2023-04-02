@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Putrajaya, Malaysia"
+redirect_from:
+  - /putrajaya
+  - /putrajaya-malaysia
 author: sid
 categories: [ Sea, Mountain, Culture ]
 image: assets/images/putrajaya.jpg
-rating: 4
+rating: 5
 ---
 This was my first foreign trip. Everything was planned and arranged by my friends, I just had to tag along. We were heading for Bali, but had a 7 hours halt in Malasiya, so we thought why not go visit the Smart city of Putajaya and boy, oh boy, it was a marvel to admire!!
 

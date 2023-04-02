@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Rishikesh, Uttarakhand"
+redirect_from:
+  - /rishikesh
 author: sid
 categories: [ River, Water Sports ]
 image: assets/images/rishikesh.jpg

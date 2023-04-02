@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "Nainital, Uttarakhand"
+redirect_from:
+  - /nainital
 author: sid
 categories: [ Lake, Mountain, Activities ]
 image: assets/images/nainital.jpg
-rating: 4
+rating: 5
 ---
 This was just one-day trip from Delhi. We arrived early in the morning at Kathgodam railway station ~36KMs away from Nainital and started heading towards it with a on-spot booked cab.
 

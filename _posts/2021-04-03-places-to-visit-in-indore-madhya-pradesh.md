@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Indore, Madhya Pradesh"
+redirect_from:
+  - /indore
+  - /indore-madhya-pradesh
 author: sid
 categories: [ Chill, Pilgrimage, Street Food ]
 image: assets/images/indore.jpg

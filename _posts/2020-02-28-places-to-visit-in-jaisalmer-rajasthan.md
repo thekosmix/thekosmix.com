@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Jaisalmer, Rajasthan"
+redirect_from:
+  - /jaisalmer
+  - /jaisalmer-rajasthan
 author: sid
 categories: [ Monuments, Palaces, Royalty ]
 image: assets/images/jaisalmer.jpg

@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "West Sikkim, Sikkim"
+redirect_from:
+  - /west-sikkim
 author: sid
 categories: [Mountains, Valley, Road Trip, Monuments, Ruins]
 image: assets/images/west-sikkim.jpg
