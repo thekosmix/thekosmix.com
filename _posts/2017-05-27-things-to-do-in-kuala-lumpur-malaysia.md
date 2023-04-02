@@ -2,8 +2,8 @@
 layout: post
 title:  "Kuala Lumpur, Malaysia"
 redirect_from:
-  - /kuala-lumpur
-  - /kualalumpur
+  - /kuala-lumpur/
+  - /kualalumpur/
 author: sid
 categories: [ Architecture, Modern World ]
 image: assets/images/kualalumpur.jpg

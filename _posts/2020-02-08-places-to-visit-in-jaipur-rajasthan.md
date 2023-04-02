@@ -2,8 +2,8 @@
 layout: post
 title:  "Jaipur, Rajasthan"
 redirect_from:
-  - /jaipur
-  - /jaipur-rajasthan
+  - /jaipur/
+  - /jaipur-rajasthan/
 author: sid
 categories: [ Monuments, Palaces ]
 image: assets/images/jaipur.jpg

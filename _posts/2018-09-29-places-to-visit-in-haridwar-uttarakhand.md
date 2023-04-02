@@ -2,8 +2,8 @@
 layout: post
 title:  "Haridwar, Uttarakhand"
 redirect_from:
-  - /haridwar
-  - /haridwar-uttarakhand
+  - /haridwar/
+  - /haridwar-uttarakhand/
 author: sid
 categories: [ River, Temples, Ashram ]
 image: assets/images/haridwar.jpg

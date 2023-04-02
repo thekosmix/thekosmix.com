@@ -2,8 +2,8 @@
 layout: post
 title:  "Ananthagiri Hills, Telangana"
 redirect_from:
-  - /ananthagiri
-  - /ananthagiri-hills
+  - /ananthagiri/
+  - /ananthagiri-hills/
 author: sid
 categories: [ Chill, Valley, Montain, Weather ]
 image: assets/images/anantgiri.jpg

@@ -2,8 +2,8 @@
 layout: post
 title:  "Kochi, Kerala"
 redirect_from:
-  - /kochi
-  - /kochi-kerala
+  - /kochi/
+  - /kochi-kerala/
 author: sid
 categories: [ Beach, History, Church ]
 image: assets/images/kochi.jpg

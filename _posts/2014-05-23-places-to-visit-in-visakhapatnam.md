@@ -2,7 +2,7 @@
 layout: post
 title:  "Visakhapatnam, Andhra Pradesh"
 redirect_from:
-  - /visakhapatnam
+  - /visakhapatnam/
 author: sid
 categories: [ Chill, Beach, War Memorial ]
 image: assets/images/vizag.jpg

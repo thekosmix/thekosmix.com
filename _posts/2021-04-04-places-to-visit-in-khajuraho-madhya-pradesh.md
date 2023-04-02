@@ -2,8 +2,8 @@
 layout: post
 title:  "Khajuraho, Madhya Pradesh"
 redirect_from:
-  - /khajuraho
-  - /khajuraho-madhya-pradesh
+  - /khajuraho/
+  - /khajuraho-madhya-pradesh/
 author: sid
 categories: [ Monuments, Temples ]
 image: assets/images/khajuraho.jpg

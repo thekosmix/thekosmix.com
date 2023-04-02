@@ -2,8 +2,8 @@
 layout: post
 title:  "Mathura, Uttar Pradesh"
 redirect_from:
-  - /mathura
-  - /mathura-uttar-pradesh
+  - /mathura/
+  - /mathura-uttar-pradesh/
 author: sid
 categories: [ Pilgrimage, History ]
 image: assets/images/mathura.jpg

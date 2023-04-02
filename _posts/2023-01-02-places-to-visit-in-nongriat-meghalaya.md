@@ -2,8 +2,8 @@
 layout: post
 title:  "Nongriat, Meghalaya"
 redirect_from:
-  - /nongriat
-  - /nongriat-meghalaya
+  - /nongriat/
+  - /nongriat-meghalaya/
 author: sid
 categories: [Trekking, Root Bridge, Nature]
 image: assets/images/nongriat.jpg

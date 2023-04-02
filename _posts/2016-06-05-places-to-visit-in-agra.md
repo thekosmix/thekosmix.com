@@ -2,7 +2,8 @@
 layout: post
 title:  "Agra, Uttar Pradesh"
 redirect_from:
-  - /agra
+  - /agra/
+  - /agra-uttar-pradesh/
 author: sid
 categories: [ Monuments, Long Drive ]
 image: assets/images/agra.jpg

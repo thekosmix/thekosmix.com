@@ -2,8 +2,8 @@
 layout: post
 title:  "Udaipur, Rajasthan"
 redirect_from:
-  - /udaipur
-  - /udaipur-rajasthan
+  - /udaipur/
+  - /udaipur-rajasthan/
 author: sid
 categories: [ Monuments, Lake, Palaces ]
 image: assets/images/udaipur.jpg

@@ -2,8 +2,8 @@
 layout: post
 title:  "Junagadh, Gujrat"
 redirect_from:
-  - /junagadh
-  - /junagadh-gujrat
+  - /junagadh/
+  - /junagadh-gujrat/
 author: sid
 categories: [ Zoo, Food, Wild animals, Ropeway ]
 image: assets/images/junagadh.jpg

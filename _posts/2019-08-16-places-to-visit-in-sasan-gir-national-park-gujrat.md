@@ -2,8 +2,8 @@
 layout: post
 title:  "Sasan Gir, Gujrat"
 redirect_from:
-  - /sasan
-  - /sasan-gir
+  - /sasan/
+  - /sasan-gir/
 author: sid
 categories: [ Lions, Jungle, Resorts ]
 image: assets/images/sasan.jpg

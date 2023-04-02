@@ -2,7 +2,8 @@
 layout: post
 title:  "Shnongpdeng, Meghalaya"
 redirect_from:
-  - /shnongpdeng
+  - /shnongpdeng/
+  - /shnongpdeng-meghalaya/
 author: sid
 categories: [River, Road Trip, Camping, Water Sports]
 image: assets/images/shnongpdeng.jpg

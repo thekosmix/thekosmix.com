@@ -2,8 +2,8 @@
 layout: post
 title:  "Shimla, Himachal Pradesh"
 redirect_from:
-  - /shimla
-  - /shimla-himachalpradesh
+  - /shimla/
+  - /shimla-himachal-pradesh/
 author: sid
 categories: [ Chill, Long Drive, Mountains, Snow, Long trip]
 image: assets/images/shimla.jpg

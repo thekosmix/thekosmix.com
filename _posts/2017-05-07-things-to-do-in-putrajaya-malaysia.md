@@ -2,8 +2,8 @@
 layout: post
 title:  "Putrajaya, Malaysia"
 redirect_from:
-  - /putrajaya
-  - /putrajaya-malaysia
+  - /putrajaya/
+  - /putrajaya-malaysia/
 author: sid
 categories: [ Sea, Mountain, Culture ]
 image: assets/images/putrajaya.jpg

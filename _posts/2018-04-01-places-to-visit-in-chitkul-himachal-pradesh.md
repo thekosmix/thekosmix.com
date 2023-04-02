@@ -2,7 +2,8 @@
 layout: post
 title:  "Chitkul, Himachal Pradesh"
 redirect_from:
-  - /chitkul
+  - /chitkul/
+  - /chitkul-himachal-pradesh/
 author: sid
 categories: [ Snow, Mountain, Weekend gateaway ]
 image: assets/images/chitkul.jpg

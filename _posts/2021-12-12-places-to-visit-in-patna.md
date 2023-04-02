@@ -2,8 +2,8 @@
 layout: post
 title:  "Patna, Bihar"
 redirect_from:
-  - /patna
-  - /patna-bihar
+  - /patna/
+  - /patna-bihar/
 author: sid
 categories: [ Monuments, History, Zoo, River, Buddhism ]
 image: assets/images/patna.jpg

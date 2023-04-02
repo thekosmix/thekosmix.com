@@ -2,8 +2,8 @@
 layout: post
 title:  "Goa, India"
 redirect_from:
-  - /goa
-  - /goa-india
+  - /goa/
+  - /goa-india/
 author: sid
 categories: [ Monuments, Beach, Party ]
 image: assets/images/goa.jpg

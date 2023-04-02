@@ -2,8 +2,8 @@
 layout: post
 title:  "Dhanaulti-Tehri, Uttarakhand"
 redirect_from:
-  - /dhanaulti-tehri
-  - /dhanaulti-uttarakhand
+  - /dhanaulti-tehri/
+  - /dhanaulti-uttarakhand/
 author: sid
 categories: [Man-made Lake, Chill, Mountains, Weekend trip]
 image: assets/images/dhanaulti.jpg

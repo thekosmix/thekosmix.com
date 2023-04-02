@@ -2,8 +2,8 @@
 layout: post
 title:  "Bali, Indonesia"
 redirect_from:
-  - /bali
-  - /bali-indonesia
+  - /bali/
+  - /bali-indonesia/
 author: sid
 categories: [ Sea, Mountain, Culture ]
 image: assets/images/bali.jpg
