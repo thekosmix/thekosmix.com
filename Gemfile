@@ -19,4 +19,5 @@ group :jekyll_plugins do
     gem 'rouge'
     gem 'webrick'
     gem 'jekyll-redirect-from'
+    gem 'jekyll-minifier'
 end
