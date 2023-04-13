@@ -5,7 +5,7 @@ redirect_from:
   - /jaisalmer/
   - /jaisalmer-rajasthan/
 author: sid
-categories: [ Monuments, Palaces, Royalty ]
+categories: [ Monuments, Palaces ]
 image: assets/images/jaisalmer.jpg
 rating: 4
 ---

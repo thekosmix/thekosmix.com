@@ -5,7 +5,7 @@ redirect_from:
   - /nako/
   - /nako-himachal-pradesh/
 author: sid
-categories: [Chill, Long Drive, Mountains, Snow, Long trip, Monastries]
+categories: [Chill, Long Drive, Mountain, Snow, Long trip, Monastries]
 image: assets/images/nako.jpg
 rating: 5
 ---
@@ -24,7 +24,7 @@ Nako Village is a small village located in the Kinnaur district of Himachal Prad
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.stayapart.in/hotels-in-nako/10-things-to-do-in-nako.php"
   data-title="Nako, Himachal Pradesh"
-  data-description="Chill, Long Drive, Mountains, Snow, Long trip"
+  data-description="Chill, Long Drive, Mountain, Snow, Long trip"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/Rzifs_QyjlgGkI7En1uqECmxCg-F3Q5g1I2h_n_2qESteJrB2WSFjM3JflThwvAhWXyCdHN_t_rqqWGMaQwH28UQd1wK52KrkAcZ7-oLVI3SDOjLh9hpWeh99r-n9nAaYhG0pqGvUlk=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/ddW2No9gnW3CVzHRlunS7Q7YLxzh5Ohu3N08uyrz677slf7bV3jXkqoh7yM--pPsy9Bxd-yfX868fUjzZ37Zpx6u6FoPRDCIokMsRyYn26EMQBpSyXaVJfmGV9u7Sj6zf9sxfNX81SA=w1920-h1080"></object>

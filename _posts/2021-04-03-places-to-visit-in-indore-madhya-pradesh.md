@@ -5,7 +5,7 @@ redirect_from:
   - /indore/
   - /indore-madhya-pradesh/
 author: sid
-categories: [ Chill, Pilgrimage, Street Food ]
+categories: [ Chill, Pilgrimage ]
 image: assets/images/indore.jpg
 rating: 4
 ---

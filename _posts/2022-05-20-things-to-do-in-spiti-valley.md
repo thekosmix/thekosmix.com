@@ -5,7 +5,7 @@ redirect_from:
   - /spiti-valley/
   - /spiti-himachal-pradesh/
 author: sid
-categories: [ Chill, Long Drive, Mountains, Snow, Long trip]
+categories: [ Chill, Long Drive, Mountain, Snow, Long trip]
 image: assets/images/spiti.jpg
 rating: 5
 ---
@@ -32,7 +32,7 @@ It’s no secret that the best route for Spiti valley in winter is via Shimla be
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/package/Spiti-Valley-road-trip-in-Winter"
   data-title="Spiti, Himachal Pradesh"
-  data-description="Valley, Snow, Long trip, Mountains, Road Trip"
+  data-description="Valley, Snow, Long trip, Mountain, Road Trip"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/h0pgQdcMsH2dRDHuByGxyQcJ_p2GDsxm6QqbCrU9r6SQByKuW7lPgyGOo7FuJY7dGqzNRHe50RnanS-Rk6ex8kNVLtxHHldsu72Aqd2Z56qJuaRKIWV3_i-W2qSvA--1nE99KZfswPQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/wKFGTCg5Bnt_s1IyXzl64-Z2CMGcvLI3YlnwKArNxlsX3h8qaEc5u_v3zmOmSV2qhk9imRjp7udtdSYMkg-PqL1mLCuyg4Vf302ut3gEk17Nxq-wUWQzmkWqQLI0O6WVC5C1-47FmjQ=w1920-h1080"></object>

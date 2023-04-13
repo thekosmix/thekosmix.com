@@ -12,6 +12,8 @@ disqus: 'thekosmix'
 include: ["_pages"]
 permalink: /:title/
 environment: 'production'
+social_share: disabled
+jumbotron: disabled
 
 # Authors
 authors:
@@ -22,6 +24,7 @@ authors:
     email: siddharth.dce08@gmail.com
     web: https://thekosmix.github.io
     twitter: https://twitter.com/thekosmix
+    linkedin: https://www.linkedin.com/in/kumarsiddharth
     description: "Coder by Profession, Adventurer by passion, Explorer by choice"
 #   john:
 #     name: John

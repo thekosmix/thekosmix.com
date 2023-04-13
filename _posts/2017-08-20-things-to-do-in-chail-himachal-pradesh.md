@@ -5,7 +5,7 @@ redirect_from:
   - /chail/
   - /chail-himachal-pradesh/
 author: sid
-categories: [ Mountain, Palace, Chill, Snow ]
+categories: [ Mountain, Palaces, Chill, Snow ]
 image: assets/images/chail.jpg
 rating: 5
 ---

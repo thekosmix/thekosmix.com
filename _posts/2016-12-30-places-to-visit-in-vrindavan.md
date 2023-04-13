@@ -5,7 +5,7 @@ redirect_from:
   - /vrindavan/
   - /vrindavan-uttar-pradesh/
 author: sid
-categories: [ Temple, Religious, River ]
+categories: [ Temple, River ]
 image: assets/images/vrindavan.jpg
 rating: 4
 ---

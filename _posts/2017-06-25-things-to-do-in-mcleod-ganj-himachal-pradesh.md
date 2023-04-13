@@ -5,7 +5,7 @@ redirect_from:
   - /mcleod-ganj/
   - /mcleodganj/
 author: sid
-categories: [ Trekking, Mountain, Weekend gateaway, Monasteries ]
+categories: [ Trekking, Mountain, Weekend Getaway, Monasteries ]
 image: assets/images/mcleodganj.jpg
 rating: 4.5
 ---

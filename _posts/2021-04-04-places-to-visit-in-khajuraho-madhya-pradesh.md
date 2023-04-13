@@ -5,7 +5,7 @@ redirect_from:
   - /khajuraho/
   - /khajuraho-madhya-pradesh/
 author: sid
-categories: [ Monuments, Temples ]
+categories: [ Monuments, Temple ]
 image: assets/images/khajuraho.jpg
 rating: 3.5
 ---

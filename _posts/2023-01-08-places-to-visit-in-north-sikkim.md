@@ -4,7 +4,7 @@ title:  "North Sikkim, Sikkim"
 redirect_from:
   - /north-sikkim/
 author: sid
-categories: [Mountains, Valley, Road Trip]
+categories: [Mountain, Valley, Road Trip]
 image: assets/images/north-sikkim.jpg
 rating: 4
 ---
@@ -25,7 +25,7 @@ Additionally, the district is home to a number of shopping centers, such as the 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/package/Sikkim-Road-Trip"
   data-title="North Sikkim, Sikkim"
-  data-description="Mountains, Valley, Road Trip"
+  data-description="Mountain, Valley, Road Trip"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/xqH_LkAv3TxR8pV2Gzuk1ILQSmut9GVZ6vsIbgSDEB6Y-iFrovsKPqHAcQ-CLZZkvkFAltsf7E-jJ4LOeyPb2D_k_YlpKn6UmRl6VLREaqiqhgsnUPXNyzrxFUfqbJHD3GJMXYFMbwI=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/mIaTus6PXmYUCGR_vYH-n-V4LoIuAQs2ESjIPu_SMkXJGLYg8oTt1m3JAS6UpFVXfeNboKkldEeJV56NUKO_OTij2SrBzmRHlwHoA_9lxtejjWqrFFYj4h2nWbiTF0iqIGoHBxtxnXs=w1920-h1080"></object>

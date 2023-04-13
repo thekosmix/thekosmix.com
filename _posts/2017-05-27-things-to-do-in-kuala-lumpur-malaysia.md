@@ -5,7 +5,7 @@ redirect_from:
   - /kuala-lumpur/
   - /kualalumpur/
 author: sid
-categories: [ Architecture, Modern World ]
+categories: [ Modern World ]
 image: assets/images/kualalumpur.jpg
 rating: 5
 ---

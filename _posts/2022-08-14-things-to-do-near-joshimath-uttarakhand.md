@@ -5,7 +5,7 @@ redirect_from:
   - /joshimath/
   - /joshimath-uttarakhand/
 author: sid
-categories: [Chill, Snow, Mountains, Long trip, Trek]
+categories: [Chill, Snow, Mountain, Long trip, Trekking]
 image: assets/images/joshimath.jpg
 rating: 4
 ---
@@ -27,7 +27,7 @@ Joshimath is a small town located in the Chamoli district of Uttarakhand, India.
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.euttaranchal.com/tourism/ghangharia-excursions.php"
   data-title="Joshimath-Ghangaria, Uttarakhand"
-  data-description="Chill, Snow, Mountains, Long trip, Trek"
+  data-description="Chill, Snow, Mountain, Long trip, Trekking"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/CMnIEaZNuDyF6tjbOBKtML83ySZvd6y43cMkyBqNnvcFUEPH_zsIXBCazx3uAseTWouBRBXwPYxAxppNXXXD4x2IhqYL5e5oHM946-UL-As6by32xulb7lmSps5P9BceVU6t5ANt2_8=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/ArYdZPQGA3X2jgv1J1pkAIOTqn8OGo5_QmR4w6PWIXZidUAnG29s_3pDAkIEJ2gVtAw3QgwhlpthvVEFx0nENO791qSVWB9Ay3tzpyx_RAoB-kWJHXPZgxNY17ePCZ7nwOEHdm-o3xM=w1920-h1080"></object>

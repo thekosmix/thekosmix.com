@@ -4,7 +4,7 @@ title:  "JustWravel"
 redirect_from:
   - /how-to-plan-your-trips-and-travels-in-india/
 author: sid
-categories: [ Travel, backpacking, Road Trip, Bike Trip, Mountaineering, Trekking, Weekend Gataways ]
+categories: [ Travel, backpacking, Road Trip, Trekking, Weekend Getaway ]
 image: assets/images/justwravel.jpg
 featured: true
 hidden: true
@@ -22,7 +22,7 @@ When we plan a trip with a group of strangers, there are few things which we wor
 
 When you travel with [JustWravel](https://www.justwravel.com/), you won't have to worry about these or any other thing for that matter and I say this as a highly satisfied customer of them.
 
-I've been going on trips with them specially in North and North-East India for more than 5 years. I've been highly impressed by the way they manage the entire itinerary of any kind of trip, be it [trekking](https://www.justwravel.com/treks), [backpacking](https://www.justwravel.com/backpacking-trips) or [weekend gataways](https://www.justwravel.com/weekend-getaways).
+I've been going on trips with them specially in North and North-East India for more than 5 years. I've been highly impressed by the way they manage the entire itinerary of any kind of trip, be it [trekking](https://www.justwravel.com/treks), [backpacking](https://www.justwravel.com/backpacking-trips) or [weekend getaways](https://www.justwravel.com/weekend-getaways).
 
 Few things that stood out for them:
 1. They always have 1 or more experienced trip leads with the group who knows what, when and hows of the trip. 

@@ -5,7 +5,7 @@ redirect_from:
   - /patna/
   - /patna-bihar/
 author: sid
-categories: [ Monuments, History, Zoo, River, Buddhism ]
+categories: [ Monuments, History, Zoo, River ]
 image: assets/images/patna.jpg
 rating: 3.5
 ---

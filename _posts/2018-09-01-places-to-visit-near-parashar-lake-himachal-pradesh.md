@@ -5,7 +5,7 @@ redirect_from:
   - /parashar/
   - /parashar-lake/
 author: sid
-categories: [ Lake, Mountain, Chill, Weekend Gateway ]
+categories: [ Lake, Mountain, Chill, Weekend Getaway ]
 image: assets/images/parashar.jpg
 rating: 5
 ---
@@ -21,7 +21,7 @@ The lake is also home to a temple dedicated to the sage Parashar, which is visit
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.thrillophilia.com/attractions/prashar-lake"
   data-title="Parashar Lake, Himachal Pradesh"
-  data-description="Lake, Mountain, Chill, Weekend Gateway"
+  data-description="Lake, Mountain, Chill, Weekend Getaway"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/NqrD4E_RVfD15AWlpj7EgMGARDNG75XmuFhtfG4ImWUH5eSFPPmmV6DxU85TwwslO8VAHiwbzbFNJ9MjaEMdNmDYgyRUB5R8xD0vYZMYgfjyJ9SFh2jStDYppLnui0V81szNUs3amas=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/AXKKiQ9Lq3Xcg0bTdwLtOYVgSJXnBCLu3FkGnsRbuVV777XYG6Xmt7UjI2nF7d3xr4jyXY0mwUixPuYefUCPf7hOKl2e3Ep-bdA63rARDT-dU4_hsVk1XSkG1CLc-IlV6XOEwO0-WLc=w1920-h1080"></object>

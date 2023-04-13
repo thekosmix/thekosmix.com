@@ -5,7 +5,7 @@ redirect_from:
   - /junagadh/
   - /junagadh-gujrat/
 author: sid
-categories: [ Zoo, Food, Wild animals, Ropeway ]
+categories: [ Zoo, Wild Animals ]
 image: assets/images/junagadh.jpg
 rating: 4
 ---

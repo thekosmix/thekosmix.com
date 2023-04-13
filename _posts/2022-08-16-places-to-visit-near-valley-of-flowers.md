@@ -4,7 +4,7 @@ title:  "Valley of Flowers, Uttarakhand"
 redirect_from:
   - /valley-of-flowers/
 author: sid
-categories: [ Chill, Snow, Mountains, Long trip]
+categories: [ Chill, Snow, Mountain, Long trip]
 image: assets/images/vof.jpg
 rating: 4.5
 ---
@@ -31,7 +31,7 @@ Valley of Flowers is a national park located in the Chamoli district of Uttarakh
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/package/Valley-of-Flower-Trek"
   data-title="Valley of Flowers, Uttarakhand"
-  data-description="Chill, Snow, Mountains, Long trip"
+  data-description="Chill, Snow, Mountain, Long trip"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/JogRrpZdL_TODsuDOh5PEqc0hcCcz9_N5_-SC2uVQxEkCRdwD_x2GZZboXZYoxFrOhR7ZDQvq4-ktcDB3SyWBHReo-B4ZplKUkAwkfHy5a7HsFbPcs0vDdrXmTU4BYc3L2JJO72X5q8=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/6lqeTwMtWUlLwMhPOxk7DoMLoJQPKw-cwxn8wqcE5UY7QAZX2TS5sEgcuNOgi6GTSHbsfwCYqL_gk9rRy8GI4us-MC8A5N4i_B-r_fv8-CwjIOiofNAOWCUGNpabZMN6ZSzn6Nq2YN0=w1920-h1080"></object>

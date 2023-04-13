@@ -5,7 +5,7 @@ redirect_from:
   - /pattaya/
   - /pattaya-thailand/
 author: sid
-categories: [ Sea, Beach, Activities, Fun, Market, Magic Show]
+categories: [ Sea, Beach, Activities]
 image: assets/images/pattaya.jpg
 rating: 4
 ---

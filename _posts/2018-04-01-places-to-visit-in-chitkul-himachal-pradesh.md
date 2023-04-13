@@ -5,7 +5,7 @@ redirect_from:
   - /chitkul/
   - /chitkul-himachal-pradesh/
 author: sid
-categories: [ Snow, Mountain, Weekend gateaway ]
+categories: [ Snow, Mountain, Weekend Getaway ]
 image: assets/images/chitkul.jpg
 rating: 4.5
 ---

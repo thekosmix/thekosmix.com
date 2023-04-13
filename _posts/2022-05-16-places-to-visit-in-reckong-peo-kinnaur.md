@@ -5,7 +5,7 @@ redirect_from:
   - /reckong-peo/
   - /reckong-peo-himachal-pradesh/
 author: sid
-categories: [ Chill, Long Drive, Mountains, Snow, Long trip]
+categories: [ Chill, Long Drive, Mountain, Snow, Long trip]
 image: assets/images/reckong-peo.jpg
 rating: 4
 ---
@@ -18,7 +18,7 @@ Things to do in Reckong Peo include trekking, paragliding, mountain biking, visi
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://traveltriangle.com/blog/places-to-visit-in-reckong-peo/"
   data-title="Reckong Peo, Himachal Pradesh"
-  data-description="Chill, Long Drive, Mountains, Snow, Long trip"
+  data-description="Chill, Long Drive, Mountain, Snow, Long trip"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/EqmPgtp_5sqYvK4W4x8RGFM1OjagiA7H9faM2e9GojaYmq1phhtsGgrI-g4FZ3p6KeR9LEDoir6XMX4s7AZx3Aug657l9zNgoulunbSFtNSwkab3y2whNUG9ytCzc_bnMT7bS9sF1uA=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/nvaElafQX6l4fhJBv7cx-FB0_-2Ayt4z6oqt0UX-T3llE9EChlU_6c5v7zfrzKfGJ1WO8CGGn_qdyCaMwxzIxtU8NHqF1ZAFqMaKMoIv8P_auzUpHhjx6j6PznWsp_q5vmQZoJyx0ks=w1920-h1080"></object>

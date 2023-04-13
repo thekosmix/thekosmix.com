@@ -5,7 +5,7 @@ redirect_from:
   - /ujjain/
   - /ujjain-madhya-pradesh/
 author: sid
-categories: [ River, Pilgrimage, Temples ]
+categories: [ River, Pilgrimage, Temple ]
 image: assets/images/ujjain.jpg
 rating: 4
 ---

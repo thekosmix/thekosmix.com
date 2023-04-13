@@ -5,7 +5,7 @@ redirect_from:
   - /ananthagiri/
   - /ananthagiri-hills/
 author: sid
-categories: [ Chill, Valley, Montain, Weather ]
+categories: [ Chill, Valley, Mountain ]
 image: assets/images/anantgiri.jpg
 rating: 5
 ---

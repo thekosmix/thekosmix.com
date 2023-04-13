@@ -4,7 +4,7 @@ title:  "Darjeeling, West Bengal"
 redirect_from:
   - /darjeeling/
 author: sid
-categories: [Heritage, Hill Station, Tea Garden]
+categories: [Monuments, Hill Station, Tea Garden]
 image: assets/images/darjeeling.jpg
 rating: 4
 ---

@@ -4,7 +4,7 @@ title:  "West Sikkim, Sikkim"
 redirect_from:
   - /west-sikkim/
 author: sid
-categories: [Mountains, Valley, Road Trip, Monuments, Ruins]
+categories: [Mountain, Valley, Road Trip, Monuments]
 image: assets/images/west-sikkim.jpg
 rating: 4
 ---
@@ -25,7 +25,7 @@ The outstanding view of the southeastern side of the Mt. Kangchenjunga is what a
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/package/Sikkim-Road-Trip"
   data-title="West Sikkim, Sikkim"
-  data-description="Mountains, Valley, Road Trip, Monuments, Ruins"
+  data-description="Mountain, Valley, Road Trip, Monuments, Ruins"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/1l9u4DLsQS0CB8fO5Wefm5x3scQrkMxJ1XAN_aRKfygg3R69HXMMxLLOpKOzjWOYQC3aTfftxIa8wdc8_5zLSQyU83XAX1vvEbAEbW5djOxC6ylCbQK9Yrb7geXNRkel2Zr1K_lzvt8=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/nqIIBoXTfS9HerK-nKnIDGYHjKJYNMTplCs503ZYHT9DMXvfg-JSyaV69NIgOEZvvZNH0nFp-7BrMoC7xwViZQxplBHqiu8PF1JGTK6Jw30xKeRjRh7u_EuPGGbJpQ6SQ06usZ3cEA0=w1920-h1080"></object>

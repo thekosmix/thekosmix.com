@@ -5,7 +5,7 @@ redirect_from:
   - /guwahati/
   - /guwahati-assam/
 author: sid
-categories: [Temple, War Memorial, River Island, Cruise]
+categories: [Temple, War Memorial, Nature]
 image: assets/images/guwahati.jpg
 rating: 4
 ---

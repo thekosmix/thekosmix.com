@@ -4,7 +4,7 @@ title:  "East Sikkim, Sikkim"
 redirect_from:
   - /east-sikkim/
 author: sid
-categories: [Mountains, Valley, Pass, Road Trip]
+categories: [Mountain, Valley, Road Trip]
 image: assets/images/east-sikkim.jpg
 rating: 4
 ---
@@ -25,7 +25,7 @@ The rich greenery, entrancing valleys, delightful lakes, numerous old monasterie
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/package/Sikkim-Road-Trip"
   data-title="East Sikkim, Sikkim"
-  data-description="Mountains, Valley, Pass, Road Trip"
+  data-description="Mountain, Valley, Pass, Road Trip"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/3hgkCx-GBB6WR7JZciKYp7iM9C76yhTRtRoqY4JCUPOgqbD83meisUmg2eoldmnLMlkQr-pRnT3cl8yQa5sta0D0MV5cdCnAy1fI0xPw3VAiYoRzWgwgvQZZuJMvExevZn_qs3ighSo=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/04WLInjx5lSXkqgd9tiIIIBBCCkpiTWvc36WO_X0ZulirnBHeEnx5DtyqfGv4P7mLLFYrXM0l9MieGoYAwFFL7EMB_s5ojtBdp7Xwr65U4nCYC-yupGr6AQ0O48T_y973XS4dKaw9Qo=w1920-h1080"></object>

@@ -4,7 +4,7 @@ title:  "Travel Triangle"
 redirect_from:
   - /how-to-plan-your-trips-and-travels-in-india-2/
 author: sid
-categories: [ Travel, Road Trip, Weekend Gataways ]
+categories: [ Travel, Road Trip, Weekend Getaway ]
 image: assets/images/tt.jpg
 featured: true
 hidden: true

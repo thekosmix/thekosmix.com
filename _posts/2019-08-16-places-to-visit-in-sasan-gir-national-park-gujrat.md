@@ -5,7 +5,7 @@ redirect_from:
   - /sasan/
   - /sasan-gir/
 author: sid
-categories: [ Lions, Jungle, Resorts ]
+categories: [ Wild Animals, Forest ]
 image: assets/images/sasan.jpg
 rating: 5
 ---

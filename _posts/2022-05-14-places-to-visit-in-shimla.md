@@ -5,7 +5,7 @@ redirect_from:
   - /shimla/
   - /shimla-himachal-pradesh/
 author: sid
-categories: [ Chill, Long Drive, Mountains, Snow, Long trip]
+categories: [ Chill, Long Drive, Mountain, Snow, Long trip]
 image: assets/images/shimla.jpg
 rating: 4
 ---
@@ -29,7 +29,7 @@ Shimla is a popular destination for adventure activities such as trekking, parag
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/package/4-Night-5-Days-Shimla-Trip"
   data-title="Shimla, Himachal Pradesh"
-  data-description="Chill, Long Drive, Mountains, Snow, Long trip"
+  data-description="Chill, Long Drive, Mountain, Snow, Long trip"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/lEC74MVRlYFygtx2yz9BjEeIfhkQSDwiL8K9667FEaHIzWGb-ewXaKRzVDLFdnHIifS5QgYb2G4JauVWM9_cEaZI1-Uub_-5SiuQ041xi0DQ0r4gp_9_VM-SnwpXUfhcKxbUwNRB1T4=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/zdn2Wx2oGGjprYTYbwhLhHGhF5sQDjYS8pnhzox5X_H5PU-9FvGC8BqcIwuczRxf6E7A_L-2Ug0lxQLsoUU1N-HXaegQgvsnmAEjvZM-EfpL6QGbS7z_9kz7SXFLix8_hSANOAm9hGM=w1920-h1080"></object>

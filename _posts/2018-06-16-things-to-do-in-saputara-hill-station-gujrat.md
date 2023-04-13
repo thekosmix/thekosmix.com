@@ -5,7 +5,7 @@ redirect_from:
   - /saputara/
   - /saputara-hill-station/
 author: sid
-categories: [ Mountain, Hill Station, Weekend gateaway ]
+categories: [ Mountain, Hill Station,  Weekend Getaway ]
 image: assets/images/saputara.jpg
 rating: 4
 ---
@@ -20,7 +20,7 @@ Saputara is a hill station located in the Dang district of Gujarat. It is situat
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.tripadvisor.in/Attractions-g1156008-Activities-Saputara_Dangs_District_Gujarat.html"
   data-title="Saputara, Gujrat"
-  data-description="Mountain, Hill Station, Weekend gateaway"
+  data-description="Mountain, Hill Station, Weekend Gateaway"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/POZb83BsF06B_j7B6x_TzMrA1BuqWrRFITU_dwVBH4adSFJAb24Avidi5dLacFBG3wgEqikBx3kK4AT_eYkNNbDVa6kAy6nMuG3heSTCzQk5DnAc_GcRblmwJl-m9Ki10NFpBbCHfGo=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/0LmdrD8Unt2-SiUel6N4_AGnbB5NUlTFAfQEAubzrqE_mgnDoowXwOVRIqn2Nkh5rY4swzHpNf1ztSojGavM5UUttUQQUX253xpZ1QcfT-bLwlcPl0qHMhO05rNVp3Re6vHthNwbNEY=w1920-h1080"></object>

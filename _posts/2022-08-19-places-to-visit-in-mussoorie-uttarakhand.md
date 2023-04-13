@@ -5,7 +5,7 @@ redirect_from:
   - /mussoorie/
   - /mussoorie-uttarakhand/
 author: sid
-categories: [ Chill, Snow, Mountains, Weekend trip]
+categories: [ Chill, Snow, Mountain, Weekend Getaway]
 image: assets/images/mussoorie.jpg
 rating: 5
 ---
@@ -28,7 +28,7 @@ Other attractions include the Mall Road, the Jwalaji Temple, and the Mussoorie L
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/package/3-Night-4-Days-Mussoorie-Dhanaulti-Tour-Package"
   data-title="Mussoorie, Uttarakhand"
-  data-description="Chill, Snow, Mountains, Weekend trip"
+  data-description="Chill, Snow, Mountain, Weekend Getaway"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/KOoo_NYnHyT_y52lAWp5OZ31A4yFMPOfjPr5iDQ6Pqi_sKuRo9IN1e3N00KIVMQaRFX_wtGnw33k3qXjW7RD5GsJSmjtKK8uAOOXr_YCwyY1BlJrMs4B3mJD_x_q6fAyQzBaK1odu5Y=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/K21ghw7MbwDsHWuvDsYXXs0lYwVIJquJkJ77ndSxDekWtauhuhBrITIeVpKpKe9Dp5_w1H-rBsTZoei3cW_2t40pyalpNy54sTqpLdZA5yOk0O-zW1ib8rjQXVEYnBvos7Cn1p2dr5Q=w1920-h1080"></object>
