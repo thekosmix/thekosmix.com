@@ -3,17 +3,20 @@ name: "thekosmix"
 url: "https://www.thekosmix.com"
 title: "Experiences of a Traveller"
 description: "Experiences acumulated throughout my professional and personal journey."
-logo: 'assets/images/favicon.ico'
+logo: 'assets/images/home.ico'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 google_analytics: 'UA-42873902-1'
-disqus: 'thekosmix'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 environment: 'production'
 social_share: disabled
 jumbotron: disabled
+
+disqus: 
+  name: 'thekosmix'
+  comment: 'disabled'
 
 # Authors
 authors:

@@ -206,6 +206,7 @@ section.recent-posts {
     margin-bottom: 5px;
     margin-top: 5px;
     font-size: 0.95rem;
+    color: rgba(0, 0, 0, 0.75);
 }
 
 .toc ul {
@@ -627,7 +628,7 @@ ul.tags li a:hover {
 
 .authorpage .author-description {
     font-size: 1rem;
-    color: rgba(0, 0, 0, .6);
+    color: rgb(0, 0, 0);
 }
 
 .post-top-meta.authorpage .btn.follow {
