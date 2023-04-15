@@ -16,7 +16,7 @@ jumbotron: disabled
 
 disqus: 
   name: 'thekosmix'
-  comment: 'enabled'
+  comment: 'disabled'
 
 # Authors
 authors:
@@ -84,4 +84,3 @@ exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 webrick:
   headers:
     Cache-Control: max-age=31536000
-    
