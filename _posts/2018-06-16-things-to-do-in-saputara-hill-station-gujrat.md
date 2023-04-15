@@ -22,24 +22,24 @@ Saputara is a hill station located in the Dang district of Gujarat. It is situat
   data-title="Saputara, Gujrat"
   data-description="Mountain, Hill Station, Weekend Gateaway"
   data-delay="3">
-  <object data="https://lh3.googleusercontent.com/POZb83BsF06B_j7B6x_TzMrA1BuqWrRFITU_dwVBH4adSFJAb24Avidi5dLacFBG3wgEqikBx3kK4AT_eYkNNbDVa6kAy6nMuG3heSTCzQk5DnAc_GcRblmwJl-m9Ki10NFpBbCHfGo=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/0LmdrD8Unt2-SiUel6N4_AGnbB5NUlTFAfQEAubzrqE_mgnDoowXwOVRIqn2Nkh5rY4swzHpNf1ztSojGavM5UUttUQQUX253xpZ1QcfT-bLwlcPl0qHMhO05rNVp3Re6vHthNwbNEY=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/XYymwV3bWmBLzqjlFBDOg5cNUsX15VwqLBFRqxRkssGo-OIL3gGaf_dSzqSAHurzf0alGvSB668-tZvi8rGuDJwf59xfR6bdvcbvHWXedA5YPmDiO_btV82zbxFMKrnQVPCLPUISu7A=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/IO2NpIkdhm4e48hZTu7nzGXwHuQSHVAAScz2BqQNzM137md7ujc5ryZo_HZ_xcF0vYoLXczpkhj7F1Go-rLBKfTEZ3qQI71vVeEYR3MvmmeZO1mOwgCqB4dEPbtCZuh5I9syfMIjZ6c=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/LuPrgL_uLz6s5S_DptXZ9W4pBAKwUHDRLklXwsWbiscaDMm5zoj7H55gzsTaYDb3hGhwM2UpboknSldeCpz2WGNRzc4uM70AJ62-1a6ejte60NlRmrzgyGGgCj3GiqWOyqoujW15Fh4=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/IIOFHS5UxEi7C9Yxm3yqcN2ZWXXyt0-_QrIbQ0YZSKkerCqrcj8ANlqJr2Z-U6rIF_7aAA4DRGiryfq2xG1zulQQUDZQtIMCE7YMtoMofMAwtYC66Kqg7HOJ_VhmWSqsuao0LJxtyPY=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/7Dtri0QYyIHzeOysZ0ST8xtsEM2qIFhM3Ida-RyaZumzNLnUa9ybaRKKFhc8BB-Ev014NQtFTrKB5YneXobGd7u4lBKULGZU11O8EEapPb0TXtZU8Z1h4wjG0StIgmlHMT7jhRt2qtw=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/7vWGSqJxuwozOqkf5f2SIOiGrIBmKC1Ng5asVPY55wjRgTaBDEBh-IAEr_ZfrhZBV1lD85-O9mIOj98a_rwlOuIeQhuxAHhduL2f8_Oqqhu2bWz5uH8qcm9IM7O8Cr86k0ik3QQS5AE=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/HwC-k_v7C0aKYJD3yxmnL05VLmHDAGkPBIORamXrywn_S_TR2su9igrRdKH-jH-w9ioqFxMO6h6leKUAvqE5CPAVy0_BQu-zpw3bYJSSENIojHAj0EQe_fvPvmrRA85629ySrsofk90=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/hz0QhHob72mvyAC6zwxOMJH8tcgGLM9rPnVad0xuRnMdLVHgqn12-IRA3DR18d4tmZbGRBpJPA4ACAGbw-bb41nJcW1VnVfnnvo4jD22gwBOiCLuU8FLKZWoVoGrKtneJxjjKS8E_3A=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/TRTae8Qxf7kS3Uo--gjbh9Mro-VtiHEAI4nR6axXT7Qdjxp5G70AEW4vcbSVqfOjvkXFOAeBO2ui5-IRRNqBzUS2NmpPYd9ORYG_ZdifH7VVoat6U-whDs244azyg1xzmLWGJiV0wYo=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/eJjZULRws52a79fAaGnR6auWBxV6U6b2aoymf4Nc944bBps7adAzzNsL5hugJ0TAUy2Y9Dg2JGiS63jJSbMGCGszxCHghrUmL73iYen_diUVEwJMwML_5QGRBXoAl2Ur7UmiSGUVLXY=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/vN0codox6jjTzhmnGJ1K64Pna75ncsrhscnn4D915ZflfcVfXORPRVEbOTJFVgUssA8ZkpcK3L41bZlDy-VnE-uXrhu2OFVKd28-mEB2twUcsOKsIK50XvUR6VN2KoD3sS2k6H6JGu0=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/ayD3YVlp2wX4CUjiVttl6IVTNVihNxyvB4qYAW4QrlkSr1OLmk-H1qoMINcgvCJng-y0W797dC_96CyudmItZswe3YW3CTv_AL4VqviBPwxvUVX93OD-6JWrDIRthRNKP8JAtMxapGw=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/3v5OeF3GAmwz9ekPxwxes8XRMiW6_mpWAPt0KeaOXF-VawU4TGO5Zyue86yEjS76rBnHEvpsVsVqERhZAlmN-zpjh0mf3JkE96zBLZgW56E8qOxtBPaIliMRaecOUoAz1lbp3DJAO3I=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/C17n0vVjcIlBWaoyQhiZr8JV01JFgmfXXEJ__aNg-gKuEDSIvBX5kxRw7lgw86gg4kxNM_Ll9-u1Eho_X2vEzo0GEELm36JR0a_gixp6EDDisRrd11QRLwtd_heb6TssClj4Hllqybo=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/21eDu6lDBTfoOyi0UmLY2s4hfZ0pRe7ZYLbsjZ-vZNiglZqz03NfA7SSCK16oIXzVVeBNUrDLYCsMIUCsRO-ZcI-D9EJUpZLOL860mX0B2mDyK83300UqLttgHEGa3Hyr_5U2XnbaPU=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/OvJHspJVemFj_h_TdS6z49bU7VR2QRx1QW7FocXzhT7xH2dYw8trkXbKPOqL9ZI5QwJuwTy5DEKvt8Q8qeu8HTUnuUcUA_1LgL6nZ2LXsBwmAEeib8p-wbS7qDT3cZvgSktpg-d7P_U=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/129nKbe0uvmVLHBibB_BVseHOkhvSjUyA5yRZ2EvtF1HK6T2TtEQkys0IIFzstR-83iZ3fvlUDXe8HV0UkpWTGv4yf1V0n3kaYUDs1oCC4WrFCfmmpgnjItb2Hnd7c6jzYctV54f5RA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/POZb83BsF06B_j7B6x_TzMrA1BuqWrRFITU_dwVBH4adSFJAb24Avidi5dLacFBG3wgEqikBx3kK4AT_eYkNNbDVa6kAy6nMuG3heSTCzQk5DnAc_GcRblmwJl-m9Ki10NFpBbCHfGo=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/0LmdrD8Unt2-SiUel6N4_AGnbB5NUlTFAfQEAubzrqE_mgnDoowXwOVRIqn2Nkh5rY4swzHpNf1ztSojGavM5UUttUQQUX253xpZ1QcfT-bLwlcPl0qHMhO05rNVp3Re6vHthNwbNEY=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/XYymwV3bWmBLzqjlFBDOg5cNUsX15VwqLBFRqxRkssGo-OIL3gGaf_dSzqSAHurzf0alGvSB668-tZvi8rGuDJwf59xfR6bdvcbvHWXedA5YPmDiO_btV82zbxFMKrnQVPCLPUISu7A=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/IO2NpIkdhm4e48hZTu7nzGXwHuQSHVAAScz2BqQNzM137md7ujc5ryZo_HZ_xcF0vYoLXczpkhj7F1Go-rLBKfTEZ3qQI71vVeEYR3MvmmeZO1mOwgCqB4dEPbtCZuh5I9syfMIjZ6c=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/LuPrgL_uLz6s5S_DptXZ9W4pBAKwUHDRLklXwsWbiscaDMm5zoj7H55gzsTaYDb3hGhwM2UpboknSldeCpz2WGNRzc4uM70AJ62-1a6ejte60NlRmrzgyGGgCj3GiqWOyqoujW15Fh4=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/IIOFHS5UxEi7C9Yxm3yqcN2ZWXXyt0-_QrIbQ0YZSKkerCqrcj8ANlqJr2Z-U6rIF_7aAA4DRGiryfq2xG1zulQQUDZQtIMCE7YMtoMofMAwtYC66Kqg7HOJ_VhmWSqsuao0LJxtyPY=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/7Dtri0QYyIHzeOysZ0ST8xtsEM2qIFhM3Ida-RyaZumzNLnUa9ybaRKKFhc8BB-Ev014NQtFTrKB5YneXobGd7u4lBKULGZU11O8EEapPb0TXtZU8Z1h4wjG0StIgmlHMT7jhRt2qtw=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/7vWGSqJxuwozOqkf5f2SIOiGrIBmKC1Ng5asVPY55wjRgTaBDEBh-IAEr_ZfrhZBV1lD85-O9mIOj98a_rwlOuIeQhuxAHhduL2f8_Oqqhu2bWz5uH8qcm9IM7O8Cr86k0ik3QQS5AE=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/HwC-k_v7C0aKYJD3yxmnL05VLmHDAGkPBIORamXrywn_S_TR2su9igrRdKH-jH-w9ioqFxMO6h6leKUAvqE5CPAVy0_BQu-zpw3bYJSSENIojHAj0EQe_fvPvmrRA85629ySrsofk90=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/hz0QhHob72mvyAC6zwxOMJH8tcgGLM9rPnVad0xuRnMdLVHgqn12-IRA3DR18d4tmZbGRBpJPA4ACAGbw-bb41nJcW1VnVfnnvo4jD22gwBOiCLuU8FLKZWoVoGrKtneJxjjKS8E_3A=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/TRTae8Qxf7kS3Uo--gjbh9Mro-VtiHEAI4nR6axXT7Qdjxp5G70AEW4vcbSVqfOjvkXFOAeBO2ui5-IRRNqBzUS2NmpPYd9ORYG_ZdifH7VVoat6U-whDs244azyg1xzmLWGJiV0wYo=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/eJjZULRws52a79fAaGnR6auWBxV6U6b2aoymf4Nc944bBps7adAzzNsL5hugJ0TAUy2Y9Dg2JGiS63jJSbMGCGszxCHghrUmL73iYen_diUVEwJMwML_5QGRBXoAl2Ur7UmiSGUVLXY=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/vN0codox6jjTzhmnGJ1K64Pna75ncsrhscnn4D915ZflfcVfXORPRVEbOTJFVgUssA8ZkpcK3L41bZlDy-VnE-uXrhu2OFVKd28-mEB2twUcsOKsIK50XvUR6VN2KoD3sS2k6H6JGu0=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/ayD3YVlp2wX4CUjiVttl6IVTNVihNxyvB4qYAW4QrlkSr1OLmk-H1qoMINcgvCJng-y0W797dC_96CyudmItZswe3YW3CTv_AL4VqviBPwxvUVX93OD-6JWrDIRthRNKP8JAtMxapGw=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/3v5OeF3GAmwz9ekPxwxes8XRMiW6_mpWAPt0KeaOXF-VawU4TGO5Zyue86yEjS76rBnHEvpsVsVqERhZAlmN-zpjh0mf3JkE96zBLZgW56E8qOxtBPaIliMRaecOUoAz1lbp3DJAO3I=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/C17n0vVjcIlBWaoyQhiZr8JV01JFgmfXXEJ__aNg-gKuEDSIvBX5kxRw7lgw86gg4kxNM_Ll9-u1Eho_X2vEzo0GEELm36JR0a_gixp6EDDisRrd11QRLwtd_heb6TssClj4Hllqybo=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/21eDu6lDBTfoOyi0UmLY2s4hfZ0pRe7ZYLbsjZ-vZNiglZqz03NfA7SSCK16oIXzVVeBNUrDLYCsMIUCsRO-ZcI-D9EJUpZLOL860mX0B2mDyK83300UqLttgHEGa3Hyr_5U2XnbaPU=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/OvJHspJVemFj_h_TdS6z49bU7VR2QRx1QW7FocXzhT7xH2dYw8trkXbKPOqL9ZI5QwJuwTy5DEKvt8Q8qeu8HTUnuUcUA_1LgL6nZ2LXsBwmAEeib8p-wbS7qDT3cZvgSktpg-d7P_U=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/129nKbe0uvmVLHBibB_BVseHOkhvSjUyA5yRZ2EvtF1HK6T2TtEQkys0IIFzstR-83iZ3fvlUDXe8HV0UkpWTGv4yf1V0n3kaYUDs1oCC4WrFCfmmpgnjItb2Hnd7c6jzYctV54f5RA=w1280-h720"></object>
   
 </div>

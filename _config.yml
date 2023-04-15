@@ -16,7 +16,7 @@ jumbotron: disabled
 
 disqus: 
   name: 'thekosmix'
-  comment: 'disabled'
+  comment: 'enabled'
 
 # Authors
 authors:
@@ -80,3 +80,8 @@ adsense-data-ad-client: "ca-pub-7697716916792560"
 lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+webrick:
+  headers:
+    Cache-Control: max-age=31536000
+    
