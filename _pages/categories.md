@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Categories
-permalink: /category
+permalink: /category.html
 ---
