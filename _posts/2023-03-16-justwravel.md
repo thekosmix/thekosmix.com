@@ -5,7 +5,7 @@ redirect_from:
   - /how-to-plan-your-trips-and-travels-in-india/
 author: sid
 categories: [ Travel, backpacking, Road Trip, Trekking, Weekend Getaway ]
-image: assets/images/justwravel.jpg
+image: assets/images/justwravel.webp
 featured: true
 hidden: true
 rating: 5

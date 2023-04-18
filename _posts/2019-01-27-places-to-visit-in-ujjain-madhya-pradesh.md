@@ -6,7 +6,7 @@ redirect_from:
   - /ujjain-madhya-pradesh/
 author: sid
 categories: [ River, Pilgrimage, Temple ]
-image: assets/images/ujjain.jpg
+image: assets/images/ujjain.webp
 rating: 4
 ---
 Ujjain is beleived to be the city of birth of Chandra (moon god). This holy city is situated at the banks of Kshipra River. It is the place of of the Mahakaleshar, one of the 12 Jyotirlinga's of Lord Shiva. It is one of the most visited places among the holy cities of India.
@@ -25,14 +25,14 @@ Ujjain is also home to a number of educational institutions, such as the Vikram 
   data-title="Ujjain, Madhya Pradesh"
   data-delay="3"
   data-description="Pilgrimage of Ujjain">
-  <object data="https://lh3.googleusercontent.com/RQsxfTVpfKdotFR-7gMr-p-9SqNNw0ePmpS__abxQ7dprhKjrU_KuqjNig-mBXTDUx5IGZvv0kDDhLiEs7noomkZ5O4zcFvpsy5_sLKwOcy_52zeVjrRSfHPspJn39yjnmljQHvk4CY=w1280-h720"></object>
-  <object data="https://lh3.googleusercontent.com/GIgarAQjzy6lwwsIsdtkXMtoV20yTPbDvXQY2tqOBflJDxJg65qqRfNM0FrRTBQTOwfrj6brR_0GyklUSTlKppXHub-ULdtw-nrG_Sm9ca0fi7VUPXgx9qrSdhHx_M3hjZlkCbejKe0=w1280-h720"></object>
-  <object data="https://lh3.googleusercontent.com/aAPzhYyUmKtpYj48BdFfoPsCjhrp9MhhQNVVsGM8zTZLl58dRxrmtats3GHsNB0gPDKQA6uqS0bmhxIAryoybAzYiQdIL3D4do6oAa9WM7Y8g2laXm_NSqzW6imCiNiHFStQ5_nnosk=w1280-h720"></object>
-  <object data="https://lh3.googleusercontent.com/47m2eVbFlBb9gtphEnw6DWM_G5Sm_z-U5m8JPDm9Dk_nDBjuJlT-gTD5F0kAqfIDuYn6dtu9DhyzdoDprSyfdc-fHN7I-c8_zonSWh6dcrZve_dQ8iRKdKrRUkF9k_Nurva1wfrwU24=w1280-h720"></object>
-  <object data="https://lh3.googleusercontent.com/aY3fKAw7mVW9HxaK4F6skTS5yqnKVg15_7hRFY0G8RPS8zzWMHEilhveyhIdAsssGEASFQw0eLhcBzjNl99b6AiUsuJf6yOwzdw_6qah5S7m312jaRU9MRhnUOyeq4AZyIbnBvwKZXM=w1280-h720"></object>
-  <object data="https://lh3.googleusercontent.com/L4P7VLgO4j3O0fDc2ZgCJ4AEL0jawBnbqAznXcDxBowIpEENA0z9GrNdr_TN_ttiLPtsdXdYaECgWCSHMTQrdqaSYazVu3U-AajvWHZ3TOQuSbIpO84TaPTS2OcoSCuTa5eeDA9-iEc=w1280-h720"></object>
-  <object data="https://lh3.googleusercontent.com/B2KOEYW30oWao692rG7CANeAF2qxLirs33SAS-HnnW3C9Efh8nT2-xZxU03zkOiPwHMiRemkEFt9Nlwls3U4jq3BXvoDuBIS01qPhxTmWQ1gsFBsTZGlyCZBl1DcKEGilhlTmojsCfU=w1280-h720"></object>
-  <object data="https://lh3.googleusercontent.com/4b3A2EZd-ciK98HQCV2OINwDfeOu6BhrVHWOZS9KqET1xM4fh5hsG9B0v6snkPvrkynCXyYY6kwKKmfYRMcQ5iyjiNHAkQIKdadhOOdqbgez3MH3oYD6JKD36dGhBnOPvtFp6DWLnnU=w1280-h720"></object>
-  <object data="https://lh3.googleusercontent.com/B5yReHxOBD8zsSeRxXYzst8oAK4yCvPvLiaobp1bUxYtmXQnrtzI55KsNgdf4r4pv-i-vWrU4xR96EiF114-8i5h5SBy2ewiu-t9wHjOO8Rg-R9lMZ4R0EIUw14tU2elvKlWG3Q3nBs=w1280-h720"></object>
-  <object data="https://lh3.googleusercontent.com/GI7xj8aSQLGxqSNFgVEUnhM0pzcJZlc_zPqrP3xUrFXXEKmlAoW4Lx2tvNrhsp0qCX4U-i_wWhrn-erFGMJQUKR1SOYolke0XF6MmCn84__DWQJL2rppY0QjnWCBdu6dQrCkPSs1Ofw=w1280-h720"></object>
+  <object data="https://lh3.googleusercontent.com/RQsxfTVpfKdotFR-7gMr-p-9SqNNw0ePmpS__abxQ7dprhKjrU_KuqjNig-mBXTDUx5IGZvv0kDDhLiEs7noomkZ5O4zcFvpsy5_sLKwOcy_52zeVjrRSfHPspJn39yjnmljQHvk4CY=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/GIgarAQjzy6lwwsIsdtkXMtoV20yTPbDvXQY2tqOBflJDxJg65qqRfNM0FrRTBQTOwfrj6brR_0GyklUSTlKppXHub-ULdtw-nrG_Sm9ca0fi7VUPXgx9qrSdhHx_M3hjZlkCbejKe0=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/aAPzhYyUmKtpYj48BdFfoPsCjhrp9MhhQNVVsGM8zTZLl58dRxrmtats3GHsNB0gPDKQA6uqS0bmhxIAryoybAzYiQdIL3D4do6oAa9WM7Y8g2laXm_NSqzW6imCiNiHFStQ5_nnosk=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/47m2eVbFlBb9gtphEnw6DWM_G5Sm_z-U5m8JPDm9Dk_nDBjuJlT-gTD5F0kAqfIDuYn6dtu9DhyzdoDprSyfdc-fHN7I-c8_zonSWh6dcrZve_dQ8iRKdKrRUkF9k_Nurva1wfrwU24=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/aY3fKAw7mVW9HxaK4F6skTS5yqnKVg15_7hRFY0G8RPS8zzWMHEilhveyhIdAsssGEASFQw0eLhcBzjNl99b6AiUsuJf6yOwzdw_6qah5S7m312jaRU9MRhnUOyeq4AZyIbnBvwKZXM=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/L4P7VLgO4j3O0fDc2ZgCJ4AEL0jawBnbqAznXcDxBowIpEENA0z9GrNdr_TN_ttiLPtsdXdYaECgWCSHMTQrdqaSYazVu3U-AajvWHZ3TOQuSbIpO84TaPTS2OcoSCuTa5eeDA9-iEc=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/B2KOEYW30oWao692rG7CANeAF2qxLirs33SAS-HnnW3C9Efh8nT2-xZxU03zkOiPwHMiRemkEFt9Nlwls3U4jq3BXvoDuBIS01qPhxTmWQ1gsFBsTZGlyCZBl1DcKEGilhlTmojsCfU=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/4b3A2EZd-ciK98HQCV2OINwDfeOu6BhrVHWOZS9KqET1xM4fh5hsG9B0v6snkPvrkynCXyYY6kwKKmfYRMcQ5iyjiNHAkQIKdadhOOdqbgez3MH3oYD6JKD36dGhBnOPvtFp6DWLnnU=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/B5yReHxOBD8zsSeRxXYzst8oAK4yCvPvLiaobp1bUxYtmXQnrtzI55KsNgdf4r4pv-i-vWrU4xR96EiF114-8i5h5SBy2ewiu-t9wHjOO8Rg-R9lMZ4R0EIUw14tU2elvKlWG3Q3nBs=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/GI7xj8aSQLGxqSNFgVEUnhM0pzcJZlc_zPqrP3xUrFXXEKmlAoW4Lx2tvNrhsp0qCX4U-i_wWhrn-erFGMJQUKR1SOYolke0XF6MmCn84__DWQJL2rppY0QjnWCBdu6dQrCkPSs1Ofw=w960-rw-h720"></object>
 </div>
