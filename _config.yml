@@ -48,7 +48,10 @@ plugins:
   - jekyll-archives
   - jekyll-redirect-from
   - jekyll-minifier
-    
+
+redirect_from:
+  json: false
+
 # Archives
 jekyll-archives:
   enabled:
