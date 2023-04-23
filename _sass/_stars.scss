@@ -61,7 +61,7 @@ $rating-icons-paths: (
 ///     <span>4</span>
 ///     <span>5</span>
 ///   </div>
-@mixin c-rating($star-size: 20px, $star-element: button, $interaction-type: representative) {
+@mixin c-rating($star-size: 48px, $star-element: button, $interaction-type: representative) {
   @if not index(clickable representative, $interaction-type) {
     @error "Interaction type must be either `clickable` or `representative`.";
   }
@@ -120,12 +120,12 @@ $rating-icons-paths: (
   font-size: 16px;
   display: inline-block;
   background-color: #fff;
-  border-radius: toem(25px);
+  border-radius: toem(50px);
   box-sizing: border-box;
 }
 
 .c-rating {
-  @include c-rating(toem(20px), button, clickable);
+  @include c-rating(toem(48px), button, clickable);
   
   &--small {
     font-size: 50%
