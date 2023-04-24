@@ -2,7 +2,7 @@
 name: "thekosmix"
 url: "https://www.thekosmix.com"
 title: "Experiences of a Traveller"
-description: "Experiences acumulated throughout my professional and personal journey."
+description: "Travel experiences acumulated throughout my professional and personal journey. Specially through snowy mountains of Himalayan range, beaches of western ghats and lush greenery of jungles on eastern India."
 logo: 'assets/images/home.ico'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -29,15 +29,6 @@ authors:
     twitter: https://twitter.com/thekosmix
     linkedin: https://www.linkedin.com/in/kumarsiddharth
     description: "Coder by Profession, Adventurer by passion, Explorer by choice"
-#   john:
-#     name: John
-#     display_name: John    
-#     avatar: 'assets/images/avatar.png'
-#     gravatar: b1cc14991db7a456fcd761680bbc8f81
-#     email: wowthemesnet@gmail.com
-#     web: https://www.wowthemes.net
-#     twitter: https://twitter.com/wowthemesnet
-#     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins:
