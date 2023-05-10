@@ -12,6 +12,7 @@ include: ["_pages"]
 permalink: /:title/
 environment: 'production'
 social_share: disabled
+soopr_share: enabled
 jumbotron: disabled
 
 disqus: 

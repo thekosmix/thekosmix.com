@@ -183,4 +183,9 @@ https://search.google.com/structured-data/testing-tool/u/0/
   }
 }
 </script>
+
+{% if site.soopr_share == "enabled" %}
+    {% include soopr-share.html %}
+{% endif %}
+
 {% endif %}
