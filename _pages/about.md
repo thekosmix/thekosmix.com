@@ -10,7 +10,7 @@ comments: true
 
         <p>The nature is beautiful so are the people. And the places created by both of them are amazing. I will take you to a journey of different places including mountains, rivers, sea-shores, cities, adventures, monuments and much more. stay tuned!!</p>
         
-        <p>Below are few places covered by me in India. So far I've been to total 27 states and UTs. I also contribute on Google Maps. My shared images & posts have more than <a href="https://www.google.co.in/maps/contrib/118147622802569594383" target="_blank">20Mn+ views</a><p>
+        <p>Below are few places covered by me in India. So far I've been to total 27 states and UTs. I also contribute on Google Maps. My shared images & posts have more than <a href="https://www.google.co.in/maps/contrib/118147622802569594383" target="_blank">30Mn+ views</a><p>
 
         <table>
             <tr>
