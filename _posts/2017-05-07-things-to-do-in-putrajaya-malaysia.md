@@ -8,6 +8,7 @@ author: sid
 categories: [ Sea, Mountain, Culture ]
 image: assets/images/putrajaya.webp
 rating: 5
+is_another_country: true
 ---
 This was my first foreign trip. Everything was planned and arranged by my friends, I just had to tag along. We were heading for Bali, but had a 7 hours halt in Malasiya, so we thought why not go visit the Smart city of Putajaya and boy, oh boy, it was a marvel to admire!!
 

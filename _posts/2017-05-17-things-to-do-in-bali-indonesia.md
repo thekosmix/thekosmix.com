@@ -8,6 +8,7 @@ author: sid
 categories: [ Sea, Mountain, Culture ]
 image: assets/images/bali.webp
 rating: 5
+is_another_country: true
 ---
 Bali is the best place to chill on a vacation. Economic, clean, hospitable people, great food, great view, places to party hard or relax, adventurous sports and activities. Everything you can hope for from a trip. Bali is the complete package. This small island nation of Indonesia is Hindu dominated and they embrace their culture with modernity. You can see small temples at the gate of every home,shop. They are very welcoming and very hospitable.
 

@@ -7,6 +7,7 @@ author: sid
 categories: [Mountain, Valley, Road Trip, Monuments]
 image: assets/images/west-sikkim.webp
 rating: 4
+tags: [Sikkim]
 ---
 West Sikkim is a district in the Indian state of Sikkim. It is known for its stunning views of the Himalayan Mountains, its lush green valleys, and its abundance of wildlife. The district is home to a number of tourist attractions, such as the Kanchenjunga National Park, the Pemayangtse Monastery, the Rumtek Monastery, and the Yumthang Valley. Additionally, the district is home to a number of religious sites, such as the Dubdi Monastery and the Phodong Monastery. Additionally, the district is home to a number of shopping centers, such as the M.G. Marg and the Lal Bazaar. Additionally, the district is home to a number of parks and gardens, such as the Kyongnosla Alpine Sanctuary and the Shingba Rhododendron Sanctuary.
 

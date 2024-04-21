@@ -8,6 +8,7 @@ author: sid
 categories: [ Beach, History, Church ]
 image: assets/images/kochi.webp
 rating: 4
+tags: [Kerala]
 ---
 Located in the beautiful state of Kerala, Kochi is a major port city in India and has been a significant trade centre for centuries. Even though it has a history dating back to thousands of years, it is mainly noted for its natural beauty. From beaches to backwaters and hills to forests, it has everything that allures tourists from all over the country. Therefore, over a period of time, Kochi has become of the most-visited tourist destination in South India.
 

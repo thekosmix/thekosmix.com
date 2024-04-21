@@ -7,6 +7,7 @@ author: sid
 categories: [ Monuments, Peaks, Valley, Garden ]
 image: assets/images/srinagar.webp
 rating: 5
+tags: [Jammu and Kashmir]
 ---
 Gar firdaus bar-rue zamin ast, hami asto, hamin asto, hamin ast.” “If there is a heaven on earth, it’s here, it’s here, it’s here.” Mughal Emperor Jehangir said it all when he visited Kashmir in the 17th century.
 

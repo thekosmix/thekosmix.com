@@ -7,6 +7,7 @@ author: sid
 categories: [Rain, Nature]
 image: assets/images/cherrapunji.webp
 rating: 4
+tags: [Meghalaya]
 ---
 Cherrapunji is a small town located in the East Khasi Hills district of Meghalaya, India. It is known for its lush green landscape, its spectacular waterfalls, and its unique culture. The town is home to a number of tourist attractions, such as the Nohkalikai Falls, the Mawsmai Cave, and the Seven Sisters Falls. Additionally, the town is home to a number of religious sites, such as the Mawphlang Sacred Forest and the Mawsynram Monoliths. Additionally, the town is home to a number of adventure activities, such as trekking, rock climbing, and mountain biking. Additionally, the town is home to a number of cultural attractions, such as the Cherrapunji Heritage Museum and the Cherrapunji Arts and Crafts Centre. Additionally, the town is home to a number of educational institutions, such as the North Eastern Hill University and the Don Bosco College.
 

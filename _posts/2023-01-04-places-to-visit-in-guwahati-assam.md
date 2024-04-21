@@ -8,6 +8,7 @@ author: sid
 categories: [Temple, War Memorial, Nature]
 image: assets/images/guwahati.webp
 rating: 4
+tags: [Assam]
 ---
 The capital city of Assam and home to the world famous one-horned rhinoceros, Guwahati is one of the best places to visit in the northeast of India. With the mighty Brahmaputra River flowing through it and nature’s abundant beauty, you’ll be spoilt for choice in this charming city. It’s recommended to choose from the hotels in [Guwahati](https://www.justwravel.com/road-trip-from-Guwahati) located in the centre of the city so that travelling and sightseeing is simpler and hassle-free.
 

@@ -7,6 +7,7 @@ author: sid
 categories: [Sea, Beach, Coral, Island, Sunset]
 image: assets/images/minicoy.webp
 rating: 5
+tags: [Lakshadweep]
 ---
 The Minicoy Island is the southern-most island of Lakshadweep, situated at a distance of 398 km (215 nautical miles) south-west of Kochi between 8° 15′ and 8° 20′ N latitude and 73° 01′ and 73° OS’ E longitude, having an area of 4.80 sq km.
 

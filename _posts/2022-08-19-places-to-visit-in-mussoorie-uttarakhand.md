@@ -8,6 +8,7 @@ author: sid
 categories: [ Chill, Snow, Mountain, Weekend Getaway]
 image: assets/images/mussoorie.webp
 rating: 5
+tags: [Uttarakhand]
 ---
 [Mussoorie](https://www.justwravel.com/package/3-Night-4-Days-Mussoorie-Dhanaulti-Tour-Package), located almost 35 km away from Dehradun, is nestled in the foothills of the Himalayan Range. It has been popular since colonial years of India, and is one of the most visited and admired hill stations in India. Mussoorie is best visited between mid-March to mid-November. December to February should be avoided as the rains during monsoons and the cold during the winters make it pretty inaccessible.
 

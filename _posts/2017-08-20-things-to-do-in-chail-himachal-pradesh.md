@@ -8,6 +8,7 @@ author: sid
 categories: [ Mountain, Palaces, Chill, Snow ]
 image: assets/images/chail.webp
 rating: 5
+tags: [Himachal Pradesh]
 ---
 
 Merely 2 hours drive away from the Shimla, Chail is a quiet hill-station tucked in the lap of nature. A haven for those wanting to escape mind-numbing restlessness of city life, this lovely town was a former summer retreat for the Maharaja of Patiala. Dining at a lake restaurant, walking on the highest cricket ground in the world, and listening to the chirping of birds in the Chail Wildlife Sanctuary – there are a lot of lovely experiences you can have at the popular places to visit in Chail, Himachal Pradesh

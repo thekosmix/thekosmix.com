@@ -7,6 +7,7 @@ author: sid
 categories: [Trekking, Mountain, Weekend Getaway, Lake]
 image: assets/images/jibhi.webp
 rating: 4.5
+tags: [Himachal Pradesh]
 ---
 Jibhi is a small village in the Banjar Valley of Himachal Pradesh, India. It is located at an altitude of 2,000 meters (6,600 feet) above sea level, and is surrounded by lush green forests, snow-capped mountains, and sparkling rivers.
 

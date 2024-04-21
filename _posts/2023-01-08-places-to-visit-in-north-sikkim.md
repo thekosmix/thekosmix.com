@@ -7,6 +7,7 @@ author: sid
 categories: [Mountain, Valley, Road Trip]
 image: assets/images/north-sikkim.webp
 rating: 4
+tags: [Sikkim]
 ---
 India has earned itself a slice of heaven in the form of North Sikkim. Snuggling the Himalayas, this beautiful part of a Northeastern Indian state is a place unlike any other in the country. The breathtaking view of Mount Khangchendzonga, the fragrance of a variety of flowers, the quietness of sparkling lakes and the gurgling of rivers like Teesta make [North Sikkim](https://www.justwravel.com/package/Sikkim-Road-Trip) a destination that no nature lover should miss. So, whether you are looking for some adventure or peace of mind, solace or romance, North Sikkim is a destination that you must plan to visit.
 

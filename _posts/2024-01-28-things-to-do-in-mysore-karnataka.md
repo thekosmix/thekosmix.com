@@ -8,6 +8,7 @@ author: sid
 categories: [Palaces, Resorts, Weekend Getaway, Zoo]
 image: assets/images/mysuru.webp
 rating: 4.5
+tags: [Karnataka]
 ---
 Mysuru, also known as Mysore, is the second most populous city in the southern Indian state of Karnataka. It is famous for its heritage structures, palaces, and its culture, and has been called the "City of Palaces", the "Heritage City", and the "Cultural Capital of Karnataka". It is also one of the cleanest cities in India.
 

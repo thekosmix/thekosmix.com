@@ -8,6 +8,7 @@ author: sid
 categories: [ Monuments, Palaces ]
 image: assets/images/jaisalmer.webp
 rating: 4
+tags: [Rajasthan]
 ---
 [Jaisalmer](https://www.justwravel.com/package/Jaisalmer-tour) is a former medieval trading center and a princely state in the western Indian state of Rajasthan, in the heart of the Thar Desert. Known as the "Golden City," it's distinguished by its yellow sandstone architecture. Dominating the skyline is Jaisalmer Fort, a sprawling hilltop citadel buttressed by 99 bastions. Behind its massive walls stand the ornate Maharaja's Palace and intricately carved Jain temples.
 

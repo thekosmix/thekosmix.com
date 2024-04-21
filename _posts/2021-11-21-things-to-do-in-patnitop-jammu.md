@@ -7,6 +7,7 @@ author: sid
 categories: [ Shrine, Mountain, Trekking, Resorts ]
 image: assets/images/patnitop.webp
 rating: 4.5
+tags: [Jammu and Kashmir]
 ---
 
 Patnitop is a hill station located in the Udhampur district of Jammu and Kashmir. 

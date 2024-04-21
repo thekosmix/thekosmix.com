@@ -7,6 +7,7 @@ author: sid
 categories: [Sea, Beach, Coral, Island]
 image: assets/images/agatti.webp
 rating: 5
+tags: [Lakshadweep]
 ---
 Agatti has one of the most beautiful lagoons in Lakshadweep. The airport is built on this island. From the aircraft, as one approaches for a landing, one gets a breath-taking view of the airstrip on the island. Agatti is the virtual gateway to the islands. A 20-bed tourist complex with all modern amenities has been set up here. Indian Airlines operate flight to Agatti making it one of the most accessible islands in Lakshadweep
 

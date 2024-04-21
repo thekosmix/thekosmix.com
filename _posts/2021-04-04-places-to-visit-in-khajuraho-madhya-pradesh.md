@@ -8,6 +8,7 @@ author: sid
 categories: [ Monuments, Temple ]
 image: assets/images/khajuraho.webp
 rating: 3.5
+tags: [Madhya Pradesh]
 ---
 Khajuraho is a small town located in the state of Madhya Pradesh, India. It is known for its ancient Hindu and Jain temples, which are renowned for their intricate sculptures and carvings. The temples were built between 950 and 1050 AD and are now a UNESCO World Heritage Site. The temples are divided into three groups, the Western Group, the Eastern Group, and the Southern Group. The temples are dedicated to various Hindu gods and goddesses, including Shiva, Vishnu, and Parvati. The temples are also known for their erotic sculptures, which depict various aspects of human life. Khajuraho is also home to a number of other attractions, including the Khajuraho Dance Festival, the Khajuraho Wildlife Sanctuary, and the Khajuraho Museum.
 

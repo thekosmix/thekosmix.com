@@ -7,6 +7,8 @@ redirect_from:
 author: sid
 categories: [ River, Temple, Pilgrimage ]
 image: assets/images/haridwar.webp
+rating: 3.5
+tags: [Uttarakhand]
 ---
 Haridwar is situated on the right bank of the Ganges river, at the foothills of the Shivalik ranges. Haridwar is regarded as a holy place for Hindus, hosting important religious events and serving as a gateway to several prominent places of worship. Most significant of the events is the Kumbha Mela, which is celebrated every 12 years in Haridwar. During the Haridwar Kumbh Mela, millions of pilgrims, devotees, and tourists congregate in Haridwar to perform ritualistic bathing on the banks of the Ganges to wash away their sins to attain moksha.
 

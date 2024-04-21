@@ -8,6 +8,7 @@ author: sid
 categories: [ Monuments, Lake, Palaces ]
 image: assets/images/udaipur.webp
 rating: 4
+tags: [Rajasthan]
 ---
 Udaipur is a city in the state of Rajasthan, India. It is known for its beautiful lakes, palaces, and temples. Udaipur is home to a number of historical monuments, including the City Palace, the Jag Mandir Palace, and the Lake Palace. The city is also home to a number of other attractions, such as the Jagdish Temple, the Monsoon Palace, and the Fateh Sagar Lake. Udaipur is also home to a number of other activities, such as shopping, dining, and entertainment. The city is also home to a number of festivals, such as the Mewar Festival, the Gangaur Festival, and the Shilpgram Festival.
 

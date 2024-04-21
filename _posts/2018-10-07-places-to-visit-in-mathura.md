@@ -7,7 +7,8 @@ redirect_from:
 author: sid
 categories: [ Pilgrimage, History ]
 image: assets/images/mathura.webp
-rating: 4
+rating: 3.5
+tags: [Uttar Pradesh]
 ---
 Mathura is a sacred city in Uttar Pradesh, northern India. The deity Lord Krishna is said to have been born on the site of Sri Krishna Janma Bhoomi, a Hindu temple. Dotting the Yamuna River are 25 ghats (flights of steps down to the water), of which Vishram Ghat is considered the holiest. Sati Burj is a 16th-century memorial tower. Dwarkadhish Temple has a carved entrance and a black-marble idol of Lord Krishna.
 

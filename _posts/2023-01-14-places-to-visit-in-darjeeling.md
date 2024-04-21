@@ -7,6 +7,7 @@ author: sid
 categories: [Monuments, Hill Station, Tea Garden]
 image: assets/images/darjeeling.webp
 rating: 4
+tags: [West Bengal]
 ---
 Darjeeling is a hill station in the Indian state of West Bengal. It is known for its tea plantations, colonial architecture, and stunning views of the Himalayan Mountains. The city is home to a number of tourist attractions, such as the Tiger Hill, the Batasia Loop, the Himalayan Mountaineering Institute, and the Padmaja Naidu Himalayan Zoological Park. Additionally, the city is home to a number of religious sites, such as the Mahakal Temple, the Ghoom Monastery, and the Bhutia Busty Monastery. Additionally, the city is home to a number of shopping centers, such as the Chowrasta Mall and the Mall Road. Additionally, the city is home to a number of parks and gardens, such as the Rock Garden and the Observatory Hill.
 

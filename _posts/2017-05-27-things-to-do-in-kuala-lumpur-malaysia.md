@@ -8,6 +8,7 @@ author: sid
 categories: [ Modern World ]
 image: assets/images/kualalumpur.webp
 rating: 5
+is_another_country: true
 ---
 We visited Kuala Lumpur while coming back from Bali. Kuala Lumpur was a lifetime experience to had. The might of Petronas twin tower makes you realise that petroleum is liquid gold. The greenery surrounding KLCC park was just mesmerising. You should also not miss the nearby Masjid Asy-Syakirin KLCC mosque. Almost everywhere they were accepting USD so it was very convinient for us.
 

@@ -8,6 +8,7 @@ author: sid
 categories: [River, Road Trip, Camping, Water Sports]
 image: assets/images/shnongpdeng.webp
 rating: 4
+tags: [Meghalaya]
 ---
 Shnongpdeng is a small village located in the East Khasi Hills district of Meghalaya, India. It is known for its picturesque landscape, its stunning waterfalls, and its unique culture. The village is home to a number of tourist attractions, such as the Shnongpdeng Monoliths, the Shnongpdeng Viewpoint, and the Shnongpdeng Waterfalls. Additionally, the village is home to a number of religious sites, such as the Shnongpdeng Sacred Forest and the Shnongpdeng Temple. Additionally, the village is home to a number of adventure activities, such as trekking, rock climbing, and mountain biking. Additionally, the village is home to a number of cultural attractions, such as the Shnongpdeng Arts and Crafts Centre and the Shnongpdeng Heritage Museum. The village is also home to a number of educational institutions, such as the Shnongpdeng College and the Shnongpdeng Institute of Technology.
 

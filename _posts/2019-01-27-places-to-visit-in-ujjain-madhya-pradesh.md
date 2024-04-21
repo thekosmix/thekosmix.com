@@ -8,6 +8,7 @@ author: sid
 categories: [ River, Pilgrimage, Temple ]
 image: assets/images/ujjain.webp
 rating: 4
+tags: [Madhya Pradesh]
 ---
 Ujjain is beleived to be the city of birth of Chandra (moon god). This holy city is situated at the banks of Kshipra River. It is the place of of the Mahakaleshar, one of the 12 Jyotirlinga's of Lord Shiva. It is one of the most visited places among the holy cities of India.
 

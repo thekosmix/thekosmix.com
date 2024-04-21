@@ -8,6 +8,7 @@ author: sid
 categories: [ Forest, Spices, Tea Garden ]
 image: assets/images/munnar.webp
 rating: 4
+tags: [Kerala]
 ---
 Munnar is amazingly beautiful and serene, covered with lush greenery. You would see miles of tea plantation here which looks amazing during winter season amidst fog. You can rent out a hotel/resort deep in jungles and if you're lucky you can sight wild elephants as well.
 

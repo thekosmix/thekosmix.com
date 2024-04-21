@@ -8,6 +8,7 @@ author: sid
 categories: [ Resorts, Restaurants, Modern Architecture, Party, Long Drive ]
 image: assets/images/gurugram.webp
 rating: 4.5
+tags: [Haryana]
 ---
 
 Gurugram, also known as Gurgaon, is a city in the northern Indian state of Haryana. It is situated near the Delhi–Haryana border, about 30 kilometres (19 mi) southwest of the national capital New Delhi and 268 km (167 mi) south of Chandigarh, the state capital. 

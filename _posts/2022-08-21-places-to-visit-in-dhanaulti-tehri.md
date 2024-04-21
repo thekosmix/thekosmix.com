@@ -8,6 +8,7 @@ author: sid
 categories: [Man-made Lake, Chill, Mountain, Weekend Getaway]
 image: assets/images/dhanaulti.webp
 rating: 4
+tags: [Uttarakhand]
 ---
 [Dhanaulti](https://www.justwravel.com/package/3-Night-4-Days-Mussoorie-Dhanaulti-Tour-Package) is a small town near Mussoorie, beautifully nestled amid the lofty Himalayan peaks. It can be a destination in itself, but it’s more of a serene pit stop for travellers heading for longer journeys or leisure Uttarakhand holiday. Thus, places to visit in Dhanaulti are not any grand attractions, but small and beautiful places that offer solitude and peace, close to nature.
 

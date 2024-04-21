@@ -8,6 +8,7 @@ author: sid
 categories: [Chill, Snow, Mountain, Long trip, Trekking]
 image: assets/images/joshimath.webp
 rating: 4
+tags: [Uttarakhand]
 ---
 Ghangaria is a small village located in the Chamoli district of Uttarakhand, India. It is situated at an altitude of 3,050 meters and is known for its breathtaking views of the Himalayas. The village is a popular destination for trekkers and pilgrims, as it is the base camp for the Char Dham Yatra. Ghangaria is also home to a number of ancient temples and monasteries, including the famous Hemkund Sahib Gurudwara. Other attractions in Ghangaria include the Valley of Flowers National Park, the Pushpawati River, and the nearby hot springs. The village is also a great place to enjoy the local cuisine and culture.
 

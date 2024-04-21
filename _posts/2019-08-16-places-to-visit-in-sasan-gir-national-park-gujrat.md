@@ -8,6 +8,7 @@ author: sid
 categories: [ Wild Animals, Forest ]
 image: assets/images/sasan.webp
 rating: 5
+tags: [Gujrat]
 ---
 Sasan Gir is a wildlife sanctuary located in the Indian state of Gujarat. It is the only home of the Asiatic lion and is one of the most popular tourist destinations in India. The sanctuary covers an area of 1412 square kilometers and is home to a variety of wildlife, including leopards, hyenas, jackals, antelopes, and more than 300 species of birds. The sanctuary also has a number of ancient temples and monuments, such as the Girnar Temple and the Junagadh Fort. Additionally, the sanctuary is home to a number of activities, such as safaris, bird watching, and nature walks.
 

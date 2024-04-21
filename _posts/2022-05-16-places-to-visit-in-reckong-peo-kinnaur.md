@@ -8,6 +8,7 @@ author: sid
 categories: [ Chill, Long Drive, Mountain, Snow, Long trip]
 image: assets/images/reckong-peo.webp
 rating: 4
+tags: [Himachal Pradesh]
 ---
 Reckong Peo is a small town in the Kinnaur district of Himachal Pradesh, India. It is located at an altitude of 2,290 meters and is the administrative center of the district. The town is known for its scenic beauty and is a popular tourist destination. It is home to several ancient temples and monasteries, including the famous Kalpa Monastery. The town is also known for its apple orchards and is a great place to enjoy the local cuisine. Other attractions in Reckong Peo include the Sangla Valley, the Baspa Valley, and the Kinner Kailash mountain range.
 

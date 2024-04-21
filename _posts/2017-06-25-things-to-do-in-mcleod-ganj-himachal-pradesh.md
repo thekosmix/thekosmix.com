@@ -8,6 +8,7 @@ author: sid
 categories: [ Trekking, Mountain, Weekend Getaway, Monasteries ]
 image: assets/images/mcleodganj.webp
 rating: 4.5
+tags: [Himachal Pradesh]
 ---
 My second solo trip to McLeod Ganj, Himachal Pradesh. In 3 days, I was able to cover a lot of places, including Dharmshala, Bhagsunag waterfall, LTWA(Library of Tibetan Works and Archives), Namgyal Monastery, etc. The best thing about solo trip is you can be whatever you want and there’s no one around to judge you. I met with some interesting people and tagged along with them, met my college friends without knowing they would be there at the same time. It’s a story to tell.
 

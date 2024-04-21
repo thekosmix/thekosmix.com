@@ -8,6 +8,7 @@ author: sid
 categories: [ Monuments, Peaks, Monastries, Valley ]
 image: assets/images/leh.webp
 rating: 5
+tags: [Ladakh]
 ---
 One of the must visit sites of India. You'll truly experience the mamoth Himalayas here. The Valleys are so vast that you can actually feel the emptiness between two peaks. You can rent a bike here and drive through highest motorable roda of the world. The peeks are so high in alleviation that you might need medicine to keep your blood oxygenated.
 

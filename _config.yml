@@ -48,9 +48,11 @@ redirect_from:
 jekyll-archives:
   enabled:
     - categories
+    - tags
   layout: archive
   permalinks:
-    category: '/category/:name/'
+    category: '/categories/:name/'
+    tag: '/states/:name/'
     
 # Pagination 
 paginate: 6

@@ -8,6 +8,7 @@ author: sid
 categories: [Trekking, Root Bridge, Nature]
 image: assets/images/nongriat.webp
 rating: 4
+tags: [Meghalaya]
 ---
 [Nongriat](https://www.justwravel.com/package/Backpackers-trip-to-Meghalaya) is about a lot more than just the double decker root bridge. You have to walk about more than three kilometres and through a series of 3,500 stone-hewn on the trail to Nongriat. On reaching the place, you will find that the place is filled with natural pools, waterfalls, lagoons and many more wonderful natural beauties which will captivate your eyes throughout. Another hour from the area, you will find yourself amidst one of the place’s breathtaking gems — the Rainbow Falls.
 

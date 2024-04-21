@@ -7,6 +7,7 @@ author: sid
 categories: [Mountain, Valley, Road Trip]
 image: assets/images/east-sikkim.webp
 rating: 4
+tags: [Sikkim]
 ---
 With captivating scenery and hypnotizing scene, East Sikkim is a flawless vacationer’s destination in Sikkim. One of the four district, the south-eastern locale of this Himalayan state is the prime destination with numerous places to visit and customs and celebrations to enjoy. The capital city of Sikkim, Gangtok is the prime traveller’s hub of [East Sikkim](https://www.justwravel.com/package/Sikkim-Road-Trip). Aside from being the regulatory centre point of the state, East Sikkim is likewise the centre point of the tourism activities in the Himalayan area.
 

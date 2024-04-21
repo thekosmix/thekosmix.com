@@ -8,6 +8,7 @@ author: sid
 categories: [ Snow, Mountain, Weekend Getaway ]
 image: assets/images/chitkul.webp
 rating: 4.5
+tags: [Himachal Pradesh]
 ---
 I visited Chitkul at the start of April. The temperature over there was in range [-7, 1]°C. It was way way too cold for me!! It was a trip with young folks from college. They had huge energy and enthusiasm in them. We boarded a bus from delhi on Fri night and arrived at Shimla early morning the next day. From there we took a mini-van and started our journey for Chitkul. As Chitkul was coming closer, it started getting colder. We finally arrived in chitkul by Saturday evening, 5pm.
 

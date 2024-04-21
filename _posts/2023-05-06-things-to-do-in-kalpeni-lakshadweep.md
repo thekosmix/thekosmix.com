@@ -7,6 +7,7 @@ author: sid
 categories: [Sea, Beach, Coral, Island, Sunset]
 image: assets/images/kalpeni.webp
 rating: 5
+tags: [Lakshadweep]
 ---
 Kalpeni is an inhabited Atoll in the Union Territory of Lakshadweep, India. It has a distance of 287 km (178 mi) west of the city of Kochi.
 

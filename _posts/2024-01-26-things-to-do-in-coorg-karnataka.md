@@ -9,6 +9,7 @@ author: sid
 categories: [Hill Station, Resorts, Weekend Getaway, Waterfalls]
 image: assets/images/coorg.webp
 rating: 4.5
+tags: [Karnataka]
 ---
 Coorg, also known as Kodagu, is a beautiful hill station in Karnataka, India, nestled in the Western Ghats mountain range. Often referred to as the "Scotland of India" for its lush greenery, rolling hills, and misty climate, Coorg is a popular destination for nature lovers, adventure seekers, and anyone looking for a relaxing escape.
 

@@ -7,7 +7,8 @@ redirect_from:
 author: sid
 categories: [ Temple, River ]
 image: assets/images/vrindavan.webp
-rating: 4
+rating: 3.5
+tags: [Uttar Pradesh]
 ---
 Vrindavan is said to be a major part of Lord Krishna’s childhood. It was here that Lord Krishna and Goddess Radha’s love story bloomed, and all the stories of the notorious side of the Lord with Gopis were based on. Vrindavan, a destination that is more than just being any other geographic location, has stolen the hearts of many. With an essence of spirituality encircling this holy town, Vrindavan is one of its kind. Dozens of temples, constructed in all shapes and sizes, can be seen covering the floors.
 

@@ -8,6 +8,7 @@ author: sid
 categories: [ River, Water Sports ]
 image: assets/images/rishikesh.webp
 rating: 4
+tags: [Uttarakhand]
 ---
 Rishikesh, also spelt as Hrishikesh, is a city governed by Rishikesh Municipal Corporation (since October 2017), and a tehsil in Dehradun district of the Indian state Uttarakhand. Located in the foothills of the Himalayas in northern India, it is known as the "Gateway to the Garhwal Himalayas" and "Yoga Capital of the World". It lies 21 km (13 mi) north of the city Haridwar and 45 km (28 mi) southeast of the state capital Dehradun. It is known as the pilgrimage town and regarded as one of the holiest places for Hindus. Hindu sages and saints have visited Rishikesh since ancient times to meditate in search of higher knowledge.
 

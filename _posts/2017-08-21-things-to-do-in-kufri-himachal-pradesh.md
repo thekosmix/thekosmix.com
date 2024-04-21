@@ -8,6 +8,7 @@ author: sid
 categories: [ Mountain, Chill, Snow, Zoo ]
 image: assets/images/kufri.webp
 rating: 5
+tags: [Himachal Pradesh]
 ---
 
 Kufri, derived from the word ‘kufr’ that means lake in the local language, is a destination to explore in India at least once in a lifetime. Full of vibrancy, this small hill station district of Himachal Pradesh, which is situated just 20 km from the state capital city of Shimla, is blessed with natural beauty and pleasant weather conditions. Since there are various things to do in Kufri, one can spend quality time here whilst getting a fair idea about the cultural setup of this place.

@@ -8,6 +8,7 @@ author: sid
 categories: [ Monuments, History, Zoo, River ]
 image: assets/images/patna.webp
 rating: 3.5
+tags: [Bihar]
 ---
 [Patna](https://traveltriangle.com/blog/things-to-do-in-patna/) is an ancient city that sprawls along the south bank of the Ganges River in Bihar, northeast India. The state capital, it’s home to Bihar Museum, a contemporary landmark exhibiting bronze sculptures and old coins from the region. Nearby, Indo-Saracenic–style Patna Museum displays a casket believed to contain the Buddha’s ashes. Close to the river, the Golghar is a domed colonial granary overlooking the city.
 
