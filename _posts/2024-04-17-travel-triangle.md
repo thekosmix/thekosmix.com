@@ -8,6 +8,7 @@ categories: [ Travel, Road Trip, Weekend Getaway ]
 image: assets/images/tt.webp
 featured: true
 hidden: true
+description: Benefits of planning a trip with Travel Triangle
 rating: 4
 ---
 

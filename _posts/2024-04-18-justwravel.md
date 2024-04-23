@@ -8,6 +8,7 @@ categories: [ Travel, backpacking, Road Trip, Trekking, Weekend Getaway ]
 image: assets/images/justwravel.webp
 featured: true
 hidden: true
+description: Benefits of planning a trip with Justwravel
 rating: 5
 ---
 
