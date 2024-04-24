@@ -14,6 +14,7 @@ environment: 'production'
 social_share: disabled
 soopr_share: enabled
 jumbotron: disabled
+chat: disabled
 
 disqus: 
   name: 'thekosmix'

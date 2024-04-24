@@ -24,11 +24,14 @@
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 
+{% if site.chat == 'enabled' %}
 <script>
     !function(e,n,t,r){
         function o(){try{var e;if((e="string"==typeof this.response?JSON.parse(this.response):this.response).url){var t=n.getElementsByTagName("script")[0],r=n.createElement("script");r.async=!0,r.src=e.url,t.parentNode.insertBefore(r,t)}}catch(e){}}var s,p,a,i=[],c=[];e[t]={init:function(){s=arguments;var e={then:function(n){return c.push({type:"t",next:n}),e},catch:function(n){return c.push({type:"c",next:n}),e}};return e},on:function(){i.push(arguments)},render:function(){p=arguments},destroy:function(){a=arguments}},e.__onWebMessengerHostReady__=function(n){if(delete e.__onWebMessengerHostReady__,e[t]=n,s)for(var r=n.init.apply(n,s),o=0;o<c.length;o++){var u=c[o];r="t"===u.type?r.then(u.next):r.catch(u.next)}p&&n.render.apply(n,p),a&&n.destroy.apply(n,a);for(o=0;o<i.length;o++)n.on.apply(n,i[o])};var u=new XMLHttpRequest;u.addEventListener("load",o),u.open("GET","https://"+r+".webloader.smooch.io/",!0),u.responseType="json",u.send()
     }(window,document,"Smooch","579842287d27c8050166ea3c");
-    </script>
+</script>
+{% endif %}
+
 </head>
 
 {% if site.environment == 'production' %}
@@ -198,6 +201,7 @@ ga('send', 'pageview');
 {% if page.layout == 'post' %}
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
+{% if site.chat == 'enabled' %}
 <script>
     Smooch.init({
         appId: '579842287d27c8050166ea3c',
@@ -211,5 +215,6 @@ ga('send', 'pageview');
         // Your code after init is complete
     }); 
     </script> 
+{% endif %}
 </body>
 </html>
