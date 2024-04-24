@@ -84,20 +84,20 @@ ga('send', 'pageview');
                 {% if page.url == "/" %}
                 <li class="nav-item active">
                 {% else %}
-                <li class="nav-item">
+                <li class="nav-item active">
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
                 </li>
 
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/travel-and-trips-categories/">Travel Categories</a>
+                <li class="nav-item active">
+                    <a class="nav-link" href="{{ site.baseurl }}/trips-and-travel-categories/">Travel Categories</a>
                 </li>
 
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/places-to-visit-in-indian-states/">Indian States</a>
+                <li class="nav-item active">
+                    <a class="nav-link active" href="{{ site.baseurl }}/places-to-visit-in-indian-states/">Indian States</a>
                 </li>
 
-                <li class="nav-item">
+                <li class="nav-item active">
                     <a class="nav-link" href="{{ site.baseurl }}/about/">About</a>
                 </li>
 
@@ -155,11 +155,11 @@ ga('send', 'pageview');
             {% assign categories_list = site.categories %}
             {% if categories_list.first[0] == null %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/travel-and-trips-categories/{{ category | url_escape | strip | downcase | replace: ' ', '-' }}/">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
+                    <a class="mt-1 mb-1" href="{{site.baseurl}}/trips-and-travel-categories/{{ category | url_escape | strip | downcase | replace: ' ', '-' }}/">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
                 {% endfor %}
             {% else %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/travel-and-trips-categories/{{ category[0] | url_escape | strip | downcase | replace: ' ', '-' }}/">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
+                    <a class="mt-1 mb-1" href="{{site.baseurl}}/trips-and-travel-categories/{{ category[0] | url_escape | strip | downcase | replace: ' ', '-' }}/">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
                 {% endfor %}
             {% endif %}
             {% assign categories_list = nil %}
