@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Travel Triangle"
+title:  "Trip planning with Travel Triangle"
 redirect_from:
   - /how-to-plan-your-trips-and-travels-in-india-2/
 author: sid

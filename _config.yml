@@ -51,8 +51,8 @@ jekyll-archives:
     - tags
   layout: archive
   permalinks:
-    category: '/categories/:name/'
-    tag: '/states/:name/'
+    category: '/travel-and-trips-categories/:name/'
+    tag: '/places-to-visit-in-indian-states/:name/'
     
 # Pagination 
 paginate: 6

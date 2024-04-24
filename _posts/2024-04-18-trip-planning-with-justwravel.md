@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JustWravel"
+title:  "Trip planning with JustWravel"
 redirect_from:
   - /how-to-plan-your-trips-and-travels-in-india/
 author: sid
