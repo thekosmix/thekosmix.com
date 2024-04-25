@@ -33,7 +33,7 @@ Mysuru, also known as Mysore, is the second most populous city in the southern I
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.justwravel.com/tour-packages/india/karnataka/4-night-5-days-tour-package-of-kabini-and-mysore"
+  data-link="https://www.justwravel.com/"
   data-title="Mysuru, Karnataka"
   data-description="Palaces, Resorts, Weekend Getaway, Zoo">
   <object data="https://lh3.googleusercontent.com/pw/AP1GczOYuIIb6wpL1TXhg2hFef8dwrwc3ndRbGRDyel4kQs2jUtBG8rDnsRXNvNHykZCiKAwHHgkzGxJqH4C1CCW6RsQll4GNJMm82bRUj6qrHyJgYOX3dcS=w960-rw-h720"></object>

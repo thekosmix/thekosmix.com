@@ -10,7 +10,7 @@ image: assets/images/nongriat.webp
 rating: 4
 tags: [Meghalaya]
 ---
-[Nongriat](https://www.justwravel.com/package/Backpackers-trip-to-Meghalaya) is about a lot more than just the double decker root bridge. You have to walk about more than three kilometres and through a series of 3,500 stone-hewn on the trail to Nongriat. On reaching the place, you will find that the place is filled with natural pools, waterfalls, lagoons and many more wonderful natural beauties which will captivate your eyes throughout. Another hour from the area, you will find yourself amidst one of the place’s breathtaking gems — the Rainbow Falls.
+[Nongriat](https://www.justwravel.com/) is about a lot more than just the double decker root bridge. You have to walk about more than three kilometres and through a series of 3,500 stone-hewn on the trail to Nongriat. On reaching the place, you will find that the place is filled with natural pools, waterfalls, lagoons and many more wonderful natural beauties which will captivate your eyes throughout. Another hour from the area, you will find yourself amidst one of the place’s breathtaking gems — the Rainbow Falls.
 
 The living root bridges of Nongriat village are one of the manmade wonders, dating back many centuries. The aerial roots of Banyan tree on opposite sides of the river are continuously twisted, given direction and woven together, till it can be shaped and strengthened into a sturdy bridge. This is the only means for the villagers to cross the raging water streams to reach the other side. There are two living root bridges in Nongriat, a single deck bridge, and a double decker bridge.
 
@@ -27,7 +27,7 @@ Additionally, the village is home to a number of adventure activities, such as t
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.justwravel.com/package/Backpackers-trip-to-Meghalaya"
+  data-link="https://www.justwravel.com/"
   data-title="Double decker root bridge"
   data-description="Trekking, Root Bridge, Nature"
   data-delay="3">

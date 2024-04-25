@@ -10,7 +10,7 @@ image: assets/images/mussoorie.webp
 rating: 5
 tags: [Uttarakhand]
 ---
-[Mussoorie](https://www.justwravel.com/package/3-Night-4-Days-Mussoorie-Dhanaulti-Tour-Package), located almost 35 km away from Dehradun, is nestled in the foothills of the Himalayan Range. It has been popular since colonial years of India, and is one of the most visited and admired hill stations in India. Mussoorie is best visited between mid-March to mid-November. December to February should be avoided as the rains during monsoons and the cold during the winters make it pretty inaccessible.
+[Mussoorie](https://www.justwravel.com/), located almost 35 km away from Dehradun, is nestled in the foothills of the Himalayan Range. It has been popular since colonial years of India, and is one of the most visited and admired hill stations in India. Mussoorie is best visited between mid-March to mid-November. December to February should be avoided as the rains during monsoons and the cold during the winters make it pretty inaccessible.
 
 In addition to the cool temperatures, this Uttarakhand town offers walks in the fresh mountain air, bathing options in the cool waterfalls, shopping handicrafts and clothing at the antique shops. A lot can be said about Mussoorie, but words fall short to describe this stunning city set in the midst of the Himalayas. Mussoorie is a famous hill station located in the foothills of the Garhwal Himalayan Range. Once you reach Mussoorie in the evening, head towards Mall Road, which is the city’s most famous place and the hub for the shopping and all the famous eateries.
 
@@ -27,7 +27,7 @@ Other attractions include the Mall Road, the Jwalaji Temple, and the Mussoorie L
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.justwravel.com/package/3-Night-4-Days-Mussoorie-Dhanaulti-Tour-Package"
+  data-link="https://www.justwravel.com/"
   data-title="Mussoorie, Uttarakhand"
   data-description="Chill, Snow, Mountain, Weekend Getaway"
   data-delay="3">

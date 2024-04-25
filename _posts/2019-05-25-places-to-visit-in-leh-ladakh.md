@@ -10,7 +10,9 @@ image: assets/images/leh.webp
 rating: 5
 tags: [Ladakh]
 ---
-One of the must visit sites of India. You'll truly experience the mamoth Himalayas here. The Valleys are so vast that you can actually feel the emptiness between two peaks. You can rent a bike here and drive through highest motorable roda of the world. The peeks are so high in alleviation that you might need medicine to keep your blood oxygenated.
+You'll truly experience the mamoth Himalayas in Leh. The Valleys are so vast that you can actually feel the emptiness and calmness between two peaks.
+
+You can rent a bike here and drive through highest motorable roda of the world. The peeks are so high in alleviation that you might need medicine to keep your blood oxygenated.
 
 Leh is a city in the Indian union territory of Ladakh. It is located in the Himalayan mountain range, and is known for its stunning landscapes, Buddhist monasteries, and ancient architecture. Leh is home to a number of cultural attractions, such as the Leh Palace, the Shanti Stupa, and the Thiksey Monastery. Additionally, Leh is home to a number of festivals, such as the Hemis Festival and the Ladakh Festival. Additionally, Leh is home to a number of educational institutions, such as the Central Institute of Buddhist Studies and the Ladakh University. Additionally, Leh is home to a number of parks and gardens, such as the Leh Botanical Garden and the Magnetic Hill Park. Additionally, Leh is home to a number of wildlife sanctuaries, such as the Hemis National Park and the Tso Moriri Wetland Conservation Reserve. Additionally, Leh is home to a number of shopping and dining options, such as the Leh Bazaar and the Leh Main Market.
 

@@ -10,7 +10,7 @@ image: assets/images/shimla.webp
 rating: 4
 tags: [Himachal Pradesh]
 ---
-[Shimla](https://www.justwravel.com/package/4-Night-5-Days-Shimla-Trip) is the capital of the Indian state of Himachal Pradesh. It is a popular hill station located in the foothills of the Himalayas. Shimla is known for its natural beauty, with lush green forests, snow-capped mountains, and beautiful lakes. It is a popular tourist destination, with many attractions such as the Mall Road, Jakhoo Hill, and the Ridge. Shimla is also home to many colonial-era buildings, such as the Viceregal Lodge and the Christ Church.
+[Shimla](https://www.justwravel.com/) is the capital of the Indian state of Himachal Pradesh. It is a popular hill station located in the foothills of the Himalayas. Shimla is known for its natural beauty, with lush green forests, snow-capped mountains, and beautiful lakes. It is a popular tourist destination, with many attractions such as the Mall Road, Jakhoo Hill, and the Ridge. Shimla is also home to many colonial-era buildings, such as the Viceregal Lodge and the Christ Church.
 
 Shimla is a popular destination for adventure activities such as trekking, paragliding, skiing, and mountain biking. It is also home to many temples, such as the Jakhu Temple and the Tara Devi Temple. Shimla is also known for its vibrant nightlife, with many bars, pubs, and restaurants. The city also has a vibrant shopping scene, with many markets and malls.
 
@@ -28,7 +28,7 @@ Shimla is a popular destination for adventure activities such as trekking, parag
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.justwravel.com/package/4-Night-5-Days-Shimla-Trip"
+  data-link="https://www.justwravel.com/"
   data-title="Shimla, Himachal Pradesh"
   data-description="Chill, Long Drive, Mountain, Snow, Long trip"
   data-delay="3">

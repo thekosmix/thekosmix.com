@@ -16,7 +16,7 @@ Khajuraho is home to a number of other attractions, including the Khajuraho Danc
 
 <h2>Things to do in Khajuraho</h2>
 
-[The Khajuraho Group of Monuments](https://www.justwravel.com/travel/destination/Khajuraho) are a group of Hindu and Jain temples in Chhatarpur district, Madhya Pradesh, India, about 175 kilometres southeast of Jhansi. They are a UNESCO World Heritage Site. The temples are famous for their nagara-style architectural symbolism and their erotic sculptures.
+[The Khajuraho Group of Monuments](https://www.justwravel.com/) are a group of Hindu and Jain temples in Chhatarpur district, Madhya Pradesh, India, about 175 kilometres southeast of Jhansi. They are a UNESCO World Heritage Site. The temples are famous for their nagara-style architectural symbolism and their erotic sculptures.
 
 Most Khajuraho temples were built between 885 AD and 1050 AD by the Chandela dynasty. Historical records note that the Khajuraho temple site had 85 temples by the 12th century, spread over 20 square kilometers. Of these, only about 25 temples have survived, spread over six square kilometers. Of the surviving temples, the Kandariya Mahadeva Temple is decorated with a profusion of sculptures with intricate details, symbolism and expressiveness of ancient Indian art.
 
@@ -24,7 +24,7 @@ When these monuments were built, the boys in the place lived in hermitages, by b
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.justwravel.com/travel/destination/Khajuraho"
+  data-link="https://www.justwravel.com/"
   data-title="Khajuraho, Madhya Pradesh"
   data-description="Temples of Khajuraho"
   data-delay="3">

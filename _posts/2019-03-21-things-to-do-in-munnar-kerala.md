@@ -10,9 +10,9 @@ image: assets/images/munnar.webp
 rating: 4
 tags: [Kerala]
 ---
-Munnar is amazingly beautiful and serene, covered with lush greenery. You would see miles of tea plantation here which looks amazing during winter season amidst fog. You can rent out a hotel/resort deep in jungles and if you're lucky you can sight wild elephants as well.
+Munnar is amazingly beautiful and serene, covered with lush greenery. You would see miles of tea plantation here which looks mystique during winter season. 
 
-Munnar is a hill station located in the Idukki district of Kerala, India. It is situated at an altitude of around 1,600 meters above sea level, and is surrounded by lush green tea plantations, rolling hills, and valleys. The area is known for its picturesque views, and is a popular tourist destination. Munnar is home to a number of attractions, such as the Eravikulam National Park, the Anamudi Peak, the Mattupetty Dam, and the Kundala Lake. Additionally, the area is home to a number of tea plantations, such as the Tata Tea Museum and the Kolukkumalai Tea Estate. Munnar is also home to a number of religious sites, such as the Mariamman Temple and the Sree Mahadeva Temple.
+You can rent out a hotel/resort deep in jungles and if you're lucky you can sight wild elephants as well. Munnar is a hill station located in the Idukki district of Kerala, India. It is situated at an altitude of around 1,600 meters above sea level, and is surrounded by lush green tea plantations, rolling hills, and valleys. The area is known for its picturesque views, and is a popular tourist destination. Munnar is home to a number of attractions, such as the Eravikulam National Park, the Anamudi Peak, the Mattupetty Dam, and the Kundala Lake. Additionally, the area is home to a number of tea plantations, such as the Tata Tea Museum and the Kolukkumalai Tea Estate. Munnar is also home to a number of religious sites, such as the Mariamman Temple and the Sree Mahadeva Temple.
 
 <h2>Places to visit in Munnar</h2>
 

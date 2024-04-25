@@ -6,7 +6,7 @@
             <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
                 <div class="h-100">
                     <div class="wrapthumbnail">
-                        <a area-label="{{ post.description }}" href="{{ site.baseurl }}{{ post.url }}">
+                        <a area-label="{{ post.desc }}" href="{{ site.baseurl }}{{ post.url }}">
                             <img fetchpriority="high" alt="{{ post.title }}" class="featured-box-img-cover lazyimg" align="left" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}">
                         </a>
                     </div>

@@ -10,7 +10,7 @@ image: assets/images/guwahati.webp
 rating: 4
 tags: [Assam]
 ---
-The capital city of Assam and home to the world famous one-horned rhinoceros, Guwahati is one of the best places to visit in the northeast of India. With the mighty Brahmaputra River flowing through it and nature’s abundant beauty, you’ll be spoilt for choice in this charming city. It’s recommended to choose from the hotels in [Guwahati](https://www.justwravel.com/road-trip-from-Guwahati) located in the centre of the city so that travelling and sightseeing is simpler and hassle-free.
+The capital city of Assam and home to the world famous one-horned rhinoceros, Guwahati is one of the best places to visit in the northeast of India. With the mighty Brahmaputra River flowing through it and nature’s abundant beauty, you’ll be spoilt for choice in this charming city. It’s recommended to choose from the hotels in [Guwahati](https://www.justwravel.com/) located in the centre of the city so that travelling and sightseeing is simpler and hassle-free.
 
 Guwahati is the largest city in the Indian state of Assam. It is located on the banks of the Brahmaputra River and is the gateway to the northeastern states of India. Guwahati is known for its rich cultural heritage, its vibrant nightlife, and its many temples and monuments. The city is home to a number of tourist attractions, such as the Kamakhya Temple, the Umananda Temple, the Assam State Museum, and the Assam State Zoo. Additionally, the city is home to a number of shopping centers, such as the Fancy Bazaar, the Paltan Bazaar, and the Pan Bazaar. Additionally, the city is home to a number of parks and gardens, such as the Assam State Botanical Garden and the Assam State Zoo. Additionally, the city is home to a number of adventure activities, such as river rafting, trekking, and mountain biking.
 
@@ -25,7 +25,7 @@ Guwahati is a vibrant city with a rich cultural heritage. It is home to a number
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.justwravel.com/road-trip-from-Guwahati"
+  data-link="https://www.justwravel.com/"
   data-title="Guwahati, Assam"
   data-description="Temple, War Memorial, River Island, Cruise"
   data-delay="3">

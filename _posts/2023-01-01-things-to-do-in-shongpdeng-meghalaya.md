@@ -25,7 +25,7 @@ Shnongpdeng Village is 8 km north of Dawki along the winding Umngot. With waters
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.justwravel.com/package/Backpackers-trip-to-Meghalaya"
+  data-link="https://www.justwravel.com/"
   data-title="Shnongpdeng, Meghalaya"
   data-description="River, Road Trip, Camping, Water Sports"
   data-delay="3">

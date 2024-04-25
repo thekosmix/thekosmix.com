@@ -13,7 +13,7 @@ Darjeeling is a hill station in the Indian state of West Bengal. It is known for
 
 Darjeeling is home to a number of tourist attractions, such as the Tiger Hill, the Batasia Loop, the Himalayan Mountaineering Institute, the Padmaja Naidu Himalayan Zoological Park, the Mahakal Temple, the Ghoom Monastery, the Bhutia Busty Monastery, the Chowrasta Mall, the Mall Road, the Rock Garden, and the Observatory Hill. Additionally, the city is home to a number of parks and gardens, such as the Senchal Wildlife Sanctuary and the Singalila National Park. Additionally, the city is home to a number of religious sites, such as the Japanese Peace Pagoda and the Peace Pagoda. Additionally, the city is home to a number of shopping centers, such as the Darjeeling Mall and the Chowk Bazaar.
 
-[Darjeeling](https://www.justwravel.com/package/4-Night-5-Days-Darjeeling-Kalimpong-Tour), nestled among rolling mountains, is a perfect destination for outdoor enthusiasts. Popular places to visit include Tiger Hill, Batasia Loop and the War Memorial, and the Himalayan Zoological Park and Snow Leopard Breeding Center. What should you bring home? Tea, tea, and more tea—and beautiful local handicrafts.
+[Darjeeling](https://www.justwravel.com/), nestled among rolling mountains, is a perfect destination for outdoor enthusiasts. Popular places to visit include Tiger Hill, Batasia Loop and the War Memorial, and the Himalayan Zoological Park and Snow Leopard Breeding Center. What should you bring home? Tea, tea, and more tea—and beautiful local handicrafts.
 
 The previous summer capital of India under the British Raj, Darjeeling has come off age as one of the most sought after hill stations in India. Located in West Bengal, this scenic hill station is the perfect getaway for a romantic honeymoon. Nestled amidst acres of tea plantations, Darjeeling stands at the height of 2,050 meters above sea level, thus boasting a cool climate all year round.
 
@@ -32,7 +32,7 @@ The third highest peak in the world and the highest in India, the Kanchenjunga p
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.justwravel.com/package/4-Night-5-Days-Darjeeling-Kalimpong-Tour"
+  data-link="https://www.justwravel.com/"
   data-title="Darjeeling, West Bengal"
   data-description="Heritage, Hill Station, Tea Garden"
   data-delay="3">

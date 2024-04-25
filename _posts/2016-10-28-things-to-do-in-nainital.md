@@ -10,7 +10,7 @@ image: assets/images/nainital.webp
 rating: 4.5
 tags: [Uttarakhand]
 ---
-This was just one-day trip from Delhi. We arrived early in the morning at Kathgodam railway station ~36KMs away from Nainital and started heading towards it with a on-spot booked cab.
+This was just one-day trip from Delhi. We arrived early in the morning at Kathgodam railway station ~36KMs away from Nainital and started heading towards it.
 
 <h2>Places to visit in Nainital</h2>
 

@@ -10,7 +10,7 @@ image: assets/images/dhanaulti.webp
 rating: 4
 tags: [Uttarakhand]
 ---
-[Dhanaulti](https://www.justwravel.com/package/3-Night-4-Days-Mussoorie-Dhanaulti-Tour-Package) is a small town near Mussoorie, beautifully nestled amid the lofty Himalayan peaks. It can be a destination in itself, but it’s more of a serene pit stop for travellers heading for longer journeys or leisure Uttarakhand holiday. Thus, places to visit in Dhanaulti are not any grand attractions, but small and beautiful places that offer solitude and peace, close to nature.
+[Dhanaulti](https://www.justwravel.com/) is a small town near Mussoorie, beautifully nestled amid the lofty Himalayan peaks. It can be a destination in itself, but it’s more of a serene pit stop for travellers heading for longer journeys or leisure Uttarakhand holiday. Thus, places to visit in Dhanaulti are not any grand attractions, but small and beautiful places that offer solitude and peace, close to nature.
 
 Dhanaulti is a small hill station located in the Tehri Garhwal district of Uttarakhand, India. It is situated at an altitude of 2286 meters above sea level and is surrounded by thick forests of deodar and oak. It is a popular tourist destination due to its picturesque views of the snow-capped Himalayan peaks, lush green valleys, and peaceful environment. Dhanaulti is also known for its eco-friendly tourist attractions such as the Eco Park, which is a great place for nature lovers. Other attractions include the Surkanda Devi Temple, the Dhanaulti Adventure Park, and the Dhanaulti Tea Estate. Dhanaulti is also a great place for adventure activities such as trekking, camping, and paragliding.
 
@@ -27,7 +27,7 @@ Dhanaulti is a great destination for nature lovers, offering stunning views of t
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.justwravel.com/package/3-Night-4-Days-Mussoorie-Dhanaulti-Tour-Package"
+  data-link="https://www.justwravel.com/"
   data-title="Dhanaulti-Tehri, Uttarakhand"
   data-description="Man-made Lake, Chill, Mountain, Weekend Getaway"
   data-delay="3">

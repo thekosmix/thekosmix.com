@@ -14,7 +14,7 @@ Spiti Valley is a high-altitude desert mountain valley located in the northern I
 
 The Spiti Valley is also a UNESCO World Heritage Site. The valley is home to several ancient monasteries, including the Tabo Monastery, which is one of the oldest and most important Buddhist monasteries in the region. The valley is also home to the Spiti River, which is a tributary of the Sutlej River. The valley is known for its unique culture and traditions, which are still practiced by the local people.
 
-[Spiti Valley](https://www.justwravel.com/package/Spiti-Valley-road-trip-in-Winter) in Winters is truly paradise personified. The whole valley is covered in a thick tapestry of snow, seemingly spreading to a vast expanse until one can’t tell where land ends and the sky full of ivory clouds begins.  
+[Spiti Valley](https://www.justwravel.com/) in Winters is truly paradise personified. The whole valley is covered in a thick tapestry of snow, seemingly spreading to a vast expanse until one can’t tell where land ends and the sky full of ivory clouds begins.  
 
 For snow fanatics and people who’d rather be taking a stroll under the winter sun than being huddled in blankets, Spiti is nothing less than a dream. A dream that feels more than real when the chilly breeze fills your heart with warmth from within. What makes the Winter Spiti tour perfect is that you get to experience Spiti the way it’s meant to be experienced, with snow under your boot and mountains overlooking you in all their glory. 
 
@@ -31,7 +31,7 @@ It’s no secret that the best route for Spiti valley in winter is via Shimla be
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.justwravel.com/package/Spiti-Valley-road-trip-in-Winter"
+  data-link="https://www.justwravel.com/"
   data-title="Spiti, Himachal Pradesh"
   data-description="Valley, Snow, Long trip, Mountain, Road Trip"
   data-delay="3">

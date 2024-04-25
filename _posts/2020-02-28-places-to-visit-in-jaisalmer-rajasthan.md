@@ -10,7 +10,7 @@ image: assets/images/jaisalmer.webp
 rating: 4
 tags: [Rajasthan]
 ---
-[Jaisalmer](https://www.justwravel.com/package/Jaisalmer-tour) is a former medieval trading center and a princely state in the western Indian state of Rajasthan, in the heart of the Thar Desert. Known as the "Golden City," it's distinguished by its yellow sandstone architecture. Dominating the skyline is Jaisalmer Fort, a sprawling hilltop citadel buttressed by 99 bastions. Behind its massive walls stand the ornate Maharaja's Palace and intricately carved Jain temples.
+[Jaisalmer](https://www.justwravel.com/) is a former medieval trading center and a princely state in the western Indian state of Rajasthan, in the heart of the Thar Desert. Known as the "Golden City," it's distinguished by its yellow sandstone architecture. Dominating the skyline is Jaisalmer Fort, a sprawling hilltop citadel buttressed by 99 bastions. Behind its massive walls stand the ornate Maharaja's Palace and intricately carved Jain temples.
 
 Jaisalmer is also known as the golden city and the name justifies the places perfectly. The reason for it being called ‘Golden city’ is the yellowish vibes of the places that we come across while we are traveling in the desert or inside a fort or any such activity during our stay at Jaisalmer.
 
@@ -23,7 +23,7 @@ Jaisalmer is a city in the Indian state of Rajasthan. It is known for its rich c
 Jaisalmer is home to a number of tourist attractions, such as the Jaisalmer Fort, the Patwon Ki Haveli, the Salim Singh Ki Haveli, the Gadsisar Lake, the Desert National Park, the Jain Temple, the Bada Bagh, and the Government Polytechnic College. Additionally, the city is home to a number of parks and gardens, such as the Akal Wood Fossil Park and the Desert Culture Centre & Museum. Additionally, the city is home to a number of religious sites, such as the Lodurva Jain Temple and the Tanot Mata Temple. Additionally, the city is home to a number of shopping centers, such as the Sadar Bazaar and the Manak Chowk.
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.justwravel.com/package/Jaisalmer-tour"
+  data-link="https://www.justwravel.com/"
   data-title="Jaisalmer, Rajasthan"
   data-description="Palaces and Jain temples in Jaisalmer"
   data-delay="3">

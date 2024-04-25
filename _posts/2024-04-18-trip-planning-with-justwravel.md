@@ -8,11 +8,12 @@ categories: [ Travel, backpacking, Road Trip, Trekking, Weekend Getaway ]
 image: assets/images/justwravel.webp
 featured: true
 hidden: true
-description: Benefits of planning a trip with Justwravel
+desc: Benefits of planning a trip with Justwravel
 rating: 5
 ---
 
-When we plan a trip with a group of strangers, there are few things which we worry about the most:
+When we plan a trip with a group of strangers for a place we have never been to, there are few things which we worry about the most:
+
 1. Will it be safe to travel?
 2. Will it be economical?
 3. Will I be able to cover significant places in allocated time?
@@ -35,9 +36,9 @@ Few things that stood out for them:
 7. Last, once I book from them, I get free from every worry and from doing reaserch on mode of travel, where to stay, what to eat, where to go, how to reach, etc etc.
 
 <h3>Few of the trips I did with JustWravel</h3>
-1. [Meghalaya Road Trip](https://www.justwravel.com/package/Backpackers-trip-to-Meghalaya)
-2. [Spiti Road Trip](https://www.justwravel.com/package/Spiti-Valley-road-trip-in-Winter)
-3. [Valley of Flowers Trek](https://www.justwravel.com/package/Valley-of-Flower-Trek)
-4. [Parashar Lake Trek](https://www.justwravel.com/package/Trek-to-Parashar-Lake)
-5. [Nagtibba Trek](https://www.justwravel.com/package/Trek-to-NagTibba)
+1. [Meghalaya Road Trip](/places-to-visit-in-indian-states/meghalaya/)
+2. [Spiti Road Trip](/places-to-visit-in-indian-states/himachal-pradesh/)
+3. [Valley of Flowers Trek](/places-to-visit-in-indian-states/uttarakhand/)
+4. [Parashar Lake Trek](/places-to-visit-near-parashar-lake-himachal-pradesh/)
+5. [Nagtibba Trek](/places-to-visit-in-indian-states/uttarakhand/)
 <br/>... and many more

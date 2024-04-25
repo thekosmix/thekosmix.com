@@ -27,7 +27,7 @@ The best time to visit Jibhi is during the summer (June to September) or the spr
 * Jalori Pass: Jalori Pass is a mountain pass located at an altitude of 3,050 meters (10,010 feet) above sea level. The pass connects the Kullu Valley with the Chamba Valley.
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.justwravel.com/package/Road-trip-to-Jibhi"
+  data-link="https://www.justwravel.com/"
   data-title="Jibhi, Himachal Pradesh"
   data-description="Trekking, Mountain, Weekend Getaway, Lake"
   data-delay="3">

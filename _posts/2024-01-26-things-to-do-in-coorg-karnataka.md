@@ -33,7 +33,7 @@ The best time to visit Coorg depends on what you want to do during your trip:
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.justwravel.com/tour-packages/india/karnataka/2-nights-3-days-coorg-tour-package"
+  data-link="https://www.justwravel.com/"
   data-title="Coorg, Karnataka"
   data-description="Hill Station, Resorts, Weekend Getaway, Waterfalls">
   <object data="https://lh3.googleusercontent.com/pw/AP1GczPmZLBjYvomglB6uTD3Vi3THtph9JG3TSPoqP9iYSdA2-3fZ-l0jDY2JctgnXzKiCvugNp1wUpGwLLepPny7R36m5mPW7rGc8C-KtHf8JCFiEHi1yEW=w960-rw-h720"></object>

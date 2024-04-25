@@ -11,7 +11,7 @@ tags: [Sikkim]
 ---
 West Sikkim is a district in the Indian state of Sikkim. It is known for its stunning views of the Himalayan Mountains, its lush green valleys, and its abundance of wildlife. The district is home to a number of tourist attractions, such as the Kanchenjunga National Park, the Pemayangtse Monastery, the Rumtek Monastery, and the Yumthang Valley. Additionally, the district is home to a number of religious sites, such as the Dubdi Monastery and the Phodong Monastery. Additionally, the district is home to a number of shopping centers, such as the M.G. Marg and the Lal Bazaar. Additionally, the district is home to a number of parks and gardens, such as the Kyongnosla Alpine Sanctuary and the Shingba Rhododendron Sanctuary.
 
-[West Sikkim](https://www.justwravel.com/package/Sikkim-Road-Trip), a very popular tourist destination for the lovers of Mount Kanchenjunga, offers a spectacular view of this majestic mountain. Sharing the international boundary with Nepal, the Region of the west Sikkim is not only famous for the mesmerizing nature’s view but also for the religious activities. The west region of the Sikkim is the home to a few of the oldest Monasteries of the Buddhism faith in the world. The ancient religious importance of the place and the enchanting view of the landscape make this beautiful land a must visit place for the nature lover tourists and spiritual seekers.
+[West Sikkim](https://www.justwravel.com/), a very popular tourist destination for the lovers of Mount Kanchenjunga, offers a spectacular view of this majestic mountain. Sharing the international boundary with Nepal, the Region of the west Sikkim is not only famous for the mesmerizing nature’s view but also for the religious activities. The west region of the Sikkim is the home to a few of the oldest Monasteries of the Buddhism faith in the world. The ancient religious importance of the place and the enchanting view of the landscape make this beautiful land a must visit place for the nature lover tourists and spiritual seekers.
 
 The outstanding view of the southeastern side of the Mt. Kangchenjunga is what attracting tourists from various corner of the world to this place. The beautiful natural surroundings with the peaceful and tranquil ambiance are very hypnotizing and refreshing to the mind, body and soul. The oldest monasteries like the Sangachoeling Monasteries and the Pemayansgtse Monasteries are the prime religious places which attract Buddhism followers and other religious followers alike for the immense mental peace. The dense forest and a holy Kchehepalri Lake in between are also the great attractions in the West Sikkim for the tourists and devotees.
 
@@ -24,7 +24,7 @@ The outstanding view of the southeastern side of the Mt. Kangchenjunga is what a
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.justwravel.com/package/Sikkim-Road-Trip"
+  data-link="https://www.justwravel.com/"
   data-title="West Sikkim, Sikkim"
   data-description="Mountain, Valley, Road Trip, Monuments, Ruins"
   data-delay="3">

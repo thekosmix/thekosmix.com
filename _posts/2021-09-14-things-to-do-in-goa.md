@@ -10,7 +10,7 @@ image: assets/images/goa.webp
 rating: 4.5
 tags: [Goa]
 ---
-[Goa](https://www.justwravel.com/blog/goa-a-complete-travel-guide/) is a state in western India with coastlines stretching along the Arabian Sea. Its long history as a Portuguese colony prior to 1961 is evident in its preserved 17th-century churches and the area’s tropical spice plantations. Goa is also known for its beaches, ranging from popular stretches at Baga and Palolem to those in laid-back fishing villages such as Agonda.
+[Goa](https://www.justwravel.com/) is a state in western India with coastlines stretching along the Arabian Sea. Its long history as a Portuguese colony prior to 1961 is evident in its preserved 17th-century churches and the area’s tropical spice plantations. Goa is also known for its beaches, ranging from popular stretches at Baga and Palolem to those in laid-back fishing villages such as Agonda.
 
 Goa is a state located on the western coast of India. It is known for its beautiful beaches, vibrant nightlife, and unique culture. Goa is a popular tourist destination, with a variety of attractions including historical monuments, churches, temples, and wildlife sanctuaries. The state is also known for its delicious cuisine, with a variety of seafood dishes, curries, and desserts. Goa is also home to a number of festivals, including the Goa Carnival and the Sunburn Festival. The state is well-connected to other parts of India by air, rail, and road.
 
@@ -22,7 +22,7 @@ The state of Goa is a beautiful blend of Indian and Portuguese culture with beau
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.justwravel.com/blog/goa-a-complete-travel-guide/"
+  data-link="https://www.justwravel.com/"
   data-title="Goa, India"
   data-description="Beaches, activities, Feel good"
   data-delay="3">

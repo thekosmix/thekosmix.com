@@ -10,9 +10,9 @@ rating: 4.5
 tags: [Jammu and Kashmir]
 ---
 
-Patnitop is a hill station located in the Udhampur district of Jammu and Kashmir. 
+Patnitop is a hill station located in the Udhampur district of Jammu and Kashmir. It is known for its scenic beauty and is a popular tourist destination. 
 
-It is known for its scenic beauty and is a popular tourist destination. Popular attractions include the Sanasar Lake, the Nathatop Viewpoint, and the Patnitop Adventure Park. Other activities include trekking, paragliding, and skiing. Patnitop is also home to a number of temples, such as the Shiva Temple and the Mahadev Temple. Shopping is also a popular activity in Patnitop, with a variety of markets and bazaars selling traditional Kashmiri handicrafts, carpets, and shawls. Patnitop is also home to a number of restaurants and cafes, offering a variety of cuisines.
+Popular attractions include the Sanasar Lake, the Nathatop Viewpoint, and the Patnitop Adventure Park. Other activities include trekking, paragliding, and skiing. Patnitop is also home to a number of temples, such as the Shiva Temple and the Mahadev Temple. Shopping is also a popular activity in Patnitop, with a variety of markets and bazaars selling traditional Kashmiri handicrafts, carpets, and shawls. Patnitop is also home to a number of restaurants and cafes, offering a variety of cuisines.
 
 <h2>Places to visit in Patnitop</h2>
 

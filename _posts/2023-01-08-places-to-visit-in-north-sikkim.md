@@ -9,7 +9,7 @@ image: assets/images/north-sikkim.webp
 rating: 4
 tags: [Sikkim]
 ---
-India has earned itself a slice of heaven in the form of North Sikkim. Snuggling the Himalayas, this beautiful part of a Northeastern Indian state is a place unlike any other in the country. The breathtaking view of Mount Khangchendzonga, the fragrance of a variety of flowers, the quietness of sparkling lakes and the gurgling of rivers like Teesta make [North Sikkim](https://www.justwravel.com/package/Sikkim-Road-Trip) a destination that no nature lover should miss. So, whether you are looking for some adventure or peace of mind, solace or romance, North Sikkim is a destination that you must plan to visit.
+India has earned itself a slice of heaven in the form of North Sikkim. Snuggling the Himalayas, this beautiful part of a Northeastern Indian state is a place unlike any other in the country. The breathtaking view of Mount Khangchendzonga, the fragrance of a variety of flowers, the quietness of sparkling lakes and the gurgling of rivers like Teesta make [North Sikkim](https://www.justwravel.com/) a destination that no nature lover should miss. So, whether you are looking for some adventure or peace of mind, solace or romance, North Sikkim is a destination that you must plan to visit.
 
 North Sikkim is a district in the Indian state of Sikkim. It is known for its stunning views of the Himalayan Mountains, its lush green valleys, and its abundance of wildlife. The district is home to a number of tourist attractions, such as the Yumthang Valley, the Gurudongmar Lake, the Lachen Monastery, the Lachung Monastery, the Zero Point, and the Katao Valley. Additionally, the district is home to a number of religious sites, such as the Phodong Monastery and the Dubdi Monastery. Additionally, the district is home to a number of parks and gardens, such as the Kyongnosla Alpine Sanctuary and the Shingba Rhododendron Sanctuary. 
 
@@ -24,7 +24,7 @@ Additionally, the district is home to a number of shopping centers, such as the 
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://www.justwravel.com/package/Sikkim-Road-Trip"
+  data-link="https://www.justwravel.com/"
   data-title="North Sikkim, Sikkim"
   data-description="Mountain, Valley, Road Trip"
   data-delay="3">

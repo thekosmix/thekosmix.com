@@ -10,7 +10,9 @@ image: assets/images/kualalumpur.webp
 rating: 5
 is_another_country: true
 ---
-We visited Kuala Lumpur while coming back from Bali. Kuala Lumpur was a lifetime experience to had. The might of Petronas twin tower makes you realise that petroleum is liquid gold. The greenery surrounding KLCC park was just mesmerising. You should also not miss the nearby Masjid Asy-Syakirin KLCC mosque. Almost everywhere they were accepting USD so it was very convinient for us.
+We visited Kuala Lumpur while coming back from Bali. Kuala Lumpur was a lifetime experience to had specially due to it's moden architectures. 
+
+The might of Petronas twin tower makes you realise that petroleum is liquid gold. The greenery surrounding KLCC park was just mesmerising. You should also not miss the nearby Masjid Asy-Syakirin KLCC mosque. Almost everywhere they were accepting USD so it was very convinient for us.
 
 Kuala Lumpur is the capital of Malaysia and is one of the most vibrant cities in Southeast Asia. It is a bustling metropolis with a mix of modern skyscrapers and traditional architecture. Kuala Lumpur is home to a number of attractions, such as the Petronas Twin Towers, the Kuala Lumpur Tower, and the Batu Caves. Kuala Lumpur is also home to a number of shopping malls, such as the Suria KLCC and the Pavilion Kuala Lumpur. Kuala Lumpur is also home to a number of cultural attractions, such as the National Museum and the Islamic Arts Museum. Kuala Lumpur is also home to a number of parks, such as the Lake Gardens and the Bukit Nanas Forest Reserve. Kuala Lumpur is also home to a number of nightlife venues, such as the Changkat Bukit Bintang and the Zouk Club.
 

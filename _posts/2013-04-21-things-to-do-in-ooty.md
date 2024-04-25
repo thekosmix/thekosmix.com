@@ -9,7 +9,9 @@ image: assets/images/ooty.webp
 rating: 4
 tags: [Tamil Nadu]
 ---
-Ooty, also known as Udhagamandalam, is a beautiful hill station located in the Nilgiri Hills of Tamil Nadu, India. It is one of the most popular tourist destinations in South India, known for its stunning views of the surrounding hills and valleys, lush green tea plantations, and colonial-era architecture. Ooty is also home to a variety of wildlife, including elephants, tigers, and leopards. The area is also known for its many waterfalls, such as the Pykara Falls and the Avalanche Falls. Ooty is also home to a number of beautiful gardens, such as the Botanical Garden and the Government Rose Garden. The area is also known for its many festivals, such as the Tea and Tourism Festival and the Summer Festival.
+Ooty, also known as Udhagamandalam, is a beautiful hill station located in the Nilgiri Hills of Tamil Nadu, India. 
+
+It is one of the most popular tourist destinations in South India, known for its stunning views of the surrounding hills and valleys, lush green tea plantations, and colonial-era architecture. Ooty is also home to a variety of wildlife, including elephants, tigers, and leopards. The area is also known for its many waterfalls, such as the Pykara Falls and the Avalanche Falls. Ooty is also home to a number of beautiful gardens, such as the Botanical Garden and the Government Rose Garden. The area is also known for its many festivals, such as the Tea and Tourism Festival and the Summer Festival.
 
 <h2>Places to visit in Ooty</h2>
 
