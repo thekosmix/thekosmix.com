@@ -118,7 +118,7 @@ post_class: post-template
                     {% assign sortedTags = page.tags | sort %}
                     {% for tag in sortedTags %}
                     <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/places-to-visit-in-indian-states/{{ tag | downcase | replace: " ","-" }}">More places to visit in {{ tag }}</a>
+                        <a class="smoothscroll" href="{{site.baseurl}}/places-to-visit-in-indian-states/{{ tag | downcase | replace: " ","-" }}/">More places to visit in {{ tag }}</a>
                     </li>
                     {% endfor %}
                 </ul>
