@@ -5,7 +5,7 @@ redirect_from:
   - /leh/
   - /leh-ladakh/
 author: sid
-categories: [ Monuments, Peaks, Monastries, Valley ]
+categories: [ Monuments, Peaks, Monasteries, Valley ]
 image: assets/images/leh.webp
 rating: 5
 tags: [Ladakh]
