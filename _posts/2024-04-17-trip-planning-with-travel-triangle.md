@@ -4,7 +4,7 @@ title:  "Trip planning with Travel Triangle"
 redirect_from:
   - /how-to-plan-your-trips-and-travels-in-india-2/
 author: sid
-categories: [ Travel, Road Trip, Weekend Getaway ]
+#categories: [ Travel, Road Trip, Weekend Getaway ]
 image: assets/images/tt.webp
 featured: true
 hidden: true
@@ -27,4 +27,5 @@ Few of the trips I did with TT
 1. [Sikkim](https://traveltriangle.com/agents/343038343731332d53696b-sikkim-hills-tours-and-travels)
 2. [Rajasthan](https://traveltriangle.com/agents/323139323933372d547269-trippy-holidays)
 3. [Kerala](https://traveltriangle.com/agents/3139383738372d736b79-sky-tours-and-travel-com)
+4. [Karnataka](https://traveltriangle.com/agents/363237303139382d545241-TRAVEL-CORP-HOSPITALITY-SERVICES)
 <br/>... and many more
