@@ -5,7 +5,7 @@ redirect_from:
   - /kuala-lumpur/
   - /kualalumpur/
 author: sid
-categories: [ Modern World ]
+categories: [ Modern Architecture ]
 image: assets/images/kualalumpur.webp
 rating: 5
 is_another_country: true
