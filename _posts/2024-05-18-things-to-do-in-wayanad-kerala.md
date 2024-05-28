@@ -5,7 +5,7 @@ redirect_from:
   - /wayanad/
   - /wayanad-kerala/
 author: sid
-categories: [Resorts, Nature, Lakes, Mountains, Long Drive, Tea Garden]
+categories: [Resorts, Nature, Lakes, Mountain, Long Drive, Tea Garden]
 image: assets/images/wayanad.webp
 rating: 5
 tags: [Kerala]
@@ -32,7 +32,7 @@ Wayanad is a hill station and wildlife sanctuary in Kerala, India, known for its
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.thrillophilia.com/cities/wayanad/things-to-do"
   data-title="Wayanad, Kerala"
-  data-description="Resorts, Nature, Lakes, Mountains, Long Drive"
+  data-description="Resorts, Nature, Lakes, Mountain, Long Drive"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/pw/AP1GczNTaL8TTvqKDlPtDlk3S5FtghkiNBvAfJBdREbGC_R80-T6efaveKZxlJmj35uoOMq5he17-dxEUgvr4E5WE0evf9X9uJJPEcgtOx5Mk48kRuNBc4Mq=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczNK8AbdCfT_LDuRSRstOBepGWXH9QjBxo9LAeG2kJ2dbR1oBMakKOvIsl1CD04XdfkIcZyRukh_iGhMaggUtJuCI7hmMLhD9N8eBpRm72eCZ0K_1lgo=w960-rw-h720"></object>
