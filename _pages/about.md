@@ -22,8 +22,11 @@ comments: true
 
         <table>
             <tr>
+                <td><img src="/assets/images/google-location-marker.webp" loading="lazy" width="300" height="300" alt="Locations travelled in last 5 years"></td>
+                <td><img src="/assets/images/google-heat-map.webp" loading="lazy" width="300" height="300" alt="All time Google heatmap of travelled places"></td>
+            </tr>
+            <tr>
                 <td><img src="/assets/images/google-all-time.webp" loading="lazy" width="300" height="300" alt="All time Google data of travelled places"></td>
-                <td><img src="/assets/images/google-heatmap.webp" loading="lazy" width="300" height="300" alt="All time Google heatmap of travelled places"></td>
                 <td><img src="/assets/images/google-stats.webp" loading="lazy" width="300" height="300" alt="All time Google stats of viewed places"></td>
             </tr>
         </table>
