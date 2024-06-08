@@ -157,7 +157,7 @@ section.recent-posts {
 
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
-    color: rgba(0, 0, 0, .44);
+    color: rgb(0, 0, 0);
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
@@ -237,7 +237,7 @@ span.author-meta {
 
 span.post-date,
 span.post-read {
-    color: rgba(0, 0, 0, .44);
+    color: rgb(0, 0, 0);
 }
 
 span.post-read-more {
