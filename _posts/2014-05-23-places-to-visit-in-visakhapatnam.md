@@ -4,7 +4,7 @@ title:  "Visakhapatnam, Andhra Pradesh"
 redirect_from:
   - /visakhapatnam/
 author: sid
-categories: [ Chill, Beach, War Memorial ]
+categories: [ Chill, Beach, Sea, War Memorial ]
 image: assets/images/vizag.webp
 rating: 4
 tags: [Andhra Pradesh]

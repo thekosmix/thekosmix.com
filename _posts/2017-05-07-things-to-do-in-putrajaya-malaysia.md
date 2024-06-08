@@ -5,7 +5,7 @@ redirect_from:
   - /putrajaya/
   - /putrajaya-malaysia/
 author: sid
-categories: [ Sea, Mountain, Culture ]
+categories: [ Sea, Mountain, Culture, Beach, Modern Architecture ]
 image: assets/images/putrajaya.webp
 rating: 5
 is_another_country: true

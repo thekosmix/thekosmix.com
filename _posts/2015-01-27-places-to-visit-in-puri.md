@@ -5,7 +5,7 @@ redirect_from:
   - /puri/
   - /puri-odisha/
 author: sid
-categories: [ Pilgrimage, Temple, Sea, Beach ]
+categories: [ Pilgrimage, Temple, Sea, Beach, History ]
 image: assets/images/puri.webp
 rating: 3.5
 tags: [Odisha]

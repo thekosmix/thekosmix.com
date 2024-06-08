@@ -5,7 +5,7 @@ redirect_from:
   - /puducherry/
   - /pondicherry/
 author: sid
-categories: [ Beach, Sea, History, Cafe ]
+categories: [ Chill, Beach, Sea, History, Chruch ]
 image: assets/images/puducherry.webp
 rating: 4.5
 tags: [Puducherry]

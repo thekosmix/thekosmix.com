@@ -5,7 +5,7 @@ redirect_from:
   - /bali/
   - /bali-indonesia/
 author: sid
-categories: [ Sea, Mountain, Culture ]
+categories: [ Sea, Mountain, Culture, Beach ]
 image: assets/images/bali.webp
 rating: 5
 is_another_country: true

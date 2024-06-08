@@ -5,7 +5,7 @@ redirect_from:
   - /goa/
   - /goa-india/
 author: sid
-categories: [ Monuments, Beach, Party ]
+categories: [ Monuments, Beach, Party, Sea, Church ]
 image: assets/images/goa.webp
 rating: 4.5
 tags: [Goa]

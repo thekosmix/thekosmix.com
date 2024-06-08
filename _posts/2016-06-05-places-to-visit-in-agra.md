@@ -5,7 +5,7 @@ redirect_from:
   - /agra/
   - /agra-uttar-pradesh/
 author: sid
-categories: [ Monuments, Long Drive ]
+categories: [ Monuments, Long Drive, History ]
 image: assets/images/agra.webp
 rating: 3.5
 tags: [Uttar Pradesh]

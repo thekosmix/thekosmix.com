@@ -4,7 +4,7 @@ title:  "Mumbai, Maharashtra"
 redirect_from:
   - /mumbai/
 author: sid
-categories: [ Resorts, Restaurants, Modern Architecture, Party, Long Drive, Sea ]
+categories: [ Resorts, Restaurants, Modern Architecture, Party, Long Drive, Sea, Beach ]
 image: assets/images/mumbai.webp
 rating: 5
 tags: [Maharashtra]
