@@ -125,6 +125,17 @@ post_class: post-template
             </div>
             <!-- End Tags -->
 
+            <!-- Post Tags -->
+            <div class="after-post-cats">
+                <ul class="tags">
+                    {% assign year = page.date | date: "%Y" %}
+                    <li>
+                        <a class="smoothscroll" href="{{site.baseurl}}/trips-yearbook/{{ year }}/">Trips Yearbook of {{ year }}</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- End Tags -->
+
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
             {% if page.next.url %}

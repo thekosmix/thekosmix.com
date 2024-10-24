@@ -32,7 +32,7 @@ comments: true
         </table>
         <br/>
         <p><a href="{{site.authors.sid.web}}">Get in touch with me</a></p>
-        <p>Thanks to <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish-theme-jekyll</a> for creating this amazing jekyll theme</p>
+        <p>Thanks to <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish-theme-jekyll</a> for creating this amazing jekyll theme</p>
         <div class="col-md-4">
         
 </div>

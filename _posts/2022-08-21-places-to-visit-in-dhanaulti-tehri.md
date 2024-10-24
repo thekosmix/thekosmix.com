@@ -5,7 +5,7 @@ redirect_from:
   - /dhanaulti-tehri/
   - /dhanaulti-uttarakhand/
 author: sid
-categories: [Man-made Lake, Chill, Mountain, Weekend Getaway]
+categories: [Man-made Lake, Chill, Mountain, Weekend Getaway, Dam, Reservoir]
 image: assets/images/dhanaulti.webp
 rating: 4
 tags: [Uttarakhand]
@@ -29,7 +29,7 @@ Dhanaulti is a great destination for nature lovers, offering stunning views of t
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/"
   data-title="Dhanaulti-Tehri, Uttarakhand"
-  data-description="Man-made Lake, Chill, Mountain, Weekend Getaway"
+  data-description="Man-made Lake, Chill, Mountain, Weekend Getaway, Dam, Reservoir"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/QqCc4QSwH964H5tpMC_6WT388ZF6szV4OY2usHoDPi7yPuew7Nb5ct1UHdhiKKhtqmE3YxrLZf6ORuXB7bpSU3y39P7bgFURUmxW_JQZ7aPjU4C7PhL20zz0PwujG2IJPL4Lgy6Y6gE=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/HqsdOmhRpat6vteFZvI3MWt9j62b3r46ImWJK6JeynbjZtsWM5rGcLyl0eacMq-qRIe5JUNJiV_TBcFwPsCHTa14faUO62V7KOHqAXDV0TnG40b6pPq3Y7HMX5Icis9_2G3nN7_k2BM=w960-rw-h720"></object>

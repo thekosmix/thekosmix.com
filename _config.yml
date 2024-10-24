@@ -50,10 +50,12 @@ jekyll-archives:
   enabled:
     - categories
     - tags
+    - year
   layout: archive
   permalinks:
     category: '/trips-and-travel-categories/:name/'
     tag: '/places-to-visit-in-indian-states/:name/'
+    year: '/trips-yearbook/:year/'
     
 # Pagination 
 paginate: 6
