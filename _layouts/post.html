@@ -182,15 +182,15 @@ https://search.google.com/structured-data/testing-tool/u/0/
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "{{ page.rating }}",
-    "bestRating": 5,
+    "bestRating": "5",
     "ratingCount": "20"
   },
   "review":[{
     "@type": "Review",
-    "author": {{ author.display_name }},
+    "author": "{{ author.display_name }}",
     "datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
-    "reviewBody": {{ post.excerpt | strip_html | truncatewords:30 }},
-    "name": {{ author.display_name }},
+    "reviewBody": "{{ page.excerpt | strip_html | truncatewords:30 }}",
+    "name": "{{ author.display_name }}",
     "reviewRating": {
         "@type": "Rating",
         "bestRating": "5",
