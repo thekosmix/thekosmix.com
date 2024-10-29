@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Darjeeling, West Bengal"
-redirect_from:
-  - /darjeeling/
 author: sid
 categories: [Monuments, Hill Station, Tea Garden]
 image: assets/images/darjeeling.webp

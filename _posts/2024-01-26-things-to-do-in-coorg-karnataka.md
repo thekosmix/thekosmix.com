@@ -1,10 +1,6 @@
 ---
 layout: post
 title:  "Coorg, Karnataka"
-redirect_from:
-  - /coorg/
-  - /kodagu/
-  - /madikeri/
 author: sid
 categories: [Hill Station, Resorts, Weekend Getaway, Waterfalls]
 image: assets/images/coorg.webp

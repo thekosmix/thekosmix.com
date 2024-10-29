@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Havelock Island, Andaman and Nicobar Islands"
-redirect_from:
-  - /havelock-island/
-  - /havelock-island-andaman/
 author: sid
 categories: [Resorts, Nature, Sea, Long Drive, Beach, Water Sports, Island, Coral, Sunset]
 image: assets/images/havelock-island.webp

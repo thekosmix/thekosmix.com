@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Agatti, Lakshadweep"
-redirect_from:
-  - /agatti/
 author: sid
 categories: [Sea, Beach, Coral, Island]
 image: assets/images/agatti.webp

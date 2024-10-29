@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Amritsar, Punjab"
-redirect_from:
-  - /amritsar/
-  - /amritsar-punjab/
 author: sid
 categories: [ History, Monuments, Pilgrimage, Temple ]
 image: assets/images/amritsar.webp

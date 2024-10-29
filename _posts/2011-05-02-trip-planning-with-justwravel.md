@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Trip planning with JustWravel"
-redirect_from:
-  - /how-to-plan-your-trips-and-travels-in-india/
 author: sid
 #categories: [ Travel, Road Trip, Trekking, Weekend Getaway ]
 image: assets/images/justwravel.webp

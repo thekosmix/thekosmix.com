@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Wayanad, Kerala"
-redirect_from:
-  - /wayanad/
-  - /wayanad-kerala/
 author: sid
 categories: [Resorts, Nature, Lake, Mountain, Long Drive, Tea Garden]
 image: assets/images/wayanad.webp

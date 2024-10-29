@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Port Blair, Andaman and Nicobar Islands"
-redirect_from:
-  - /port-blair/
-  - /port-blair-andaman/
 author: sid
 categories: [Resorts, Nature, Sea, Long Drive, Beach, Water Sports, Island, Coral]
 image: assets/images/port-blair.webp

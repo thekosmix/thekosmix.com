@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Neil Island, Andaman and Nicobar Islands"
-redirect_from:
-  - /neil-island/
-  - /neil-island-andaman/
 author: sid
 categories: [Resorts, Nature, Sea, Long Drive, Beach, Water Sports, Island, Coral, Sunset]
 image: assets/images/neil-island.webp

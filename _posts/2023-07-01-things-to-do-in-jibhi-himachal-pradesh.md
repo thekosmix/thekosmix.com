@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Jibhi, Himachal Pradesh"
-redirect_from:
-  - /jibhi/
 author: sid
 categories: [Trekking, Mountain, Weekend Getaway, Lake]
 image: assets/images/jibhi.webp

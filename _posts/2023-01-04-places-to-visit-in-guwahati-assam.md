@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Guwahati, Assam"
-redirect_from:
-  - /guwahati/
-  - /guwahati-assam/
 author: sid
 categories: [Temple, War Memorial, Nature]
 image: assets/images/guwahati.webp

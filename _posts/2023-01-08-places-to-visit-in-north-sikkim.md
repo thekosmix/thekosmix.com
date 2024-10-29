@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "North Sikkim, Sikkim"
-redirect_from:
-  - /north-sikkim/
 author: sid
 categories: [Mountain, Valley, Road Trip]
 image: assets/images/north-sikkim.webp

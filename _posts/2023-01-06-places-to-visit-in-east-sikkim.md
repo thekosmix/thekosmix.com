@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "East Sikkim, Sikkim"
-redirect_from:
-  - /east-sikkim/
 author: sid
 categories: [Mountain, Valley, Road Trip]
 image: assets/images/east-sikkim.webp

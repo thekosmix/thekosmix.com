@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Minicoy, Lakshadweep"
-redirect_from:
-  - /minicoy/
 author: sid
 categories: [Sea, Beach, Coral, Island, Sunset]
 image: assets/images/minicoy.webp

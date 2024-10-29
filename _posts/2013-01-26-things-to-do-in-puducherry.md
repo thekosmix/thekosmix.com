@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Puducherry, India"
-redirect_from:
-  - /puducherry/
-  - /pondicherry/
 author: sid
 categories: [ Chill, Beach, Sea, History, Church ]
 image: assets/images/puducherry.webp

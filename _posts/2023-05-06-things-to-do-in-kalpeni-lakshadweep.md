@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Kalpeni, Lakshadweep"
-redirect_from:
-  - /kalpeni/
 author: sid
 categories: [Sea, Beach, Coral, Island, Sunset]
 image: assets/images/kalpeni.webp
