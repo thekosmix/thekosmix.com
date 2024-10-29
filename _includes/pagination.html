@@ -23,3 +23,24 @@
   {% endif %}
 </div>
 {% endif %}
+
+<script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"ItemList",
+    "itemListElement":[
+      {
+        "@type":"ListItem",
+        "position":1,
+        "url":"{{ site.url }}"
+      },
+      {% for page in (2..paginator.total_pages)%}
+      {
+        "@type":"ListItem",
+        "position":{{ page }},
+        "url":"{{ site.paginate_path | prepend: site.url | replace: '//', '/' | replace: ':num', page }}"
+      },
+      {% endfor %}
+    ]
+  }
+  </script>
