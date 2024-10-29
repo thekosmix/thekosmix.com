@@ -23,7 +23,7 @@
   {% endif %}
 </div>
 {% endif %}
-
+{% assign num_pages = paginator.total_pages | minus: 1 %}
 <script type="application/ld+json">
   {
     "@context":"https://schema.org",
@@ -34,13 +34,18 @@
         "position":1,
         "url":"{{ site.url }}"
       },
-      {% for page in (2..paginator.total_pages)%}
+      {% for page in (2..num_pages) %}
       {
         "@type":"ListItem",
         "position":{{ page }},
         "url":"{{ site.paginate_path | prepend: site.url | replace: '//', '/' | replace: ':num', page }}"
       },
       {% endfor %}
+      {
+        "@type":"ListItem",
+        "position":{{ paginator.total_pages }},
+        "url":"{{ site.paginate_path | prepend: site.url | replace: '//', '/' | replace: ':num', paginator.total_pages }}"
+      }
     ]
   }
   </script>
