@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Coorg, Karnataka"
+redirect_from:
+  - /things-to-do-in-madikeri-karnataka/
+  - /things-to-do-in-kodagu-karnataka/
 author: sid
 categories: [Hill Station, Resorts, Weekend Getaway, Waterfalls]
 image: assets/images/coorg.webp

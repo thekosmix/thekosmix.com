@@ -2,8 +2,8 @@
 layout: post
 title:  "Dhanaulti-Tehri, Uttarakhand"
 redirect_from:
-  - /dhanaulti-tehri/
-  - /dhanaulti-uttarakhand/
+  - /places-to-visit-in-dhanaulti-uttarakhand/
+  - /places-to-visit-near-tehri-uttarakhand/
 author: sid
 categories: [Man-made Lake, Chill, Mountain, Weekend Getaway, Dam, Reservoir]
 image: assets/images/dhanaulti.webp

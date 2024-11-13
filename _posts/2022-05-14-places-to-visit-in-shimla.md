@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Shimla, Himachal Pradesh"
-redirect_from:
-  - /shimla/
-  - /shimla-himachal-pradesh/
 author: sid
 categories: [ Chill, Long Drive, Mountain, Snow, Long trip]
 image: assets/images/shimla.webp

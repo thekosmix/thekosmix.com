@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Chail, Himachal Pradesh"
-redirect_from:
-  - /chail/
-  - /chail-himachal-pradesh/
 author: sid
 categories: [ Mountain, Palaces, Chill, Snow ]
 image: assets/images/chail.webp

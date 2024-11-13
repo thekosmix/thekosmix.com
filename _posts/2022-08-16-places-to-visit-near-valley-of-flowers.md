@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Valley of Flowers, Uttarakhand"
-redirect_from:
-  - /valley-of-flowers/
 author: sid
 categories: [ Chill, Snow, Mountain, Long trip]
 image: assets/images/vof.webp

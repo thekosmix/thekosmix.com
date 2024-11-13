@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Junagadh, Gujrat"
-redirect_from:
-  - /junagadh/
-  - /junagadh-gujrat/
 author: sid
 categories: [ Zoo, Wild Animals ]
 image: assets/images/junagadh.webp

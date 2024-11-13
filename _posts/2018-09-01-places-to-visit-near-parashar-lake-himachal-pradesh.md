@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Parashar Lake, Himachal Pradesh"
-redirect_from:
-  - /parashar/
-  - /parashar-lake/
 author: sid
 categories: [ Lake, Mountain, Chill, Weekend Getaway ]
 image: assets/images/parashar.webp

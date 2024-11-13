@@ -2,8 +2,8 @@
 layout: post
 title:  "Sasan Gir, Gujrat"
 redirect_from:
-  - /sasan/
-  - /sasan-gir/
+  - /places-to-visit-in-sasan-gir-gujrat/
+  - /things-to-do-in-gir-national-park-gujrat/
 author: sid
 categories: [ Wild Animals, Forest ]
 image: assets/images/sasan.webp

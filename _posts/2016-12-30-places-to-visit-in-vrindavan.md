@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Vrindavan, Uttar Pradesh"
-redirect_from:
-  - /vrindavan/
-  - /vrindavan-uttar-pradesh/
 author: sid
 categories: [ Temple, River, Pilgrimage ]
 image: assets/images/vrindavan.webp

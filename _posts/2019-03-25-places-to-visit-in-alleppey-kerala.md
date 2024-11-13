@@ -2,10 +2,7 @@
 layout: post
 title:  "Alleppey, Kerala"
 redirect_from:
-  - /alleppey/
-  - /alleppey-kerala/
-  - /alappuzha/
-  - /alappuzha-kerala/
+  - /places-to-visit-in-alappuzha-kerala/
 author: sid
 categories: [ Sea, Beach, Forest, House Boat, Back Waters ]
 image: assets/images/alleppey.webp

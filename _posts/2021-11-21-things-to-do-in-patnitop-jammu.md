@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Patnitop, Jammu and Kashmir"
-redirect_from:
-  - /patnitop/
 author: sid
 categories: [ Shrine, Mountain, Trekking, Resorts ]
 image: assets/images/patnitop.webp

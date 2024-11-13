@@ -2,10 +2,7 @@
 layout: post
 title:  "New Delhi, Delhi"
 redirect_from:
-  - /delhi/
-  - /new-delhi/
-  - /delhi-india/
-  - /new-delhi-india/
+  - /places-to-visit-in-new-delhi/
 author: sid
 categories: [ History, Temple, Monuments, Culture, Modern Architecture, War Memorial ]
 image: assets/images/delhi.webp

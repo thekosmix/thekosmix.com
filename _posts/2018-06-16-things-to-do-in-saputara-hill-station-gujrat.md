@@ -2,8 +2,7 @@
 layout: post
 title:  "Saputara, Gujrat"
 redirect_from:
-  - /saputara/
-  - /saputara-hill-station/
+  - /places-to-visit-near-saputara-gujrat/
 author: sid
 categories: [ Mountain, Hill Station,  Weekend Getaway ]
 image: assets/images/saputara.webp

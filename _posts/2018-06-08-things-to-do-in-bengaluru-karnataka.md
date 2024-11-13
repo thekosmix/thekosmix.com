@@ -2,10 +2,7 @@
 layout: post
 title:  "Bengaluru, Karnataka"
 redirect_from:
-  - /bengaluru/
-  - /bengaluru-karnataka/
-  - /bangalore/
-  - /bangalore-karnataka/
+  - /places-to-visit-in-bangalore-karnataka/
 author: sid
 categories: [ Modern Architecture, Lake, Garden ]
 image: assets/images/bengaluru.webp

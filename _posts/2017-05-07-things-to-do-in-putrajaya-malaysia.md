@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Putrajaya, Malaysia"
-redirect_from:
-  - /putrajaya/
-  - /putrajaya-malaysia/
 author: sid
 categories: [ Sea, Mountain, Culture, Beach, Modern Architecture ]
 image: assets/images/putrajaya.webp

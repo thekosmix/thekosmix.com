@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Puri, Odisha"
-redirect_from:
-  - /puri/
-  - /puri-odisha/
 author: sid
 categories: [ Pilgrimage, Temple, Sea, Beach, History ]
 image: assets/images/puri.webp

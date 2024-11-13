@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "McLeod Ganj, Himachal Pradesh"
-redirect_from:
-  - /mcleod-ganj/
-  - /mcleodganj/
 author: sid
 categories: [ Trekking, Mountain, Weekend Getaway, Monasteries ]
 image: assets/images/mcleodganj.webp

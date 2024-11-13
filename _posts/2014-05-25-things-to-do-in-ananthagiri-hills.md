@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Ananthagiri Hills, Telangana"
-redirect_from:
-  - /ananthagiri/
-  - /ananthagiri-hills/
 author: sid
 categories: [ Chill, Valley, Mountain ]
 image: assets/images/anantgiri.webp

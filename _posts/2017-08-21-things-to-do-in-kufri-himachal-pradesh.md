@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Kufri, Himachal Pradesh"
-redirect_from:
-  - /kufri/
-  - /kufri-himachal-pradesh/
 author: sid
 categories: [ Mountain, Chill, Snow, Zoo ]
 image: assets/images/kufri.webp

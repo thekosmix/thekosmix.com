@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Nainital, Uttarakhand"
-redirect_from:
-  - /nainital/
-  - /nainital-uttarakhand/
 author: sid
 categories: [ Lake, Mountain, Activities ]
 image: assets/images/nainital.webp

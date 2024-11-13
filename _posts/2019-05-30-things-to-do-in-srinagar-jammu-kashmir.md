@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Srinagar, Jammu and Kashmir"
-redirect_from:
-  - /srinagar/
 author: sid
 categories: [ Monuments, Peaks, Valley, Garden ]
 image: assets/images/srinagar.webp

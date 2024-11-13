@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Munnar, Kerala"
-redirect_from:
-  - /munnar/
-  - /munnar-kerala/
 author: sid
 categories: [ Forest, Spices, Tea Garden ]
 image: assets/images/munnar.webp

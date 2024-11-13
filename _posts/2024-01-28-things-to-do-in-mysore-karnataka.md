@@ -2,7 +2,7 @@
 layout: post
 title:  "Mysuru, Karnataka"
 redirect_from:
-  - /things-to-do-in-mysore/
+  - /things-to-do-in-mysuru-karnataka/
 author: sid
 categories: [Palaces, Resorts, Weekend Getaway, Zoo]
 image: assets/images/mysuru.webp

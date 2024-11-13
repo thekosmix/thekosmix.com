@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Leh, Ladakh"
-redirect_from:
-  - /leh/
-  - /leh-ladakh/
 author: sid
 categories: [ Monuments, Peaks, Monasteries, Valley ]
 image: assets/images/leh.webp

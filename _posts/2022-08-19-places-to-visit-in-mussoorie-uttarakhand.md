@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Mussoorie, Uttarakhand"
-redirect_from:
-  - /mussoorie/
-  - /mussoorie-uttarakhand/
 author: sid
 categories: [ Chill, Snow, Mountain, Weekend Getaway]
 image: assets/images/mussoorie.webp

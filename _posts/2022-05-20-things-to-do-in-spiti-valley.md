@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Spiti Valley, Himachal Pradesh"
-redirect_from:
-  - /spiti-valley/
-  - /spiti-himachal-pradesh/
 author: sid
 categories: [ Chill, Long Drive, Mountain, Snow, Long trip]
 image: assets/images/spiti.webp

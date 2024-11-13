@@ -2,8 +2,7 @@
 layout: post
 title:  "Gurugram, Haryana"
 redirect_from:
-  - /gurgaon/
-  - /gurugram/
+  - /things-to-do-in-gurugram-haryana/
 author: sid
 categories: [ Resorts, Restaurants, Modern Architecture, Party, Long Drive ]
 image: assets/images/gurugram.webp

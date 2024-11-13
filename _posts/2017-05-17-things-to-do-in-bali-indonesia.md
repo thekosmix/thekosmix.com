@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Bali, Indonesia"
-redirect_from:
-  - /bali/
-  - /bali-indonesia/
 author: sid
 categories: [ Sea, Mountain, Culture, Beach ]
 image: assets/images/bali.webp

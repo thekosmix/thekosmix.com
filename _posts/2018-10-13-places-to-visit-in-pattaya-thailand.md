@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Pattaya, Thailand"
-redirect_from:
-  - /pattaya/
-  - /pattaya-thailand/
 author: sid
 categories: [ Sea, Beach, Activities]
 image: assets/images/pattaya.webp

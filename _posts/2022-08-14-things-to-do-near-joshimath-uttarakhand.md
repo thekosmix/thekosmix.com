@@ -2,8 +2,8 @@
 layout: post
 title:  "Joshimath-Ghangaria, Uttarakhand"
 redirect_from:
-  - /joshimath/
-  - /joshimath-uttarakhand/
+  - /places-to-visit-in-joshimath-uttarakhand/
+  - /places-to-visit-near-ghangaria-uttarakhand/
 author: sid
 categories: [Chill, Snow, Mountain, Long trip, Trekking]
 image: assets/images/joshimath.webp
