@@ -7,7 +7,9 @@ image: assets/images/indore.webp
 rating: 4
 tags: [Madhya Pradesh]
 ---
-Indore is the largest city in the state of Madhya Pradesh, India. It is located on the banks of the River Khan and is known for its rich cultural heritage and vibrant nightlife. Indore is home to a number of historical monuments, including the Rajwada Palace, the Lal Bagh Palace, and the Kanch Mandir. The city is also home to a number of other attractions, such as the Chokhi Dhani, the Indore Zoo, and the Central Museum. Indore is also home to a number of other activities, such as shopping, dining, and entertainment. The city is also home to a number of festivals, such as the Indore Utsav, the Ganesh Utsav, and the Kite Festival.
+Indore is the largest city in the state of Madhya Pradesh, India. It is located on the banks of the River Khan and is known for its rich cultural heritage. 
+
+Indore is home to a number of historical monuments, including the Rajwada Palace, the Lal Bagh Palace, and the Kanch Mandir. The city is also home to a number of other attractions, such as the Chokhi Dhani, the Indore Zoo, and the Central Museum. Indore is also home to a number of other activities, such as shopping, dining, and entertainment. The city is also home to a number of festivals, such as the Indore Utsav, the Ganesh Utsav, and the Kite Festival.
 
 Indore is a city in west-central India. It’s known for the 7-story Rajwada Palace and the Lal Baag Palace, which date back to Indore’s 19th-century Holkar dynasty. The Holkar rulers are honored by a cluster of tombs and cenotaphs at Chhatri Baag. The night market Sarafa Bazar sells street food. East is the Indo-Gothic Gandhi Hall and clock tower. The Jain temple Kanch Mandir has a mirrored mosaic interior.
 

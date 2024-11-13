@@ -7,7 +7,9 @@ image: assets/images/jaipur.webp
 rating: 4
 tags: [Rajasthan]
 ---
-Jaipur is the capital and the largest city of the Indian state of Rajasthan. It is also known as the Pink City, due to the dominant colour scheme of its buildings. It is located 268 km from the national capital New Delhi. Jaipur was founded in 1727 by the Kacchawa Rajput ruler Jai Singh II, the ruler of Amer, after whom the city is named. It was one of the earliest planned cities of modern India, designed by Vidyadhar Bhattacharya. During the British Colonial period, the city served as the capital of Jaipur State. After independence in 1947, Jaipur was made the capital of the newly formed state of Rajasthan.
+Jaipur is the capital and the largest city of Rajasthan. It is also known as the Pink City, due to the dominant colour scheme of its buildings. 
+
+It is located 268 km from the national capital New Delhi. Jaipur was founded in 1727 by the Kacchawa Rajput ruler Jai Singh II, the ruler of Amer, after whom the city is named. It was one of the earliest planned cities of modern India, designed by Vidyadhar Bhattacharya. During the British Colonial period, the city served as the capital of Jaipur State. After independence in 1947, Jaipur was made the capital of the newly formed state of Rajasthan.
 
 Jaipur is a popular tourist destination in India and forms a part of the west Golden Triangle tourist circuit along with Delhi and Agra. It also serves as a gateway to other tourist destinations in Rajasthan such as Jodhpur, Jaisalmer, Udaipur and Mount Abu. 
 

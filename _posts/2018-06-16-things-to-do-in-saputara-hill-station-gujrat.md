@@ -10,7 +10,9 @@ rating: 4.5
 tags: [Gujrat]
 ---
 
-Nestled over the gigantic Sahyadri mountain range in Gujarat, the picture-perfect hill station of Saputara boasts of endless natural beauty. From green landscapes stretching into the horizon to misty hills that are perfect for your Instagram feed, there’s a lot to explore in Saputara to surrender yourself to nature. Saputara is often called the abode of serpents owing to the fact that it derives its name from the snake God that the town’s tribal clan worships. Other than relaxing amidst nature and exploring the town’s historical and religious avenues, there are various things to do in Saputara that tend to draw travelers here. From riding the popular Pushpak ropeway, boating in the Saputara Lake, engaging in a trekking expedition through its enchanting forests, trying rock climbing and rappelling, there is no dearth of fun experiences that you can have here.
+Nestled over the gigantic Sahyadri mountain range in Gujarat, the picture-perfect hill station of Saputara boasts of endless natural beauty. 
+
+From green landscapes stretching into the horizon to misty hills that are perfect for your Instagram feed, there’s a lot to explore in Saputara to surrender yourself to nature. Saputara is often called the abode of serpents owing to the fact that it derives its name from the snake God that the town’s tribal clan worships. Other than relaxing amidst nature and exploring the town’s historical and religious avenues, there are various things to do in Saputara that tend to draw travelers here. From riding the popular Pushpak ropeway, boating in the Saputara Lake, engaging in a trekking expedition through its enchanting forests, trying rock climbing and rappelling, there is no dearth of fun experiences that you can have here.
 
 <h2>Places to visit in Saputara</h2>
 

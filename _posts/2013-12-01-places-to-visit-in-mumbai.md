@@ -7,7 +7,7 @@ image: assets/images/mumbai.webp
 rating: 5
 tags: [Maharashtra]
 ---
-Mumbai is the largest city in India and the seventh-largest city in the world. Mumbai is a major financial centre, and is also the capital of Maharashtra state.
+Mumbai is the largest city in India and the seventh-largest city in the world. Mumbai is a major financial centre, and is also the capital of Maharashtra.
 
 I visited Mumbai when I went IIT-Mumbai for placement season. I thought why not to take this opportunity and roam around in the city of dreams. The 2 biggest thing I noticed in Mumbai was: 1. The people were more responsible towards being a better citizen, they truly believed in "Aamchi Mumbai". 2. The night life was amazing and people specially girls felt safer in the city during night.
 

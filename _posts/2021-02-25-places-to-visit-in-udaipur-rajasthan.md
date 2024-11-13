@@ -7,7 +7,9 @@ image: assets/images/udaipur.webp
 rating: 4
 tags: [Rajasthan]
 ---
-Udaipur is a city in the state of Rajasthan, India. It is known for its beautiful lakes, palaces, and temples. Udaipur is home to a number of historical monuments, including the City Palace, the Jag Mandir Palace, and the Lake Palace. The city is also home to a number of other attractions, such as the Jagdish Temple, the Monsoon Palace, and the Fateh Sagar Lake. Udaipur is also home to a number of other activities, such as shopping, dining, and entertainment. The city is also home to a number of festivals, such as the Mewar Festival, the Gangaur Festival, and the Shilpgram Festival.
+Udaipur is a city in the state of Rajasthan, India. It is known for its beautiful lakes, palaces, and temples.
+
+Udaipur is home to a number of historical monuments, including the City Palace, the Jag Mandir Palace, and the Lake Palace. The city is also home to a number of other attractions, such as the Jagdish Temple, the Monsoon Palace, and the Fateh Sagar Lake. Udaipur is also home to a number of other activities, such as shopping, dining, and entertainment. The city is also home to a number of festivals, such as the Mewar Festival, the Gangaur Festival, and the Shilpgram Festival.
 
 Known to many as City of Lakes or Venice of the East, [Udaipur](https://www.justwravel.com/) is one of the charming cities lying deep in the western reaches of Rajasthan. The city has a rich history that runs more than a thousand years deep. Udaipur is primarily known for its lakes, palaces, forts, and gardens. However, it also offers many engaging activities to tourists of all ages. Read on as we explore and ponder on the various things to do in Udaipur that makes it such an enticing place to visit for people all around the world.
 

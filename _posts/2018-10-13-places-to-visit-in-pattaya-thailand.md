@@ -7,7 +7,9 @@ image: assets/images/pattaya.webp
 rating: 4.5
 is_another_country: true
 ---
-Pattaya is a popular beach resort city located on the east coast of the Gulf of Thailand. It is known for its vibrant nightlife, beautiful beaches, and numerous attractions. The city is home to a number of shopping malls, markets, and restaurants, as well as a variety of entertainment venues, such as bars, nightclubs, and cabaret shows. Pattaya is also home to a number of cultural and historical sites, such as the Sanctuary of Truth, the Big Buddha Hill, and the Pattaya Floating Market. Additionally, the city is home to a number of parks and gardens, such as the Nong Nooch Tropical Garden and the Pattaya Park.
+Pattaya is a popular beach resort city located on the east coast of the Gulf of Thailand. It is known for its vibrant nightlife, beautiful beaches, and more. 
+
+The city is home to a number of shopping malls, markets, and restaurants, as well as a variety of entertainment venues, such as bars, nightclubs, and cabaret shows. Pattaya is also home to a number of cultural and historical sites, such as the Sanctuary of Truth, the Big Buddha Hill, and the Pattaya Floating Market. Additionally, the city is home to a number of parks and gardens, such as the Nong Nooch Tropical Garden and the Pattaya Park.
 
 Pattaya is home to a number of attractions, such as the Pattaya Floating Market, the Underwater World Pattaya, and the Pattaya Elephant Village. Additionally, the city is home to a number of water parks, such as the Cartoon Network Amazone and the Ramayana Water Park. Pattaya is also home to a number of temples, such as the Wat Phra Yai and the Wat Chai Mongkon. Additionally, the city is home to a number of museums, such as the Ripley's Believe It or Not Museum and the Art in Paradise 3D Museum. Additionally, the city is home to a number of golf courses, such as the Laem Chabang International Country Club and the Siam Country Club.
 

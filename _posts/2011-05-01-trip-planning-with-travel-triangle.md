@@ -25,5 +25,5 @@ Few of the trips I did with TT
 1. [Sikkim](https://traveltriangle.com/agents/343038343731332d53696b-sikkim-hills-tours-and-travels)
 2. [Rajasthan](https://traveltriangle.com/agents/323139323933372d547269-trippy-holidays)
 3. [Kerala](https://traveltriangle.com/agents/3139383738372d736b79-sky-tours-and-travel-com)
-4. [Karnataka](https://traveltriangle.com/agents/363237303139382d545241-TRAVEL-CORP-HOSPITALITY-SERVICES)
+4. [Karnataka](https://traveltriangle.com/agents/363237303139382d545241-travel-corp-hospitality-services)
 <br/>... and many more

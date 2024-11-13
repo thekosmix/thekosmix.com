@@ -7,7 +7,9 @@ image: assets/images/spiti.webp
 rating: 5
 tags: [Himachal Pradesh]
 ---
-Spiti Valley is a high-altitude desert mountain valley located in the northern Indian state of Himachal Pradesh. It is situated at an elevation of 4,270 meters above sea level and is surrounded by the majestic Himalayan peaks. It is a popular tourist destination due to its stunning views of the snow-capped mountains, lush green valleys, and colorful meadows of wildflowers. The Spiti Valley is home to a variety of rare and endangered species of flora and fauna, including the snow leopard, Tibetan wolf, and Himalayan marmot. It is also a great place for trekking, camping, and bird watching. 
+Spiti Valley is a high-altitude desert mountain valley located in the northern Indian state of Himachal Pradesh.
+
+It is situated at an elevation of 4,270 meters above sea level and is surrounded by the majestic Himalayan peaks. It is a popular tourist destination due to its stunning views of the snow-capped mountains, lush green valleys, and colorful meadows of wildflowers. The Spiti Valley is home to a variety of rare and endangered species of flora and fauna, including the snow leopard, Tibetan wolf, and Himalayan marmot. It is also a great place for trekking, camping, and bird watching. 
 
 The Spiti Valley is also a UNESCO World Heritage Site. The valley is home to several ancient monasteries, including the Tabo Monastery, which is one of the oldest and most important Buddhist monasteries in the region. The valley is also home to the Spiti River, which is a tributary of the Sutlej River. The valley is known for its unique culture and traditions, which are still practiced by the local people.
 

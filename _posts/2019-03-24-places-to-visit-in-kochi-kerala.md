@@ -9,7 +9,9 @@ image: assets/images/kochi.webp
 rating: 4
 tags: [Kerala]
 ---
-Located in the beautiful state of Kerala, Kochi is a major port city in India and has been a significant trade centre for centuries. Even though it has a history dating back to thousands of years, it is mainly noted for its natural beauty. From beaches to backwaters and hills to forests, it has everything that allures tourists from all over the country. Therefore, over a period of time, Kochi has become of the most-visited tourist destination in South India.
+Located in the beautiful state of Kerala, Kochi is a major port city in India and has been a significant trade centre for centuries. 
+
+Even though it has a history dating back to thousands of years, it is mainly noted for its natural beauty. From beaches to backwaters and hills to forests, it has everything that allures tourists from all over the country. Therefore, over a period of time, Kochi has become of the most-visited tourist destination in South India.
 
 Kochi, also known as Cochin, is a major port city in the Indian state of Kerala. It is located on the south-west coast of India, and is home to a number of tourist attractions, such as the Chinese Fishing Nets, the Mattancherry Palace, and the Jewish Synagogue. Additionally, Kochi is home to a number of shopping and dining options, such as the Lulu Mall and the Marine Drive. Kochi is also home to a number of religious sites, such as the Santa Cruz Basilica and the Paradesi Synagogue. Additionally, the area is home to a number of beaches, such as the Cherai Beach and the Fort Kochi Beach. Additionally, Kochi is home to a number of wildlife sanctuaries, such as the Thattekkad Bird Sanctuary and the Periyar Wildlife Sanctuary.
 

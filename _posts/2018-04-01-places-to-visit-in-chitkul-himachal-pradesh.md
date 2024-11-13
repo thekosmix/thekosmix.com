@@ -7,7 +7,9 @@ image: assets/images/chitkul.webp
 rating: 4.5
 tags: [Himachal Pradesh]
 ---
-I visited Chitkul at the start of April. The temperature over there was in range [-7, 1]°C. It was way way too cold for me!! It was a trip with young folks from college. They had huge energy and enthusiasm in them. We boarded a bus from delhi on Fri night and arrived at Shimla early morning the next day. From there we took a mini-van and started our journey for Chitkul. As Chitkul was coming closer, it started getting colder. We finally arrived in chitkul by Saturday evening, 5pm.
+I visited Chitkul at the start of April. The temperature over there was in range [-7, 1]°C. It was way way too cold for me!! 
+
+It was a trip with young folks from college. They had huge energy and enthusiasm in them. We boarded a bus from delhi on Fri night and arrived at Shimla early morning the next day. From there we took a mini-van and started our journey for Chitkul. As Chitkul was coming closer, it started getting colder. We finally arrived in chitkul by Saturday evening, 5pm.
 
 Everything was frozen over there, the water in taps, the drinking water, everything. The lodge owner had to heat the water to make it usable even for morning routines. Next day on Sunday we did a little hiking, reached near Indian Army Post, talked to the few officers over there and took few photos with them. We started hiking back to the lodge and went to other side of Baspa River to enjoy the snow. Finally, we reached the lodge, enjoyed a camp fire and hot maggi. Next day on Monday, we started heading back for Shimla, had brunch at “The last restaurant of Hindustan (आखरी ढाबा)” and reached Shimla by night, boarded a bus to Delhi the next morning.
 

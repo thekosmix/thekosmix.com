@@ -7,7 +7,9 @@ image: assets/images/haridwar.webp
 rating: 3.5
 tags: [Uttarakhand]
 ---
-Haridwar is situated on the right bank of the Ganges river, at the foothills of the Shivalik ranges. Haridwar is regarded as a holy place for Hindus, hosting important religious events and serving as a gateway to several prominent places of worship. Most significant of the events is the Kumbha Mela, which is celebrated every 12 years in Haridwar. During the Haridwar Kumbh Mela, millions of pilgrims, devotees, and tourists congregate in Haridwar to perform ritualistic bathing on the banks of the Ganges to wash away their sins to attain moksha.
+Haridwar is situated on the right bank of the Ganges river, at the foothills of the Shivalik ranges. Haridwar is regarded as a holy place for Hindus.
+
+It hosts important religious events and serving as a gateway to several prominent places of worship. Most significant of the events is the Kumbha Mela, which is celebrated every 12 years in Haridwar. During the Haridwar Kumbh Mela, millions of pilgrims, devotees, and tourists congregate in Haridwar to perform ritualistic bathing on the banks of the Ganges to wash away their sins to attain moksha.
 
 According to Puranic legend, Haridwar, along with Ujjain, Nashik and Prayagraj (Allahabad), is one of four sites where drops of amrita, the elixir of immortality, accidentally spilled over from a kumbha (pitcher) while being carried by the celestial bird Garuda during the samudra manthan, or churning of the ocean of milk.[6] Brahma Kund, the spot where the amrita fell, is located at Har ki Pauri (literally, "footsteps of the Lord") and is considered to be the most sacred ghat of Haridwar. It is also the primary centre of the Kanwar pilgrimage, in which millions of participants gather sacred water from the Ganges and carry it across hundreds of miles to dispense as offerings in Shiva shrines.
 

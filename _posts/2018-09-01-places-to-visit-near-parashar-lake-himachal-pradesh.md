@@ -7,7 +7,10 @@ image: assets/images/parashar.webp
 rating: 5
 tags: [Himachal Pradesh]
 ---
-Sage Prashar is the reason Prashar Lake got its name ages ago. One visits this quintessential lake will be unknowingly directed to oblivion and for sure the serenity will let every visitor linger for more. Located in Mandi village, Himachal Pradesh, the iconic attraction apart from the lake is the three stories pagoda like temple structure near the lake. 2730 meters above the lake seats amidst the rejuvenating sets of nature’s miracles including the snow-clad peaks in the backdrop and River Beas flowing so fast through the valley down. One can get access to the lake through Drang. The age of temple lengthens back to 13th century and the lake has one more surprise within it that is a floating island. Though visitors are seen in plenty over here, no one could accurately fathom the depth the lake goes into, till date.
+
+Located in Mandi village, Himachal Pradesh, the iconic attraction apart from the lake is the three stories pagoda like temple structure near the lake.
+
+Sage Prashar is the reason Prashar Lake got its name ages ago. One visits this quintessential lake will be unknowingly directed to oblivion and for sure the serenity will let every visitor linger for more.  2730 meters above the lake seats amidst the rejuvenating sets of nature’s miracles including the snow-clad peaks in the backdrop and River Beas flowing so fast through the valley down. One can get access to the lake through Drang. The age of temple lengthens back to 13th century and the lake has one more surprise within it that is a floating island. Though visitors are seen in plenty over here, no one could accurately fathom the depth the lake goes into, till date.
 
 <h2>Things to do in Parashar Lake</h2>
 

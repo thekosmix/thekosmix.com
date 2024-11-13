@@ -7,7 +7,7 @@ image: assets/images/srinagar.webp
 rating: 5
 tags: [Jammu and Kashmir]
 ---
-Gar firdaus bar-rue zamin ast, hami asto, hamin asto, hamin ast.” “If there is a heaven on earth, it’s here, it’s here, it’s here.” Mughal Emperor Jehangir said it all when he visited Kashmir in the 17th century.
+Gar firdaus bar-rue zamin ast, hami asto, hamin asto, hamin ast.” “If there is a heaven on earth, it’s here, it’s here, it’s here.” 
 
 Srinagar is the summer capital of the Indian state of Jammu and Kashmir. It is located in the Kashmir Valley on the banks of the Jhelum River. It is known for its beautiful lakes, gardens, and houseboats. Popular tourist attractions include the Dal Lake, the Mughal Gardens, and the Shankaracharya Hill. Other activities include visiting the Hazratbal Shrine, the Jama Masjid Mosque, and the Pari Mahal. Shopping is also a popular activity in Srinagar, with a variety of markets and bazaars selling traditional Kashmiri handicrafts, carpets, and shawls. Adventure seekers can also enjoy trekking, skiing, and paragliding in the nearby mountains.
 

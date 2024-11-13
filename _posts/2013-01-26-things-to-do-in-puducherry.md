@@ -7,7 +7,7 @@ image: assets/images/puducherry.webp
 rating: 4.5
 tags: [Puducherry]
 ---
-Puducherry, a former French colony in India, is known for its beaches, colonial architecture and Auroville spiritual center. It's a town with French and Tamil influences.
+Puducherry, a former French colony in India, is known for its beaches, colonial architecture and Auroville spiritual center.
 
 I experienced vastness of the ocean for the first time in my life at the paradise beach of Puducherry. At first, I couldn't believe that there can be endless water at one place. But, after a few minutes, I realized that it's just a small part of the ocean. I went inside the water and tried to swim and when I swallowed the sea-water for the first time, it was so salty that I couldn't breathe for a moment. But I was there in the water till the evening. It was an unforgettable experience.
 

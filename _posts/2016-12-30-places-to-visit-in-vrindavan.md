@@ -7,7 +7,9 @@ image: assets/images/vrindavan.webp
 rating: 3.5
 tags: [Uttar Pradesh]
 ---
-Vrindavan is said to be a major part of Lord Krishna’s childhood. It was here that Lord Krishna and Goddess Radha’s love story bloomed, and all the stories of the notorious side of the Lord with Gopis were based on. Vrindavan, a destination that is more than just being any other geographic location, has stolen the hearts of many. With an essence of spirituality encircling this holy town, Vrindavan is one of its kind. Dozens of temples, constructed in all shapes and sizes, can be seen covering the floors.
+Vrindavan is said to be a major part of Lord Krishna’s childhood. It was here that Lord Krishna and Goddess Radha’s love story bloomed.
+
+Vrindavan, a destination that is more than just being any other geographic location, has stolen the hearts of many. With an essence of spirituality encircling this holy town, Vrindavan is one of its kind. Dozens of temples, constructed in all shapes and sizes, can be seen covering the floors.
 
 Vrindavan is a holy town in the Mathura district of Uttar Pradesh, India. It is located on the banks of the Yamuna River, and is considered to be one of the holiest cities in Hinduism. Vrindavan is home to a number of temples, including the Banke Bihari Temple, the ISKCON Temple, and the Radha Raman Temple. The town is also home to a number of ashrams, such as the Radha Madhav Ashram and the Radha Gopinath Ashram. Vrindavan is also known for its vibrant culture, with a number of festivals and events taking place throughout the year. The town is also home to a number of markets, such as the Vrindavan Market and the Radha Kund Market, where visitors can find a variety of traditional handicrafts and souvenirs.
 

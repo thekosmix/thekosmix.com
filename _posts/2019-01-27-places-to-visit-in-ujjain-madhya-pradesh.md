@@ -7,7 +7,9 @@ image: assets/images/ujjain.webp
 rating: 4
 tags: [Madhya Pradesh]
 ---
-Ujjain is beleived to be the city of birth of Chandra (moon god). This holy city is situated at the banks of Kshipra River. It is the place of of the Mahakaleshar, one of the 12 Jyotirlinga's of Lord Shiva. It is one of the most visited places among the holy cities of India.
+Ujjain is beleived to be the city of birth of Chandra (moon god). This holy city is situated at the banks of Kshipra River. 
+
+It is the place of of the Mahakaleshar, one of the 12 Jyotirlinga's of Lord Shiva. It is one of the most visited places among the holy cities of India.
 
 Ujjain is an ancient city located in the state of Madhya Pradesh in India. It is one of the seven sacred cities of Hinduism and is also known as the "City of Temples". Ujjain is home to a number of ancient temples, such as the Mahakaleshwar Temple, the Kal Bhairav Temple, and the Chintaman Ganesh Temple. Additionally, the city is home to a number of other attractions, such as the Ujjain Observatory, the Ujjain Fort, and the Ujjain Museum. Ujjain is also home to a number of festivals, such as the Simhastha Kumbh Mela and the Ujjain Festival. Additionally, the city is home to a number of cultural events, such as the Ujjain International Music Festival and the Ujjain International Film Festival.
 

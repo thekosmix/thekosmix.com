@@ -8,9 +8,11 @@ rating: 5
 tags: [Himachal Pradesh]
 ---
 
+Chail is a small hill station in the Shimla district of Himachal Pradesh, India. It is located at an altitude of 2,250 meters.
+
 Merely 2 hours drive away from the Shimla, Chail is a quiet hill-station tucked in the lap of nature. A haven for those wanting to escape mind-numbing restlessness of city life, this lovely town was a former summer retreat for the Maharaja of Patiala. Dining at a lake restaurant, walking on the highest cricket ground in the world, and listening to the chirping of birds in the Chail Wildlife Sanctuary – there are a lot of lovely experiences you can have at the popular places to visit in Chail, Himachal Pradesh
 
-Chail is a small hill station in the Shimla district of Himachal Pradesh, India. It is located at an altitude of 2,250 meters, and is surrounded by lush green forests and snow-capped mountains. Chail is known for its picturesque views, and is a popular destination for trekking, camping, and other outdoor activities. The town is also home to the Chail Palace, which was built in 1891 by the Maharaja of Patiala. The palace is now a heritage hotel, and is a popular tourist attraction. Chail is also home to a number of temples, such as the Kali Ka Tibba Temple and the Sidh Baba Ka Mandir. The town is also home to a number of trekking trails, such as the Chail-Kufri Trek and the Chail-Kasauli Trek.
+Chail is surrounded by lush green forests and snow-capped mountains. Chail is known for its picturesque views, and is a popular destination for trekking, camping, and other outdoor activities. The town is also home to the Chail Palace, which was built in 1891 by the Maharaja of Patiala. The palace is now a heritage hotel, and is a popular tourist attraction. Chail is also home to a number of temples, such as the Kali Ka Tibba Temple and the Sidh Baba Ka Mandir. The town is also home to a number of trekking trails, such as the Chail-Kufri Trek and the Chail-Kasauli Trek.
 
 <h2>Places to visit in Chail</h2>
 
