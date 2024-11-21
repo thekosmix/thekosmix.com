@@ -9,7 +9,9 @@ Jekyll creates a static blog with many features like
 ## installation and running locally
  - [Install ruby](https://www.ruby-lang.org/en/documentation/installation/) 
  - [Install jekyll](https://jekyllrb.com/)
- - Go inside the folder thekosmix.com and run command ```bundle exec jekyll serve```
+ - Go inside the folder thekosmix.com and
+   - First install dependancies by running ```bundle install```
+   - Then run command ```bundle exec jekyll serve``` to run the local server to serve the blog pages
  - Open your browser and go to [http://localhost:4000/](http://localhost:4000/) to view the pages
 
 ## deployment on firebase
