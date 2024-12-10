@@ -7,9 +7,9 @@ image: assets/images/vizag.webp
 rating: 4
 tags: [Andhra Pradesh]
 ---
-Visakhapatnam, also known as Vizag, is a port city located in the Indian state of Andhra Pradesh. 
+Visakhapatnam, also known as Vizag, is a port city located in the Indian state of Andhra Pradesh. It's also the largest city. 
 
-It is the largest city in the state and is known for its beautiful beaches, lush green hills, and stunning views of the Bay of Bengal. Visakhapatnam is home to a number of historical sites, such as the Dutch Fort, the Simhachalam Temple, and the Visakha Museum. The city is also known for its many parks, such as the Kailasagiri Hill Park and the Indira Gandhi Zoological Park. Visakhapatnam is also home to a number of educational institutions, such as the Andhra University and the Indian Institute of Management. The city is also known for its many festivals, such as the Visakha Utsav and the Visakha Music Festival. Visakhapatnam is a great destination for a relaxing holiday, with plenty of activities to keep visitors entertained.
+Vizag is known for its beautiful beaches, lush green hills, and stunning views of the Bay of Bengal. Visakhapatnam is home to a number of historical sites, such as the Dutch Fort, the Simhachalam Temple, and the Visakha Museum. The city is also known for its many parks, such as the Kailasagiri Hill Park and the Indira Gandhi Zoological Park. Visakhapatnam is also home to a number of educational institutions, such as the Andhra University and the Indian Institute of Management. The city is also known for its many festivals, such as the Visakha Utsav and the Visakha Music Festival. Visakhapatnam is a great destination for a relaxing holiday, with plenty of activities to keep visitors entertained.
 
 <h2>Things to do in Visakhapatnam</h2>
 
