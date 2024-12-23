@@ -15,6 +15,7 @@ Ghangaria is a small village located in the Chamoli district of Uttarakhand, Ind
 Joshimath is a small town located in the Chamoli district of Uttarakhand, India. It is situated at an altitude of 1,890 meters and is known for its stunning views of the Himalayas. Joshimath is a popular destination for pilgrims, as it is the winter home of the revered Hindu deity, Lord Badrinath. The town is also home to a number of ancient temples and monasteries, including the famous Narsingh Temple and the Adi Shankaracharya Math. Other attractions in Joshimath include the nearby Auli Ski Resort, the Nanda Devi National Park, and the Valley of Flowers National Park. The town is also a great place to enjoy the local cuisine and culture.
 
 <h2>Places to visit near Joshimath</h2>
+
 1. Visit the Narsingh Temple: This ancient temple is dedicated to Lord Vishnu and is one of the most important pilgrimage sites in Joshimath.
 2. Explore the Adi Shankaracharya Math: This ancient monastery is believed to have been founded by the 8th century philosopher Adi Shankaracharya.
 3. Visit the Auli Ski Resort: This popular ski resort is located just a few kilometers from Joshimath and offers stunning views of the Himalayas.

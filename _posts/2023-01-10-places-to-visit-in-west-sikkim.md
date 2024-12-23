@@ -14,6 +14,7 @@ West Sikkim is a district in the Indian state of Sikkim. It is known for its stu
 The outstanding view of the southeastern side of the Mt. Kangchenjunga is what attracting tourists from various corner of the world to this place. The beautiful natural surroundings with the peaceful and tranquil ambiance are very hypnotizing and refreshing to the mind, body and soul. The oldest monasteries like the Sangachoeling Monasteries and the Pemayansgtse Monasteries are the prime religious places which attract Buddhism followers and other religious followers alike for the immense mental peace. The dense forest and a holy Kchehepalri Lake in between are also the great attractions in the West Sikkim for the tourists and devotees.
 
 <h2>Things to do in West Sikkim</h2>
+
 1. Sightseeing: Pelling is home to a variety of attractions, including the Pemayangtse Monastery, the Rabdentse Ruins, and the Singshore Bridge.
 2. Trekking: Pelling is home to a variety of trekking trails, making it a great place to explore the area.
 3. Adventure Sports: Pelling is a great place for adventure sports, such as paragliding, rock climbing, and zip-lining.

@@ -16,6 +16,7 @@ Shnongpdeng is an adventure destination with several activities being hosted in 
 Shnongpdeng Village is 8 km north of Dawki along the winding Umngot. With waters so clear, you can peer into the bottom and count the stones – that is how the Umngot River can be described during the peak pre-monsoon, autumn, and winter seasons. Whether you want to enjoy a gentle boat ride through a stretch flanked by forests or you want to take a dip into the river in scuba gear, the activities in Shnongpdeng will keep you occupied for days.
 
 <h2>Places to visit near Shnongpdeng</h2>
+
 1. Dawki River: The Dawki River is a great place to go for a boat ride and enjoy the stunning views of the surrounding hills.
 2. Nohkalikai Falls: Nohkalikai Falls is one of the tallest waterfalls in India, making it a great place to visit.
 3. Mawlynnong Village: Mawlynnong Village is a picturesque village known for its cleanliness and natural beauty.

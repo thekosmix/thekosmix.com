@@ -12,6 +12,7 @@ tags: [Himachal Pradesh]
 Shimla is a popular destination for adventure activities such as trekking, paragliding, skiing, and mountain biking. It is also home to many temples, such as the Jakhu Temple and the Tara Devi Temple. Shimla is also known for its vibrant nightlife, with many bars, pubs, and restaurants. The city also has a vibrant shopping scene, with many markets and malls.
 
 <h2>Things to do in Shimla</h2>
+
 1. Visit the Mall Road and explore the shops and restaurants.
 2. Take a cable car ride to the top of Jakhoo Hill.
 3. Go trekking in the nearby hills.

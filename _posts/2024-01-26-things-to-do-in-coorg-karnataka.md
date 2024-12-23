@@ -12,23 +12,25 @@ tags: [Karnataka]
 ---
 Coorg, also known as Kodagu, is a beautiful hill station in Karnataka, India, nestled in the Western Ghats mountain range. Often referred to as the "Scotland of India" for its lush greenery, rolling hills, and misty climate, Coorg is a popular destination for nature lovers, adventure seekers, and anyone looking for a relaxing escape.
 
-* Immerse yourself in coffee culture: Coorg is India's coffee capital. Visit a coffee plantation, learn about the bean-to-brew process, and indulge in a cup of fresh coffee amidst aromatic estates.
-* Explore cascading waterfalls: Coorg boasts numerous waterfalls. Witness the cascading beauty of Abbey Falls, take a refreshing dip at Iruppu Falls, or go for a short trek to reach the secluded Jokumaraswamy Falls.
-* Spot wildlife in Nagarhole National Park: Embark on a jeep safari in Nagarhole National Park. Look for elusive tigers, majestic elephants, and diverse birdlife in this protected sanctuary.
-* Hike to Tadiandamol Peak: Challenge yourself with a trek to Coorg's highest peak, Tadiandamol. The summit offers panoramic views of the Western Ghats and lush green valleys below.
-* Unwind at Raja's Seat: Perch yourself at Raja's Seat, a scenic viewpoint overlooking Madikeri town. Enjoy breathtaking sunsets and soak in the tranquility of the hills.
-* Experience Kodava culture: Learn about the unique traditions of the Kodavas, the martial tribe of Coorg. Visit their decorated houses and savor their flavorful cuisine.
-* Go for a wildlife encounter at Dubare: At the Dubare Elephant Camp on the banks of the Cauvery River, observe elephants up close, understand their behavior, and even take a short elephant ride.
-* Explore Madikeri Fort: Delve into Coorg's history at Madikeri Fort. This 17th-century fort offers remnants of a bygone era and panoramic views of the town.
-* Go for adventure activities: For adrenaline junkies, Coorg offers white-water rafting on the Cauvery River, ziplining through coffee estates, or mountain biking on scenic trails.
+<h2>Things to do in Coorg</h2>
+
+1. Immerse yourself in coffee culture: Coorg is India's coffee capital. Visit a coffee plantation, learn about the bean-to-brew process, and indulge in a cup of fresh coffee amidst aromatic estates.
+2. Explore cascading waterfalls: Coorg boasts numerous waterfalls. Witness the cascading beauty of Abbey Falls, take a refreshing dip at Iruppu Falls, or go for a short trek to reach the secluded Jokumaraswamy Falls.
+3. Spot wildlife in Nagarhole National Park: Embark on a jeep safari in Nagarhole National Park. Look for elusive tigers, majestic elephants, and diverse birdlife in this protected sanctuary.
+4. Hike to Tadiandamol Peak: Challenge yourself with a trek to Coorg's highest peak, Tadiandamol. The summit offers panoramic views of the Western Ghats and lush green valleys below.
+5. Unwind at Raja's Seat: Perch yourself at Raja's Seat, a scenic viewpoint overlooking Madikeri town. Enjoy breathtaking sunsets and soak in the tranquility of the hills.
+6. Experience Kodava culture: Learn about the unique traditions of the Kodavas, the martial tribe of Coorg. Visit their decorated houses and savor their flavorful cuisine.
+7. Go for a wildlife encounter at Dubare: At the Dubare Elephant Camp on the banks of the Cauvery River, observe elephants up close, understand their behavior, and even take a short elephant ride.
+8. Explore Madikeri Fort: Delve into Coorg's history at Madikeri Fort. This 17th-century fort offers remnants of a bygone era and panoramic views of the town.
+9. Go for adventure activities: For adrenaline junkies, Coorg offers white-water rafting on the Cauvery River, ziplining through coffee estates, or mountain biking on scenic trails.
 
 <h2>Places to visit in Coorg</h2>
 The best time to visit Coorg depends on what you want to do during your trip:
 
-* Pleasant weather and sightseeing: October to March is the best time to visit Coorg for sightseeing and outdoor activities. The weather is dry and sunny with comfortable temperatures, ranging from 10°C to 25°C. This is the ideal time to explore Coorg's many waterfalls, coffee plantations, and historical sites.
-* Trekking and adventure: If you're interested in trekking and adventure activities, October to February is the best time to visit. The trails are dry and less slippery during this time.
-* Witness lush greenery: For those who love lush greenery, July to September, the monsoon season, is a good time to visit Coorg. The waterfalls are at their fullest, and the hills are carpeted in vibrant green. However, landslides can be a concern during this time, and some outdoor activities may be limited.
-* Budget-friendly travel: The monsoon season (July to September) is also the least crowded and most affordable time to visit Coorg. The waterfalls are at their fullest, and the hills are carpeted in vibrant green. However, landslides can be a concern during this time, and some outdoor activities may be limited.
+1. Pleasant weather and sightseeing: October to March is the best time to visit Coorg for sightseeing and outdoor activities. The weather is dry and sunny with comfortable temperatures, ranging from 10°C to 25°C. This is the ideal time to explore Coorg's many waterfalls, coffee plantations, and historical sites.
+2. Trekking and adventure: If you're interested in trekking and adventure activities, October to February is the best time to visit. The trails are dry and less slippery during this time.
+3. Witness lush greenery: For those who love lush greenery, July to September, the monsoon season, is a good time to visit Coorg. The waterfalls are at their fullest, and the hills are carpeted in vibrant green. However, landslides can be a concern during this time, and some outdoor activities may be limited.
+4. Budget-friendly travel: The monsoon season (July to September) is also the least crowded and most affordable time to visit Coorg. The waterfalls are at their fullest, and the hills are carpeted in vibrant green. However, landslides can be a concern during this time, and some outdoor activities may be limited.
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"

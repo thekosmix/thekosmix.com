@@ -12,6 +12,7 @@ One of India's best-kept secrets, Nako village is situated on the Indo-Tibetan b
 Nako Village is a small village located in the Kinnaur district of Himachal Pradesh, India. It is situated at an altitude of 3,662 meters and is known for its picturesque beauty. The village is home to a number of ancient temples and monasteries, including the famous Nako Monastery. The village is also known for its apple orchards and is a great place to enjoy the local cuisine. Other attractions in Nako Village include the Nako Lake, the Nako Wildlife Sanctuary, and the Nako Gompa. The village is also a popular destination for trekking, paragliding, and mountain biking.
 
 <h2>Places to visit in Nako</h2>
+
 1. Nako Lake: Nako Lake is a beautiful lake located in the Spiti Valley. It is a great place to relax and take in the stunning views.
 2. Tabo Monastery: Tabo Monastery is a Buddhist monastery located in the Spiti Valley. It is a great place to learn about the local culture and history.
 3. Kaza: Kaza is a small town located in the Spiti Valley. It is a great place to explore the local culture and cuisine.

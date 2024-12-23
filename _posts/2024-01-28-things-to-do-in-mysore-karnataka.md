@@ -13,22 +13,22 @@ Mysuru, also known as Mysore, is the second most populous city in the southern I
 
 <h3>Immerse yourself in history and architecture:</h3>
 
-* Mysore Palace: This opulent palace is the centerpiece of Mysore and a major tourist attraction. It is a magnificent blend of Hindu, Islamic, Gothic, and Rajput architectural styles. The palace is adorned with intricate carvings, beautiful paintings, and stunning stained glass windows. During the Dasara festival, the palace is illuminated with over 100,000 light bulbs, creating a breathtaking spectacle.
-* Somnathpur Temple: This 13th-century Hoysala temple is a UNESCO World Heritage Site. It is known for its exquisite carvings and sculptures, which depict scenes from Hindu mythology.
-* Jaganmohan Palace: This 19th-century palace is now an art gallery that houses a collection of paintings, sculptures, and artifacts.
-* Railway Museum: This museum is a great place to learn about the history of railways in India. It houses a collection of locomotives, carriages, and railway memorabilia.
+1. Mysore Palace: This opulent palace is the centerpiece of Mysore and a major tourist attraction. It is a magnificent blend of Hindu, Islamic, Gothic, and Rajput architectural styles. The palace is adorned with intricate carvings, beautiful paintings, and stunning stained glass windows. During the Dasara festival, the palace is illuminated with over 100,000 light bulbs, creating a breathtaking spectacle.
+2. Somnathpur Temple: This 13th-century Hoysala temple is a UNESCO World Heritage Site. It is known for its exquisite carvings and sculptures, which depict scenes from Hindu mythology.
+3. Jaganmohan Palace: This 19th-century palace is now an art gallery that houses a collection of paintings, sculptures, and artifacts.
+4. Railway Museum: This museum is a great place to learn about the history of railways in India. It houses a collection of locomotives, carriages, and railway memorabilia.
 
 <h3>Explore nature:</h3>
 
-* Brindavan Gardens: These beautiful gardens are located on the banks of the Kaveri River. They are famous for their musical fountains, flower shows, and illuminated walkways.
-* Karanji Lake: This is a scenic lake located in the heart of the city. It is a great place to go for a boat ride or simply relax and enjoy the scenery.
-* Shivanasamudra Falls: These waterfalls are located about 80 km from Mysore. They are one of the biggest waterfalls in India and offer a spectacular view.
+1. Brindavan Gardens: These beautiful gardens are located on the banks of the Kaveri River. They are famous for their musical fountains, flower shows, and illuminated walkways.
+2. Karanji Lake: This is a scenic lake located in the heart of the city. It is a great place to go for a boat ride or simply relax and enjoy the scenery.
+3. Shivanasamudra Falls: These waterfalls are located about 80 km from Mysore. They are one of the biggest waterfalls in India and offer a spectacular view.
 
 <h3>Have fun with family and friends:</h3>
 
-* Sri Chamarajendra Zoological Gardens: Also known as Mysuru Zoo, this is one of the oldest zoos in India, established in 1892. It houses a wide variety of animals and birds, including lions, tigers, elephants, and giraffes. This is the only zoo in India to host Gorillas as they are not native to India.
-* GRS Fantasy Park: This amusement park is a great place to have fun with family and friends. It has a variety of rides, games, and shows.
-* Lokaranjan Aqua World Underwater Zoo: Lokaranjan Aqua World in Mysore stands as the ultimate destination for tourists, offering an unrivaled pinnacle of aquatic exploration. As the city’s premier attraction, the Underwater Zoo features a diverse showcase of rare marine species, including exotic fish, sea turtles, sharks, and rays—all poised to captivate tourists of all ages. To enhance this destination, India’s longest underwater tunnel takes center stage—an engineering marvel that provides an extraordinary, up-close encounter with marine life in their natural habitats. Positioned as Mysore’s ultimate adventure, Lokaranjan Aqua World seamlessly blends entertainment and education, making it a must-visit locale for tourists seeking an unforgettable and immersive experience in the heart of the city.
+1. Sri Chamarajendra Zoological Gardens: Also known as Mysuru Zoo, this is one of the oldest zoos in India, established in 1892. It houses a wide variety of animals and birds, including lions, tigers, elephants, and giraffes. This is the only zoo in India to host Gorillas as they are not native to India.
+2. GRS Fantasy Park: This amusement park is a great place to have fun with family and friends. It has a variety of rides, games, and shows.
+3. Lokaranjan Aqua World Underwater Zoo: Lokaranjan Aqua World in Mysore stands as the ultimate destination for tourists, offering an unrivaled pinnacle of aquatic exploration. As the city’s premier attraction, the Underwater Zoo features a diverse showcase of rare marine species, including exotic fish, sea turtles, sharks, and rays—all poised to captivate tourists of all ages. To enhance this destination, India’s longest underwater tunnel takes center stage—an engineering marvel that provides an extraordinary, up-close encounter with marine life in their natural habitats. Positioned as Mysore’s ultimate adventure, Lokaranjan Aqua World seamlessly blends entertainment and education, making it a must-visit locale for tourists seeking an unforgettable and immersive experience in the heart of the city.
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"

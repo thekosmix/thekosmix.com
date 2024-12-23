@@ -14,6 +14,7 @@ Earlier the wettest place on the Earth, [Cherrapunji](https://www.justwravel.com
 The misty valleys and the waterfalls in the region make a long drive through Cherrapunji ideal for those who love road trips. The breathtaking panoramic views of the valley and waterfalls such as the famous Nohkalikai Waterfalls are wonderful experiences to be had during the sunny winter days. For those with a bit of time on their hands, the town of Dawki at the border with Bangladesh offers a wonderful clearwater boating experience in the winter season.
 
 <h2>Places to visit in Cherrapunji</h2>
+
 1. Nohkalikai Falls: Nohkalikai Falls is one of the tallest waterfalls in India, making it a great place to visit.
 2. Mawsmai Cave: Mawsmai Cave is a limestone cave located near Cherrapunji, making it a great place to explore.
 3. Seven Sisters Falls: Seven Sisters Falls is a beautiful waterfall located near Cherrapunji, making it a great place to visit.

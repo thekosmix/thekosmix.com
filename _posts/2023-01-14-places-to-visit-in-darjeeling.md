@@ -22,6 +22,7 @@ Over 86 tea estates in Darjeeling are responsible for producing the worldwide fa
 The third highest peak in the world and the highest in India, the Kanchenjunga peak, is visible from here, and you can enjoy a panoramic view of the peak. Some of Darjeeling's most popular attractions include monasteries, botanical gardens, a zoo, and the Darjeeling-Rangeet Valley Passenger Ropeway cable car, which is the longest Asian cable car. Tiger Hill is a fantastic spot to see the sunrise over the mountains in all its fiery glory. 
 
 <h2>Things to do in Darjeeling</h2>
+
 1. Sightseeing: Darjeeling is home to a variety of attractions, including the Tiger Hill, the Batasia Loop, and the Ghoom Monastery.
 2. Trekking: Darjeeling is home to a variety of trekking trails, making it a great place to explore the area.
 3. Adventure Sports: Darjeeling is a great place for adventure sports, such as paragliding, rock climbing, and zip-lining.

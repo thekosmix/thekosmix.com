@@ -14,6 +14,7 @@ North Sikkim is a district in the Indian state of Sikkim. It is known for its st
 Additionally, the district is home to a number of shopping centers, such as the M.G. Marg and the Lal Bazaar. North Sikkim is also home to a number of parks and gardens, such as the Kyongnosla Alpine Sanctuary and the Shingba Rhododendron Sanctuary. Additionally, the district is home to a number of adventure activities, such as trekking, mountain biking, and paragliding.
 
 <h2>Things to do in North Sikkim</h2>
+
 1. Trekking: North Sikkim is home to a variety of trekking trails, making it a great place to explore the area.
 2. Sightseeing: North Sikkim is home to a variety of attractions, including the Yumthang Valley, the Gurudongmar Lake, and the Katao Valley.
 3. Adventure Sports: North Sikkim is a great place for adventure sports, such as paragliding, rock climbing, and zip-lining.

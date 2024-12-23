@@ -22,6 +22,7 @@ Although the temperature drops below - 30 degrees and heavy snow makes it almost
 It’s no secret that the best route for Spiti valley in winter is via Shimla because the route stays open throughout the year and only closes if there is heavy snowfall. Apart from that, you get to glimpse at the beautiful valleys and meadows en-route while driving on the Hindustan-Tibet highway which is an amazing experience on its own. Not to mention that the gradual ascend towards the higher altitude through this road makes your body adapt to the conditions easily and with comfort. 
 
 <h2>Places to visit in Spiti Valley</h2>
+
 1. Key Monastery: Located in the Spiti Valley, the Key Monastery is one of the oldest and most important monasteries in the region.
 2. Dhankar Monastery: Located in the Dhankar village, this monastery is perched atop a hill and offers stunning views of the valley.
 3. Kunzum Pass: This high-altitude mountain pass is a popular destination for trekkers and offers breathtaking views of the Himalayas.

@@ -14,6 +14,7 @@ East Sikkim is a district in the Indian state of Sikkim. It is known for its stu
 The rich greenery, entrancing valleys, delightful lakes, numerous old monasteries and temples enhance East Sikkim drawing in a large number of vacationers. East Sikkim is also home to a number of cultural attractions, such as the Namchi Monastery, the Tashi View Point, and the Char Dham. Additionally, the district is home to a number of shopping centers, such as the M.G. Marg and the Lal Bazaar.
 
 <h2>Things to do in East Sikkim</h2>
+
 1. Trekking: East Sikkim is home to a variety of trekking trails, making it a great place to explore the area.
 2. Sightseeing: East Sikkim is home to a variety of attractions, including the Rumtek Monastery, the Tsomgo Lake, and the Nathu La Pass.
 3. Adventure Sports: East Sikkim is a great place for adventure sports, such as paragliding, rock climbing, and zip-lining.

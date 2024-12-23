@@ -11,18 +11,18 @@ Jibhi is a small village in the Banjar Valley of Himachal Pradesh, India. It is 
 
 Jibhi is a popular destination for tourists who want to experience the beauty of the Himalayas. There are many things to do in Jibhi, including:
 
-* Hiking: There are several hiking trails in the area, ranging from easy to challenging. Some popular trails include the trek to Chehni Kothi, the Jibhi Waterfalls, and the Jalori Pass.
-* Camping: There are several camping sites in the area, where you can enjoy the peace and quiet of the mountains.
-* Wildlife viewing: The area is home to a variety of wildlife, including deer, monkeys, and birds. You can go for a nature walk or bird watching to spot some of the local wildlife.
-* Visiting temples: There are several temples in the area, including the Shringa Rishi Temple, the Balu Nag Temple, and the Raghupur Fort.
+1. Hiking: There are several hiking trails in the area, ranging from easy to challenging. Some popular trails include the trek to Chehni Kothi, the Jibhi Waterfalls, and the Jalori Pass.
+2. Camping: There are several camping sites in the area, where you can enjoy the peace and quiet of the mountains.
+3. Wildlife viewing: The area is home to a variety of wildlife, including deer, monkeys, and birds. You can go for a nature walk or bird watching to spot some of the local wildlife.
+4. Visiting temples: There are several temples in the area, including the Shringa Rishi Temple, the Balu Nag Temple, and the Raghupur Fort.
 
 <h2>Places to visit in Jibhi</h2>
 The best time to visit Jibhi is during the summer (June to September) or the spring (March to May). The weather is pleasant during these months, and there are plenty of things to do. Here are some additional details about the places to visit in Jibhi:
 
-* Jibhi Waterfalls: The Jibhi Waterfalls are a series of waterfalls located in the Jibhi Valley. The tallest waterfall is about 100 meters (330 feet) high.
-* Chehni Kothi: Chehni Kothi is a 40-meter (130-foot) high tower located in the Chehni Village. The tower was built in the 17th century, and offers stunning views of the surrounding mountains.
-* Serolsar Lake: Serolsar Lake is a beautiful lake located at an altitude of 2,700 meters (8,900 feet) above sea level. The lake is surrounded by pine forests, and is a popular spot for hiking, camping, and fishing.
-* Jalori Pass: Jalori Pass is a mountain pass located at an altitude of 3,050 meters (10,010 feet) above sea level. The pass connects the Kullu Valley with the Chamba Valley.
+1. Jibhi Waterfalls: The Jibhi Waterfalls are a series of waterfalls located in the Jibhi Valley. The tallest waterfall is about 100 meters (330 feet) high.
+2. Chehni Kothi: Chehni Kothi is a 40-meter (130-foot) high tower located in the Chehni Village. The tower was built in the 17th century, and offers stunning views of the surrounding mountains.
+3. Serolsar Lake: Serolsar Lake is a beautiful lake located at an altitude of 2,700 meters (8,900 feet) above sea level. The lake is surrounded by pine forests, and is a popular spot for hiking, camping, and fishing.
+4. Jalori Pass: Jalori Pass is a mountain pass located at an altitude of 3,050 meters (10,010 feet) above sea level. The pass connects the Kullu Valley with the Chamba Valley.
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.justwravel.com/"
