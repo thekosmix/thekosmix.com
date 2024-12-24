@@ -18,7 +18,7 @@ comments: true
 
         <p>The pictures in my blog are unaltered with no filter or any cosmetic changes. I capture them with my phone camera and upload them as is. So that when you visit these places after seeing these photos, they justify your expectation unlike those shiny insta posts which often ruin the experience.</p>
         
-        <p>Below are few places covered by me in India. So far I've been to total 26 states and UTs. I also contribute on Google Maps. My shared images & posts have more than <a href="https://www.google.co.in/maps/contrib/118147622802569594383" target="_blank">30Mn+ views</a><p>
+        <p>Below are few places covered by me in India. So far I've explored 27 states and UTs out of 36. I also contribute on Google Maps. My shared images & posts have more than <a href="https://www.google.co.in/maps/contrib/118147622802569594383" target="_blank">31Mn+ views</a><p>
 
         <table>
             <tr>
