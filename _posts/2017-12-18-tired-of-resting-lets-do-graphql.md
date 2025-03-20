@@ -6,7 +6,9 @@ categories: [ Tech ]
 image: assets/images/graphql.jpeg
 ---
 ## Why "tired of RESTing"?
-The way REST works is just great. Different endpoints for different resources, looks neat. But when we have to give out a composition of these resources, we face these three problems:
+The way REST works is just great. Different endpoints for different resources, looks neat. 
+
+But when we have to give out a composition of these resources, we face these three problems:
 
 ### Multiple http calls to the API servers:
 Eg: Consider a micro-blogging platform for example. When you have to display a user's detail on left pane, his/her posts in middle and below them the comments, you have to hit the server thrice (at least):

@@ -5,7 +5,9 @@ author: sid
 categories: [ Thoughts ]
 image: assets/images/shiv-ling.jpg
 ---
-Is it wrong to offer milk to Shiv ling? Many feel so, specially the youth. Even I agree to it. They say it's better to offer the milk to a poor rather than pouring it on a stone. But I've barely seen anyone supporter of this, offering even an ounce of milk to a poor on the day of Maha Shivratri(or any day for that matters).
+Is it wrong to offer milk to Shiv ling? Many feel so, specially the youth. Even I agree to it. 
+
+They say it's better to offer the milk to a poor rather than pouring it on a stone. But I've barely seen anyone supporter of this, offering even an ounce of milk to a poor on the day of Maha Shivratri(or any day for that matters).
 
 ![placeholder](/assets/images/shiv-ling.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 

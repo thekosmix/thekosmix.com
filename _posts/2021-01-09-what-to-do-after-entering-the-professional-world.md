@@ -5,7 +5,9 @@ author: sid
 categories: [ Thoughts ]
 image: assets/images/professional.png
 ---
-Congrats, you're a college grad now and entered the world of professionalism. A lot of you still have't figured it out yet what to do next apart from following office's daily routine. Few of you tend to explore a lot things to keep themselves busy, while others just go with the flow. Well, I was one of you once. I was guided by many mentors on this and here it is
+Congrats, you're a college grad now and entered the world of professionalism. 
+
+But a lot of you still have't figured it out yet what to do next apart from following office's daily routine. Few of you tend to explore a lot things to keep themselves busy, while others just go with the flow. Well, I was one of you once. I was guided by many mentors on this and here it is
 
 ## 1. Never ever stop learning
 You may have been told that learning will stop after college, but it's not true. Once you start working on some project, you'll realise there's so much we weren't taught in the college. There's so much to learn. We now live in a fast paced world, everything is constantly evolving around us. The only way to be on top is to learn, learn and learn. Develop reading as a hobby. Read books & blogs and experiment with whatever you've learned. Simple reading won't help. Here's a [list of books](https://www.goodreads.com/review/list/35878121-siddharth-kumar) that I admire the most. Follow industry leaders on Linkedin to learn from them. Here's a list for you:

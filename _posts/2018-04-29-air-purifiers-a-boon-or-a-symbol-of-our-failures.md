@@ -5,7 +5,9 @@ author: sid
 categories: [ Thoughts ]
 image: assets/images/air-purifier.webp
 ---
-I grew up watching ads for water purifiers. It always started with a school-kid drinking regular tap water and getting sick. Then the child gets healthier when he/she starts drinking water from an RO filter and starts winning awards in school competitions. This created a perception in my mind,
+I grew up watching ads for water purifiers. It always started with a school-kid drinking regular tap water and getting sick. 
+
+Then the child gets healthier when he/she starts drinking water from an RO filter and starts winning awards in school competitions. This created a perception in my mind,
 
 **“It’s water, it’s dirty and non-drinkable unless processed via a water-purifier”**. I even have one installed at my home.
 

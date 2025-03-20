@@ -6,7 +6,9 @@ categories: [ Tech ]
 image: assets/images/ubuntu-touch.webp
 ---
 ## What is Ubuntu Touch
-[Ubuntu Touch](https://ubuntu-touch.io/) is a mobile version of the [Ubuntu](https://ubuntu.com/) operating system, now being developed by the [UBports community](https://ubports.com/en/). Imagine a mobile OS built on the familiar and powerful Linux foundation. That’s Ubuntu Touch in a nutshell. It offers a desktop-like experience on your tablet/phone, complete with multitasking capabilities and a focus on security and privacy. Unlike the usual Android or iOS, Ubuntu Touch is open-source, meaning anyone can peek under the hood and contribute to its development.
+[Ubuntu Touch](https://ubuntu-touch.io/) is a mobile version of the [Ubuntu](https://ubuntu.com/) operating system, now being developed by the [UBports community](https://ubports.com/en/). 
+
+Imagine a mobile OS built on the familiar and powerful Linux foundation. That’s Ubuntu Touch in a nutshell. It offers a desktop-like experience on your tablet/phone, complete with multitasking capabilities and a focus on security and privacy. Unlike the usual Android or iOS, Ubuntu Touch is open-source, meaning anyone can peek under the hood and contribute to its development.
 
 ![placeholder](/assets/images/ut-privacy.webp){:style="display:block; margin-left:auto; margin-right:auto"}
 

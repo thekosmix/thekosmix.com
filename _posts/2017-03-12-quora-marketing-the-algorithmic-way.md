@@ -5,7 +5,9 @@ author: sid
 categories: [ Tech ]
 image: assets/images/quora.jpeg
 ---
-What does it take to become [the most viewed writer](http://www.quora.com/profile/Siddharth-Kumar-5) on Quora? The answer is "A simple Math" and of course a little bit of creative writing. I've tried it with my previous startup: [StrollUp](https://www.strollup.in/) and here is my learning:
+What does it take to become [the most viewed writer](http://www.quora.com/profile/Siddharth-Kumar-5) on Quora? The answer is "A simple Math" and of course a little bit of creative writing. 
+
+I've tried it with my previous startup: [StrollUp](https://www.strollup.in/) and here is my learning:
 
 ![placeholder](/assets/images/quora-top-viewer.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
 

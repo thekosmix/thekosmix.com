@@ -6,7 +6,9 @@ categories: [ Tech ]
 image: assets/images/typescript.jpeg
 ---
 ## What are Decorators in Typescript
-Just like we have [@annotations](https://www.baeldung.com/spring-core-annotations) in Java Universe (Spring), we have [@decorators](https://www.typescriptlang.org/docs/handbook/decorators.html) in Node.js (TypeScript) universe. These 2 enable us to abstract out redundant and non business related code like caching, logging, validity of parameters and a lot more.
+Just like we have [@annotations](https://www.baeldung.com/spring-core-annotations) in Java Universe (Spring), we have [@decorators](https://www.typescriptlang.org/docs/handbook/decorators.html) in Node.js (TypeScript) universe. 
+
+These 2 enable us to abstract out redundant and non business related code like caching, logging, validity of parameters and a lot more.
 
 From [TypeScriptLang](https://www.typescriptlang.org/docs/handbook/decorators.html)
 

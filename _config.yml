@@ -3,8 +3,8 @@ name: "thekosmix"
 url: "https://www.thekosmix.com"
 title: "Experiences of a life well lived"
 description: "We all have some thoughts to share with the world. This blog is my personal thoughts on things around me."
-logo: 'assets/images/home.ico'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/profile.png'
+favicon: 'assets/images/profile.png'
 svg: 'assets/images/thekosmix.svg'
 baseurl: ''
 google_analytics: 'UA-42873902-1'

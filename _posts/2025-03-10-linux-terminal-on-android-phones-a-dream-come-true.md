@@ -5,7 +5,9 @@ author: sid
 categories: [ Tech ]
 image: assets/images/terminal.png
 ---
-In today's fast-paced world, carrying multiple devices for different needs is becoming increasingly cumbersome. What if you could consolidate your digital and developer life into just one device? Imagine using a single device for entertainment, staying productive on the go, and even accessing the power of a Linux terminal for your development work. Well, that dream might be closer than you think, thanks to Google's exciting development: a Linux Terminal app for Android!
+In today's fast-paced world, carrying multiple devices for different needs is becoming increasingly cumbersome. 
+
+What if you could consolidate your digital and developer life into just one device? Imagine using a single device for entertainment, staying productive on the go, and even accessing the power of a Linux terminal for your development work. Well, that dream might be closer than you think, thanks to Google's exciting development: a Linux Terminal app for Android!
 
 ![placeholder](/assets/images/terminal-frustrated-guy.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
 
