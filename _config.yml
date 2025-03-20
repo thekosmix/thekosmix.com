@@ -1,8 +1,8 @@
 # Site
 name: "thekosmix"
 url: "https://www.thekosmix.com"
-title: "Experiences of a Traveller"
-description: "Travel experiences gained throughout my journey. From snowy mountains of Himalayas and beaches of western ghats to lush greenery of jungles on eastern India."
+title: "Experiences of a life well lived"
+description: "We all have some thoughts to share with the world. This blog is my personal thoughts on things around me."
 logo: 'assets/images/home.ico'
 favicon: 'assets/images/favicon.ico'
 svg: 'assets/images/thekosmix.svg'
@@ -15,11 +15,11 @@ environment: 'production'
 social_share: disabled
 soopr_share: enabled
 jumbotron: disabled
-chat: disabled
+chat: enabled
 
 disqus: 
   name: 'thekosmix'
-  comment: 'disabled'
+  comment: 'enabled'
 
 # Authors
 authors:
@@ -50,13 +50,9 @@ redirect_from:
 jekyll-archives:
   enabled:
     - categories
-    - tags
-    - year
   layout: archive
   permalinks:
-    category: '/trips-and-travel-categories/:name/'
-    tag: '/places-to-visit-in-indian-states/:name/'
-    year: '/trips-yearbook/:year/'
+    category: '/categories/:name/'
     
 # Pagination 
 paginate: 6
