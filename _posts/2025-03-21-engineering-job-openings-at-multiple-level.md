@@ -36,7 +36,9 @@ There are multiple organisation looking for great talent at every level.
 If you're interested in any of the organisaation:
 1. Apply directly on the career page or
 2. Comment on this blog post or
-3. Send an email at siddharth.dce08@gmail.com with subject "Job-2025" or
+3. Send an email at siddharth@thekosmix.com with subject "Job-2025" or
 4. Send a DM on [Linkedin](https://www.linkedin.com/in/kumarsiddharth/)
 
-with your name, company you're interested in, role profile you want to apply for and resume link 
+with your name, company you're interested in, role profile you want to apply for, job link and resume link.
+
+Please check the eligibility criteria, if you're not satisfying it, please wait for some more opportunities to come and keep checking back this blog post. I'll keep updating it as and when opportunities arrive.
