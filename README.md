@@ -18,4 +18,4 @@ Jekyll creates a static blog with many features like
  - checkout the [thekosmix/firebase](https://github.com/thekosmix/firebase) repo and setup firebase-cli
  - ensure that thekosmix.com and above repo are in the same folder and at the same level
  - Go inside the folder thekosmix.com and run command ```bundle exec jekyll clean && bundle exec jekyll build```
- - Go inside the folder firebase and run command ```firebase deploy --only hosting```
+ - Go inside the folder firebase and run command ```firebase deploy --only hosting:thekosmix.com```
