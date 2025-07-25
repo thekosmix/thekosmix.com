@@ -130,8 +130,8 @@ post_class: post-template
                 
             {% assign nextExcl = page.next %}
             {% for counter in (0..999) %}
-                {% if nextExcl and (nextExcl.hidden == false) %}
-                    {% break %}
+                {% if nextExcl and nextExcl.hidden == nil %}
+                        {% break %}
                 {% endif %}
                 {% assign nextExcl = nextExcl.next %}
             {% endfor %}
@@ -141,12 +141,11 @@ post_class: post-template
 
             {% assign prevExcl = page.previous %}
             {% for counter in (0..999) %}
-                {% if prevExcl and (prevExcl.hidden == false) %}
+                {% if prevExcl and prevExcl.hidden == nil %}
                     {% break %}
                 {% endif %}
                 {% assign prevExcl = prevExcl.previous %}
             {% endfor %}
-            
             {% if prevExcl.url %}
             <a class="next d-block col-md-6 text-lg-right" href="{{prevExcl.url}}">{{prevExcl.title}} &raquo; </a>
             {% endif %}
