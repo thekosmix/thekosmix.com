@@ -20,4 +20,7 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'jekyll-redirect-from'
     gem 'jekyll-minifier'
+    gem 'csv'
+    gem 'base64'
+    gem 'bigdecimal'
 end
