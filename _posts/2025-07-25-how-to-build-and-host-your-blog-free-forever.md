@@ -11,7 +11,7 @@ Blogging is a soothing way to share you experiences and opinions with the world.
 Many people want to do it with a lot of features like comments, chat, albums etc, but their cost can mount up for individual services. I'll share how I run multiple blogs that too for free with the features mentiond above and some more. I only pay for domain names and nothing else.
 
 ## Get (Buy) a domain name
-I use [GoDaddy](godaddy.com) to get the domains as their UX is simple comapred to others I've used in past. This is the only money you'll have to spend. Also, GoDaddy provides free website creator tool as well which you can explore to create your own blog.
+I use [GoDaddy](https://godaddy.com) to get the domains as their UX is simple comapred to others I've used in past. This is the only money you'll have to spend. Also, GoDaddy provides free website creator tool as well which you can explore to create your own blog.
 
 ## Create a blog
 While there are multiple online tools like wordpress, I prefer static site generators like [jekyll](https://jekyllrb.com/). I found it simple to work offline, easy to setup, update themes and adding plugins for a lot of things. The [installation](https://jekyllrb.com/docs/) is also pretty simple.
@@ -27,7 +27,7 @@ disqus:
 ```
 
 #### Photo album with carousel
-This is interesting as you can use a public album created on your google photos to add as an album on your blog. No need o upload/download photos anywhere. I use [publicalbum](publicalbum.org/blog/embed-photos-slideshow-carousel-widget) for that, it provides a good carousel widget out of your public albums. All it takes is a public album URL and gives out the code for album within few seconds. You can change the album cover, remove the photos, change dimension and much more.
+This is interesting as you can use a public album created on your google photos to add as an album on your blog. No need o upload/download photos anywhere. I use [publicalbum](https://publicalbum.org/blog/embed-photos-slideshow-carousel-widget) for that, it provides a good carousel widget out of your public albums. All it takes is a public album URL and gives out the code for album within few seconds. You can change the album cover, remove the photos, change dimension and much more.
 
 #### Chat for your readers to reach you
 I use [Zendesk Sunshine Conversations](https://app.smooch.io/login) (formerly Smooch) to integrate a chat interface on my blog. With just few lines of code additions and some configuration, you'll get an end-to-end chat support to be integrated on every page of your blog and backend to reply to your customer with slack.

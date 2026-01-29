@@ -58,5 +58,5 @@ Till now I haven’t missed Macbook (had it been using it for more than 7 years)
 <u>PS:</u> These are my experiences and can be different for folks out there.
 
 ## Sources
-* <a href="https://www.lifewire.com/chromebook-vs-macbook-5080763" target="_blank">Chromebook vs Macbook</a>
-* <a href="https://www.rswebsols.com/laptop-vs-chromebook" target="_blank">Chromebook vs Laptop: Which One is Better to Whom?</a>
+* <a href="https://www.reddit.com/r/chromeos/comments/1fwwu3l/why_should_i_get_a_chromebook_over_a_macbook_air/" target="_blank">Chromebook vs Macbook</a>
+* <a href="https://discussions.apple.com/thread/256064702?sortBy=rank" target="_blank">Chromebook vs Laptop: Which One is Better to Whom?</a>
