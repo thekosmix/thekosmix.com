@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What to do after entering the professional world?"
+description: "Practical career advice for recent college graduates entering the professional world, focusing on continuous learning, self-development, and mentorship."
 author: sid
 categories: [ Thoughts ]
 image: assets/images/professional.png

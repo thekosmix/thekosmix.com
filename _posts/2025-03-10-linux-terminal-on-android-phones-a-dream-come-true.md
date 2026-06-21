@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Linux terminal on Android phones: A dream come true for Developers and Parents"
+description: "Discover how Google's official Linux Terminal support in Android is transforming mobile phones into powerful, portable development environments for engineers."
 author: sid
 categories: [ Tech ]
 image: assets/images/terminal.png

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Air purifiers: A boon or a symbol of our failures?"
+description: "A thoughtful critique of our reliance on air and water purifiers, reflecting on environmental degradation, marketing tactics, and a lost connection to nature."
 author: sid
 categories: [ Thoughts ]
 image: assets/images/air-purifier.webp

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How I built an app using Gemini and Qwen"
+description: "Read my journey of building Activity Logger, a React Native (Expo) app from scratch, using Gemini and Qwen AI assistants to generate the entire codebase."
 author: sid
 categories: [ Tech ]
 image: assets/images/gemini-qwen.png

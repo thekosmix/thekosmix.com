@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "I switched from MacBook Pro to Chromebook plus and I love it"
+description: "My firsthand experience switching from a MacBook Pro to a Chromebook Plus, detailing how Linux integration and custom shortcuts make it great for development."
 author: sid
 categories: [ Tech ]
 image: assets/images/chrome-vs-mac.webp

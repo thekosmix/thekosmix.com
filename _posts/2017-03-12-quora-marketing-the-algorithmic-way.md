@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Quora Marketing: the algorithmic way"
+description: "Discover how to leverage basic math, creative writing, and Quora's algorithm to become a top writer and build a successful marketing channel for your startup."
 author: sid
 categories: [ Tech ]
 image: assets/images/quora.jpeg

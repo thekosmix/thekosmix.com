@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Engineering job openings in 2025"
+description: "A curated list of active engineering job openings in 2025 at companies like LaunchDarkly, Acko, and Alltius, including locations and details on how to apply."
 author: sid
 categories: [ Tech ]
 image: assets/images/job-opening.jpg

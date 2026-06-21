@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Why to build your chat bot on facebook messenger?"
+description: "An analysis of the benefits and realities of building chatbots on Facebook Messenger, exploring user reach, acquisition channels, and platform potential."
 author: sid
 categories: [ Tech ]
 image: assets/images/fb-messenger.jpeg

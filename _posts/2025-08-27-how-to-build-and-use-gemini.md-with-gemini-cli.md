@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to build and use GEMINI.md with gemini-cli"
+description: "Bust the myth that LLMs cannot handle existing codebases. Learn how to use Gemini-CLI with a GEMINI.md context file to refactor a legacy PHP codebase."
 author: sid
 categories: [ Tech ]
 image: assets/images/gemini.png

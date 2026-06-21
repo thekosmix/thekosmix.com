@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Are super apps really dead? Amazon: My go-to super app"
+description: "A breakdown of why Amazon functions as a highly successful super-app in India, highlighting its exceptional user experience (UX) and multi-service integration."
 author: sid
 categories: [ Thoughts ]
 image: assets/images/amazon.png

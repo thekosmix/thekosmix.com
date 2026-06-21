@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My experience with Ubuntu Touch: an open source linux OS for mobile"
+description: "An in-depth review of Ubuntu Touch, the open-source mobile Linux OS, detailing its user experience, privacy advantages, and the concept of convergence."
 author: sid
 categories: [ Tech ]
 image: assets/images/ubuntu-touch.webp

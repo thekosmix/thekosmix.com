@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Our planet is dying and it’s because of the fishing industry"
+description: "An eye-opening look at how the commercial fishing industry is driving oceanic collapse and why protecting our oceans is critical to human survival and ecology."
 author: sid
 categories: [ Thoughts ]
 image: assets/images/water-pollution.webp

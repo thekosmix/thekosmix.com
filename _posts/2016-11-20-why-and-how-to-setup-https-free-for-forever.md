@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Why and how to setup HTTPS (free for forever)"
+description: "Learn why HTTPS is crucial for SEO, data encryption, and trust, and get a complete step-by-step guide on how to set it up for your website free, forever."
 author: sid
 categories: [ Tech ]
 image: assets/images/https.jpeg

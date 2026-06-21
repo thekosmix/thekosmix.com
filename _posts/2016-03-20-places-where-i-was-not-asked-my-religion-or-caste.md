@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Places where I wasn't asked my Religion or Caste"
+description: "Reflections on visiting unique places in India, like Mahima Ministries in Hyderabad, where human connection overrides divisions of religion and caste."
 author: sid
 categories: [ Thoughts ]
 image: assets/images/mahima1.jpg

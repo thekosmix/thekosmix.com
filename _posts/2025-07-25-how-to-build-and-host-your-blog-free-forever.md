@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to build and host your blog free forever"
+description: "A step-by-step guide to building and hosting your personal blog for free using static site generators like Jekyll, without paying for anything but your domain."
 author: sid
 categories: [ Tech ]
 image: assets/images/blog.webp

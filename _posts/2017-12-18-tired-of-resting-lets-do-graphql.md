@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Tired of RESTing? Let's do GraphQL"
+description: "Explore the limitations of REST API architecture, such as multiple HTTP requests, and how GraphQL solves these problems with efficient resource compositions."
 author: sid
 categories: [ Tech ]
 image: assets/images/graphql.jpeg

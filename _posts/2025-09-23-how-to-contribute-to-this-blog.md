@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to contribute to this Blog"
+description: "A walkthrough of how to contribute to my personal and travel blogs, including setting up Jekyll locally, writing posts in Markdown, and sending pull requests."
 author: sid
 categories: [ Tech ]
 image: assets/images/blog-contribution.png

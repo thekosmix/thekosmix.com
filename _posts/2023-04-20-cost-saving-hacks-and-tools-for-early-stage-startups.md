@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Cost saving hacks and tools for early stage startups"
+description: "Explore practical cost-saving strategies, hacks, and open-source tools for early-stage startups looking to optimize their AWS infra and marketing expenses."
 author: sid
 categories: [ Tech ]
 image: assets/images/cost.jpeg

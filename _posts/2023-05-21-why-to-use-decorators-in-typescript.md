@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Why to use decorators in Typescript?"
+description: "Learn what TypeScript decorators are and how they help clean up your codebase by abstracting away redundant tasks like caching, logging, and validation."
 author: sid
 categories: [ Tech ]
 image: assets/images/typescript.jpeg

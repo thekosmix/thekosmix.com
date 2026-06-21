@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Is it wrong to offer milk to Shiv ling?"
+description: "An analytical look at the religious practice of offering milk to Shiv ling, discussing its socio-economic context and the business ecosystem around temples."
 author: sid
 categories: [ Thoughts ]
 image: assets/images/shiv-ling.jpg
